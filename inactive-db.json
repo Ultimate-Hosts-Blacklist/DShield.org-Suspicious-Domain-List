@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1521458338": [
-            "039b1ee.netsolhost.com",
+        "1521805645": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -154,6 +153,7 @@
             "4kqd3hmqgptupi3p.nameuser.site",
             "4kqd3hmqgptupi3p.nearlybut.us",
             "4kqd3hmqgptupi3p.needmight.win",
+            "4kqd3hmqgptupi3p.newrange.link",
             "4kqd3hmqgptupi3p.nextask.loan",
             "4kqd3hmqgptupi3p.nh47ri.bid",
             "4kqd3hmqgptupi3p.nxmu0x.bid",
@@ -202,7 +202,6 @@
             "4kqd3hmqgptupi3p.yoursdoor.lol",
             "4kqd3hmqgptupi3p.z8ijgn.bid",
             "4kqd3hmqgptupi3p.z97f9v.bid",
-            "4rebaopfgrewe.top",
             "4w5wihkwyhsav2ha.dreamtest.at",
             "4w5wihkwyhsav2ha.fastdances.at",
             "4w5wihkwyhsav2ha.grandhaus.at",
@@ -507,6 +506,7 @@
             "52uo5k3t73ypjije.w8yolm.bid",
             "52uo5k3t73ypjije.wg00sp.bid",
             "52uo5k3t73ypjije.whmykv.bid",
+            "52uo5k3t73ypjije.whosewine.lol",
             "52uo5k3t73ypjije.wht5py.top",
             "52uo5k3t73ypjije.wins4n.win",
             "52uo5k3t73ypjije.wl52rt.bid",
@@ -608,7 +608,6 @@
             "andrei123454321.hopto.org",
             "angryshippflyforok.su",
             "anonghost.ddns.net",
-            "anontwz.xxuz.com",
             "anonymouse37.duckdns.org",
             "ansbase.9966.org",
             "antiviruss.gotdns.ch",
@@ -618,13 +617,13 @@
             "aqgkzf.com",
             "arcelikpendikservisi.gen.tr",
             "arddxjkwrp.xyz",
-            "arta.romail3arnest.info",
             "arvision.com.co",
             "ashleysmith92.hopto.org",
             "ashoesheestono.eu",
             "asz111.3322.org",
             "atikcookies.co.id",
             "atmape.ru",
+            "auto-fx.fr",
             "avsxrcoq2q5fgrw2.13inb1.top",
             "avsxrcoq2q5fgrw2.17vj7b.top",
             "avsxrcoq2q5fgrw2.199ovv.top",
@@ -669,13 +668,11 @@
             "axpoium.echange.su",
             "b.1s2.in.ua",
             "backkek228.ddns.net",
-            "badlywantyou.top",
             "baliwag.xyz",
             "banana.dp.ua",
             "baoshlda.com",
             "barbarosa.ddns.net",
             "barjhxoye.info",
-            "base8.gyddos.com",
             "bayswaternorthkindergarten.vic.edu.au",
             "bbwscimanuk.pdsda.net",
             "bc.xlacb.com",
@@ -722,7 +719,6 @@
             "cash.hi5fotos.info",
             "cc.drshipin.com",
             "ccccc.8jbt.com",
-            "ccosattack.top",
             "ccpmacake.faith",
             "cd31411.tmweb.ru",
             "ceqclr.com",
@@ -776,7 +772,9 @@
             "cerberhhyed5frqa.workju.win",
             "cerberhhyed5frqa.xltnet.win",
             "cerberhhyed5frqa.xmfhr6.win",
-            "cerberhhyed5frqa.xmfir0.top",
+            "cerberhhyed5frqa.xmfir0.top"
+        ],
+        "to_test": [
             "cerberhhyed5frqa.xmfir0.win",
             "cerberhhyed5frqa.xmfjr7.top",
             "cerberhhyed5frqa.xmfkr8.top",
@@ -2254,8 +2252,8 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": []
+            "zxyinternational.net",
+            "039b1ee.netsolhost.com"
+        ]
     }
 }
