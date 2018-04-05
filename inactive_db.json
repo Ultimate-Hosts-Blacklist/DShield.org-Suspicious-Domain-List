@@ -2282,11 +2282,7 @@
             "xianatwork.hopto.org",
             "xiaoaolong.f3322.org",
             "xiaofeng.pw",
-            "xiaokun.site"
-        ],
-        "to_test": [
-            "cjurbf.com",
-            "muse2017.top",
+            "xiaokun.site",
             "xnfguz.com",
             "xpipemotoring.top",
             "xpoenj.com",
@@ -2333,7 +2329,6 @@
             "yyre45dbvn2nhbefbmh.begumvelic.at",
             "yyssc.3322.org",
             "yzgayc.com",
-            "z0bu.dynu.com",
             "z3us1.z-ed.info",
             "z52.no-ip.info",
             "zaakpa.com",
@@ -2351,7 +2346,11 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net",
+            "zxyinternational.net"
+        ],
+        "to_test": [
+            "cjurbf.com",
+            "muse2017.top",
             "039b1ee.netsolhost.com"
         ]
     }
