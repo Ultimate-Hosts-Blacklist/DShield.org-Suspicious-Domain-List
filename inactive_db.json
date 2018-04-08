@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1522927640": [
+        "1523188008": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -675,14 +675,12 @@
             "baoshlda.com",
             "barbarosa.ddns.net",
             "barjhxoye.info",
-            "base8.gyddos.com",
             "bayswaternorthkindergarten.vic.edu.au",
             "bbwscimanuk.pdsda.net",
             "bciuemfaapyf.biz",
             "bddadevlpkwrrmud.xyz",
             "beatyhousesupporte.su",
             "bellinghambar.tk",
-            "bestboy.top",
             "bestdove.in.ua",
             "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at",
             "bfdmka.com",
@@ -793,7 +791,7 @@
             "chromebewfk.top",
             "ciceidr.top",
             "cicero-dropbox.tk",
-            "citointechnologiesalefor.top",
+            "cjurbf.com",
             "cl65.top",
             "classicalbitu.com",
             "clpejp.com",
@@ -806,7 +804,10 @@
             "courierworld.ru",
             "cp53072.cloudhosting.lv",
             "cp53091.cloudhosting.lv",
-            "cpawdrtxfjkwrkkl.pw",
+            "cpawdrtxfjkwrkkl.pw"
+        ],
+        "to_test": [
+            "muse2017.top",
             "cscomnsinc.tk",
             "ctqbrands.com",
             "ctqniq.com",
@@ -2346,11 +2347,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "cjurbf.com",
-            "muse2017.top",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
