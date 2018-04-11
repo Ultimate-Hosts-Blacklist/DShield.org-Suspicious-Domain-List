@@ -2231,10 +2231,7 @@
             "www.loongweed.com",
             "www.lttddos.com",
             "www.lxi3.com",
-            "www.ly212.com"
-        ],
-        "to_test": [
-            "nhhyxorxbxarxe.org",
+            "www.ly212.com",
             "www.malwaresite.org.br",
             "www.maylier.xyz",
             "www.me404.net",
@@ -2340,6 +2337,7 @@
             "zetes.vdsinside.com",
             "zhua.iwnmc.com",
             "zhyravlik.ru",
+            "zirak.no-ip.org",
             "zj.q77y.com",
             "zjaily.com",
             "zllvvk.com",
@@ -2347,7 +2345,10 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net",
+            "zxyinternational.net"
+        ],
+        "to_test": [
+            "nhhyxorxbxarxe.org",
             "039b1ee.netsolhost.com"
         ]
     }
