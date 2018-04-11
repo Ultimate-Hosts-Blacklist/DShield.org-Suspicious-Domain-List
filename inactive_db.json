@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1523188008": [
+        "1523446019": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -681,6 +681,7 @@
             "bddadevlpkwrrmud.xyz",
             "beatyhousesupporte.su",
             "bellinghambar.tk",
+            "bestboy.top",
             "bestdove.in.ua",
             "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at",
             "bfdmka.com",
@@ -791,9 +792,13 @@
             "chromebewfk.top",
             "ciceidr.top",
             "cicero-dropbox.tk",
+            "citointechnologiesalefor.top",
             "cjurbf.com",
             "cl65.top",
-            "classicalbitu.com",
+            "classicalbitu.com"
+        ],
+        "to_test": [
+            "nhhyxorxbxarxe.org",
             "clpejp.com",
             "code.blaztech.gdn",
             "codebacktowork2.tk",
@@ -2347,10 +2352,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "nhhyxorxbxarxe.org",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
