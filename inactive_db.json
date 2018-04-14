@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1523446019": [
+        "1523744320": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -559,6 +559,7 @@
             "94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at",
             "9hrds.wolfcrap.at",
             "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
+            "aa12111.top",
             "aarnknthc.xyz",
             "abaaa.8jbt.com",
             "abvtqhwodwjmi.work",
@@ -787,7 +788,10 @@
             "chambercb.tk",
             "championbft.com",
             "chezhiyasweheropasl.su",
-            "chiara6.no-ip.org",
+            "chiara6.no-ip.org"
+        ],
+        "to_test": [
+            "nhhyxorxbxarxe.org",
             "chinagov.8800.org",
             "chromebewfk.top",
             "ciceidr.top",
@@ -2345,10 +2349,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "nhhyxorxbxarxe.org",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
