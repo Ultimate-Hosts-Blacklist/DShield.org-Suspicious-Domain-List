@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1523744320": [
+        "1524050939": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -205,7 +205,6 @@
             "4kqd3hmqgptupi3p.yoursdoor.lol",
             "4kqd3hmqgptupi3p.z8ijgn.bid",
             "4kqd3hmqgptupi3p.z97f9v.bid",
-            "4w5wihkwyhsav2ha.dreamtest.at",
             "4w5wihkwyhsav2ha.fastdances.at",
             "4w5wihkwyhsav2ha.grandhaus.at",
             "4w5wihkwyhsav2ha.payfactor.at",
@@ -752,7 +751,9 @@
             "cerberhhyed5frqa.gkfit9.top",
             "cerberhhyed5frqa.gkfit9.win",
             "cerberhhyed5frqa.kipfgs65s.com",
-            "cerberhhyed5frqa.lfotp5.top",
+            "cerberhhyed5frqa.lfotp5.top"
+        ],
+        "to_test": [
             "cerberhhyed5frqa.li4loi.win",
             "cerberhhyed5frqa.lib2vi.win",
             "cerberhhyed5frqa.m5fgoi.win",
@@ -2352,9 +2353,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
