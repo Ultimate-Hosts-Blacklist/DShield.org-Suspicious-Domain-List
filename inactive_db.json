@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1524050939": [
+        "1524310209": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -558,7 +558,6 @@
             "94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at",
             "9hrds.wolfcrap.at",
             "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
-            "aa12111.top",
             "aarnknthc.xyz",
             "abaaa.8jbt.com",
             "abvtqhwodwjmi.work",
@@ -722,7 +721,6 @@
             "cash.hi5fotos.info",
             "cc.drshipin.com",
             "ccccc.8jbt.com",
-            "ccosattack.top",
             "ccpmacake.faith",
             "cd31411.tmweb.ru",
             "ceqclr.com",
@@ -752,6 +750,7 @@
             "cerberhhyed5frqa.gkfit9.win",
             "cerberhhyed5frqa.kipfgs65s.com",
             "cerberhhyed5frqa.lfotp5.top",
+            "cerberhhyed5frqa.li4loi.win",
             "cerberhhyed5frqa.lib2vi.win",
             "cerberhhyed5frqa.m5fgoi.win",
             "cerberhhyed5frqa.m5gid4.top",
@@ -784,7 +783,9 @@
             "cerberhhyed5frqa.xtrvb4.win",
             "cerberhhyed5frqa.zgf48j.win",
             "chambercb.tk",
-            "championbft.com",
+            "championbft.com"
+        ],
+        "to_test": [
             "chezhiyasweheropasl.su",
             "chiara6.no-ip.org",
             "chinagov.8800.org",
@@ -2360,10 +2361,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "cerberhhyed5frqa.li4loi.win",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
