@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1524310209": [
+        "1524655819": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -557,6 +557,7 @@
             "8b4bb47tiaolhy4uhhlfaqerg.sofarany.at",
             "94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at",
             "9hrds.wolfcrap.at",
+            "a135.f3322.net",
             "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
             "aarnknthc.xyz",
             "abaaa.8jbt.com",
@@ -668,7 +669,6 @@
             "axpoium.echange.su",
             "b.1s2.in.ua",
             "backkek228.ddns.net",
-            "badlywantyou.top",
             "baliwag.xyz",
             "banana.dp.ua",
             "baoshlda.com",
@@ -680,7 +680,6 @@
             "bddadevlpkwrrmud.xyz",
             "beatyhousesupporte.su",
             "bellinghambar.tk",
-            "bestboy.top",
             "bestdove.in.ua",
             "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at",
             "bfdmka.com",
@@ -783,7 +782,11 @@
             "cerberhhyed5frqa.xtrvb4.win",
             "cerberhhyed5frqa.zgf48j.win",
             "chambercb.tk",
-            "championbft.com",
+            "championbft.com"
+        ],
+        "to_test": [
+            "movieofgoodies.kz",
+            "moviepaidinfullsexy.kz",
             "chezhiyasweheropasl.su",
             "chiara6.no-ip.org",
             "chinagov.8800.org",
@@ -2353,11 +2356,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "movieofgoodies.kz",
-            "moviepaidinfullsexy.kz",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
