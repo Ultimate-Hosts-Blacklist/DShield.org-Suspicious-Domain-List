@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1524655819": [
+        "1525001746": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -676,6 +676,7 @@
             "barjhxoye.info",
             "bayswaternorthkindergarten.vic.edu.au",
             "bbwscimanuk.pdsda.net",
+            "bc.xlacb.com",
             "bciuemfaapyf.biz",
             "bddadevlpkwrrmud.xyz",
             "beatyhousesupporte.su",
@@ -715,7 +716,11 @@
             "bytes.darktech.org",
             "bzzsoy.com",
             "cakessolovely.ca",
-            "campler2.ddns.net",
+            "campler2.ddns.net"
+        ],
+        "to_test": [
+            "chezhiyasweheropasl.su",
+            "vyohacxzoue32vvk.7a07br.bid",
             "canadianonlineagreementservices.kz",
             "cash.hi5fotos.info",
             "cc.drshipin.com",
@@ -2346,11 +2351,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "chezhiyasweheropasl.su",
-            "vyohacxzoue32vvk.7a07br.bid",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
