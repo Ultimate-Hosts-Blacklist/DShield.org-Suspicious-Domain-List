@@ -1,10 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1525001746": [
+        "1525347209": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
             "1.0.a6av.com",
+            "1.hcjm5.cn",
             "1337.zapto.org",
             "1kedipipimi7.duckdns.org",
             "222813337.ddns.net",
@@ -41,7 +42,6 @@
             "2gdb4.leoraorage.at",
             "2ymh2gnnbg6pgq2r.gremsot.pl",
             "2ymh2gnnbg6pgq2r.winregion.tw",
-            "34043.ckddos.com",
             "360.homeunix.com",
             "37kddsserrt.xyz",
             "3qbyaoohkcqkzrz6.bestxprice.ch",
@@ -617,6 +617,7 @@
             "anton0707.ddns.net",
             "apappdd.7766.org",
             "apple-trusted.com",
+            "applesnoutsthings.bid",
             "aqgkzf.com",
             "arcelikpendikservisi.gen.tr",
             "arddxjkwrp.xyz",
@@ -717,11 +718,16 @@
             "bzzsoy.com",
             "cakessolovely.ca",
             "campler2.ddns.net",
+            "canadianonlineagreementservices.kz",
             "cash.hi5fotos.info",
             "cc.drshipin.com",
             "ccccc.8jbt.com",
             "ccpmacake.faith",
-            "cd31411.tmweb.ru",
+            "cd31411.tmweb.ru"
+        ],
+        "to_test": [
+            "l84sq3yzw5.nnnn.eu.org",
+            "lamarpluz.ddns.net",
             "ceqclr.com",
             "cerberhhyed5frqa.305iot.top",
             "cerberhhyed5frqa.305iot.win",
@@ -2370,12 +2376,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "canadianonlineagreementservices.kz",
-            "l84sq3yzw5.nnnn.eu.org",
-            "lamarpluz.ddns.net",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
