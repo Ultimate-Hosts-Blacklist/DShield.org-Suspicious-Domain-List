@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1525692856": [
+        "1526038565": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -547,6 +547,7 @@
             "52uo5k3t73ypjije.zhvlh1.bid",
             "52uo5k3t73ypjije.zxtezv.bid",
             "52uo5k3t73ypjije.zzis8p.bid",
+            "5408sb.com",
             "54g35546-5g6hbggffhb.tk",
             "5rport45vcdef345adfkksawe.bematvocal.at",
             "666.zhi600.com",
@@ -559,7 +560,6 @@
             "9hrds.wolfcrap.at",
             "a135.f3322.net",
             "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
-            "aa12111.top",
             "aarnknthc.xyz",
             "abaaa.8jbt.com",
             "abvtqhwodwjmi.work",
@@ -671,7 +671,6 @@
             "axpoium.echange.su",
             "b.1s2.in.ua",
             "backkek228.ddns.net",
-            "badlywantyou.top",
             "baliwag.xyz",
             "banana.dp.ua",
             "baoshlda.com",
@@ -689,6 +688,7 @@
             "bfdmka.com",
             "bff.7oorq8.com",
             "bfxyyo.com",
+            "bhanufuckingkajal.zapto.org",
             "bhop22.ddns.net",
             "bhttrz.com",
             "bibrath.eu",
@@ -715,7 +715,10 @@
             "burn.settingsdata.store",
             "bwcfinnt.work",
             "bwpegsfa.info",
-            "bxlrywuuobje.pw",
+            "bxlrywuuobje.pw"
+        ],
+        "to_test": [
+            "ghanadetails.pw",
             "bytes.darktech.org",
             "bzzsoy.com",
             "cakessolovely.ca",
@@ -2395,10 +2398,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "ghanadetails.pw",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
