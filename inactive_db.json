@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1526038565": [
+        "1526384520": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -560,6 +560,7 @@
             "9hrds.wolfcrap.at",
             "a135.f3322.net",
             "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
+            "aa12111.top",
             "aarnknthc.xyz",
             "abaaa.8jbt.com",
             "abvtqhwodwjmi.work",
@@ -669,8 +670,10 @@
             "awper2.ddns.net",
             "axnemuevqnstqyflb.work",
             "axpoium.echange.su",
+            "ayoubthex.myftp.biz",
             "b.1s2.in.ua",
             "backkek228.ddns.net",
+            "badlywantyou.top",
             "baliwag.xyz",
             "banana.dp.ua",
             "baoshlda.com",
@@ -683,6 +686,7 @@
             "bddadevlpkwrrmud.xyz",
             "beatyhousesupporte.su",
             "bellinghambar.tk",
+            "bestboy.top",
             "bestdove.in.ua",
             "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at",
             "bfdmka.com",
@@ -721,6 +725,7 @@
             "cakessolovely.ca",
             "campler2.ddns.net",
             "canadianonlineagreementservices.kz",
+            "caonimabi.win",
             "cash.hi5fotos.info",
             "cc.drshipin.com",
             "ccccc.8jbt.com",
@@ -786,7 +791,11 @@
             "cerberhhyed5frqa.xtrvb4.win",
             "cerberhhyed5frqa.zgf48j.win",
             "chambercb.tk",
-            "championbft.com",
+            "championbft.com"
+        ],
+        "to_test": [
+            "gj.jfduo.com",
+            "matt001.tk",
             "chezhiyasweheropasl.su",
             "chiara6.no-ip.org",
             "chinagov.8800.org",
@@ -2394,11 +2403,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "gj.jfduo.com",
-            "matt001.tk",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
