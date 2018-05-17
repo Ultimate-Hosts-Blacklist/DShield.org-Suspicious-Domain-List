@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1526384520": [
+        "1526585317": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -673,7 +673,6 @@
             "ayoubthex.myftp.biz",
             "b.1s2.in.ua",
             "backkek228.ddns.net",
-            "badlywantyou.top",
             "baliwag.xyz",
             "banana.dp.ua",
             "baoshlda.com",
@@ -686,7 +685,6 @@
             "bddadevlpkwrrmud.xyz",
             "beatyhousesupporte.su",
             "bellinghambar.tk",
-            "bestboy.top",
             "bestdove.in.ua",
             "bfd45u8ehdklrfqwlhbhjbgqw.niptana.at",
             "bfdmka.com",
@@ -725,8 +723,11 @@
             "cakessolovely.ca",
             "campler2.ddns.net",
             "canadianonlineagreementservices.kz",
-            "caonimabi.win",
-            "cash.hi5fotos.info",
+            "cash.hi5fotos.info"
+        ],
+        "to_test": [
+            "chezhiyasweheropasl.su",
+            "genteatsss.com",
             "cc.drshipin.com",
             "ccccc.8jbt.com",
             "ccpmacake.faith",
@@ -2416,11 +2417,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "chezhiyasweheropasl.su",
-            "genteatsss.com",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
