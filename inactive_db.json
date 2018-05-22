@@ -1,12 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1526585317": [
+        "1526989445": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
             "1.0.a6av.com",
             "1.hcjm5.cn",
-            "1337.zapto.org",
             "1kedipipimi7.duckdns.org",
             "222813337.ddns.net",
             "27c73bq66y4xqoh7.dorfact.at",
@@ -712,7 +711,9 @@
             "branchtist.com",
             "brausincsystem.pro",
             "breat.ddns.net",
-            "brothersmt2.tk",
+            "brothersmt2.tk"
+        ],
+        "to_test": [
             "burgerspendingbusiness.kz",
             "burn.settingsdata.store",
             "bwcfinnt.work",
@@ -2406,8 +2407,6 @@
             "zudeop.com",
             "zumeeg.com",
             "zxyinternational.net",
-            "039b1ee.netsolhost.com",
-            "bestboy.top",
             "caonimabi.win",
             "cybernet.uz",
             "ddobnajanu.club",
@@ -2415,8 +2414,8 @@
             "ghanadetails.pw",
             "mebffd.com",
             "ponmaredimare.top",
-            "xiaofeng.pw"
-        ],
-        "to_test": []
+            "xiaofeng.pw",
+            "039b1ee.netsolhost.com"
+        ]
     }
 }
