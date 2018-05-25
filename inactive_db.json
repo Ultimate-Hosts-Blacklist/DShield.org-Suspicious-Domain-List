@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1526989445": [
+        "1527248618": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -722,7 +722,9 @@
             "cakessolovely.ca",
             "campler2.ddns.net",
             "canadianonlineagreementservices.kz",
-            "cash.hi5fotos.info",
+            "cash.hi5fotos.info"
+        ],
+        "to_test": [
             "cc.drshipin.com",
             "ccccc.8jbt.com",
             "ccpmacake.faith",
@@ -2420,9 +2422,7 @@
             "zudeop.com",
             "zumeeg.com",
             "zwpll.vicp.net",
-            "zxyinternational.net"
-        ],
-        "to_test": [
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
