@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1527248618": [
+        "1527594724": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -557,7 +557,6 @@
             "8b4bb47tiaolhy4uhhlfaqerg.sofarany.at",
             "94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at",
             "9hrds.wolfcrap.at",
-            "a135.f3322.net",
             "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
             "aa12111.top",
             "aarnknthc.xyz",
@@ -711,7 +710,11 @@
             "branchtist.com",
             "brausincsystem.pro",
             "breat.ddns.net",
-            "brothersmt2.tk",
+            "brothersmt2.tk"
+        ],
+        "to_test": [
+            "globalcantractors.com",
+            "mduwwm.com",
             "burgerspendingbusiness.kz",
             "burn.settingsdata.store",
             "bwcfinnt.work",
@@ -2412,11 +2415,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "globalcantractors.com",
-            "mduwwm.com",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
