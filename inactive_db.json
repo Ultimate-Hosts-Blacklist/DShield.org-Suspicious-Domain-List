@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1527594724": [
+        "1527940110": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -563,6 +563,7 @@
             "abaaa.8jbt.com",
             "abvtqhwodwjmi.work",
             "acbstypdrijslr.ru",
+            "acjhwpdjhlhbncf.click",
             "acquaticallen.hopto.org",
             "acrrif.com",
             "ahmedashid.com",
@@ -715,7 +716,11 @@
             "burn.settingsdata.store",
             "bwcfinnt.work",
             "bwpegsfa.info",
-            "bxlrywuuobje.pw",
+            "bxlrywuuobje.pw"
+        ],
+        "to_test": [
+            "fx45.pp.ru",
+            "luenhinpearl.com",
             "bytes.darktech.org",
             "bzzsoy.com",
             "cakessolovely.ca",
@@ -2415,11 +2420,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "fx45.pp.ru",
-            "luenhinpearl.com",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
