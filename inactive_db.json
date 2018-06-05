@@ -2306,20 +2306,12 @@
             "www.loongweed.com",
             "www.lttddos.com",
             "www.lxi3.com",
-            "www.malwaresite.org.br"
-        ],
-        "to_test": [
-            "ffoqr3ug7m726zou.kfymbh.top",
-            "ffoqr3ug7m726zou.l4dlll.bid",
-            "p27dokhpz2n7nvgr.1mwipu.top",
-            "p27dokhpz2n7nvgr.1nhkou.top",
+            "www.malwaresite.org.br",
             "www.maylier.xyz",
             "www.me404.net",
             "www.memejerry.topernel32.dll",
             "www.micros0ft.cf",
             "www.mikewine.tk",
-            "www.mntpdq.net",
-            "www.msfak.cn",
             "www.newsectorbs.top",
             "www.ogeneinaamin.com",
             "www.ohimmades.pw",
@@ -2430,7 +2422,13 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net",
+            "zxyinternational.net"
+        ],
+        "to_test": [
+            "ffoqr3ug7m726zou.kfymbh.top",
+            "ffoqr3ug7m726zou.l4dlll.bid",
+            "p27dokhpz2n7nvgr.1mwipu.top",
+            "p27dokhpz2n7nvgr.1nhkou.top",
             "039b1ee.netsolhost.com"
         ]
     }
