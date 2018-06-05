@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1527940110": [
+        "1528199308": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -58,6 +58,7 @@
             "3qbyaoohkcqkzrz6.torprovider.li",
             "3qbyaoohkcqkzrz6.torreactor.li",
             "3qbyaoohkcqkzrz6.torstation.li",
+            "445.8ce.cn",
             "4kqd3hmqgptupi3p.0vgu64.top",
             "4kqd3hmqgptupi3p.143h2a.top",
             "4kqd3hmqgptupi3p.1tvjk1.top",
@@ -566,6 +567,7 @@
             "acjhwpdjhlhbncf.click",
             "acquaticallen.hopto.org",
             "acrrif.com",
+            "administrator.redirectme.net",
             "ahmedashid.com",
             "ahmetswat.freedynamicdns.org",
             "ahsqbeospcdrngfv.info",
@@ -679,7 +681,10 @@
             "barjhxoye.info",
             "bayswaternorthkindergarten.vic.edu.au",
             "bbwscimanuk.pdsda.net",
-            "bc.xlacb.com",
+            "bc.xlacb.com"
+        ],
+        "to_test": [
+            "ghanadetails.pw",
             "bciuemfaapyf.biz",
             "bddadevlpkwrrmud.xyz",
             "beatyhousesupporte.su",
@@ -2420,10 +2425,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "ghanadetails.pw",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
