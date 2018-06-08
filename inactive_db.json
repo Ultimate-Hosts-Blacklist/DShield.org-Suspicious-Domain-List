@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1528199308": [
+        "1528458556": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -674,6 +674,7 @@
             "ayoubthex.myftp.biz",
             "b.1s2.in.ua",
             "backkek228.ddns.net",
+            "badlywantyou.top",
             "baliwag.xyz",
             "banana.dp.ua",
             "baoshlda.com",
@@ -691,11 +692,18 @@
             "bfdmka.com",
             "bff.7oorq8.com",
             "bfxyyo.com",
+            "bhanu.zapto.org",
             "bhanufuckingkajal.zapto.org",
             "bhop22.ddns.net",
             "bhttrz.com",
             "bibrath.eu",
-            "bin1.kns1.al",
+            "bin1.kns1.al"
+        ],
+        "to_test": [
+            "ffoqr3ug7m726zou.kfymbh.top",
+            "ffoqr3ug7m726zou.l4dlll.bid",
+            "p27dokhpz2n7nvgr.1mwipu.top",
+            "p27dokhpz2n7nvgr.1nhkou.top",
             "bitters.su",
             "bkdjvmmkwgkvgw.su",
             "bl1nqz8yrf7tgdsq.tk",
@@ -2422,13 +2430,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "ffoqr3ug7m726zou.kfymbh.top",
-            "ffoqr3ug7m726zou.l4dlll.bid",
-            "p27dokhpz2n7nvgr.1mwipu.top",
-            "p27dokhpz2n7nvgr.1nhkou.top",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
