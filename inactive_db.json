@@ -1,11 +1,14 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1528458556": [
+        "1528718094": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
+            "0721.f3322.net",
             "1.0.a6av.com",
             "1.hcjm5.cn",
+            "1176195532.3322.org",
+            "1303030.3322.org",
             "1kedipipimi7.duckdns.org",
             "222813337.ddns.net",
             "27c73bq66y4xqoh7.dorfact.at",
@@ -58,7 +61,6 @@
             "3qbyaoohkcqkzrz6.torprovider.li",
             "3qbyaoohkcqkzrz6.torreactor.li",
             "3qbyaoohkcqkzrz6.torstation.li",
-            "445.8ce.cn",
             "4kqd3hmqgptupi3p.0vgu64.top",
             "4kqd3hmqgptupi3p.143h2a.top",
             "4kqd3hmqgptupi3p.1tvjk1.top",
@@ -554,10 +556,20 @@
             "74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfort.at",
             "76tguy6hh6tgftrt7tg.su",
             "7777.360ceo.net",
+            "7903.3322.org",
             "8927.ddns.net",
             "8b4bb47tiaolhy4uhhlfaqerg.sofarany.at",
+            "913541748.3322.org",
+            "944413269.3322.org",
             "94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at",
             "9hrds.wolfcrap.at",
+            "a294956573.3322.org"
+        ],
+        "to_test": [
+            "bitters.su",
+            "fqtdrnqmeofknd.biz",
+            "lifeisgoodwhenu2.info",
+            "lifestyles.pp.ru",
             "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
             "aa12111.top",
             "aarnknthc.xyz",
@@ -2451,13 +2463,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "bitters.su",
-            "fqtdrnqmeofknd.biz",
-            "lifeisgoodwhenu2.info",
-            "lifestyles.pp.ru",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
