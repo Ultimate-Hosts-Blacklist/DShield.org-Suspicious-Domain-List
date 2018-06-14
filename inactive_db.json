@@ -1,14 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1528718094": [
+        "1528977238": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
-            "0721.f3322.net",
             "1.0.a6av.com",
             "1.hcjm5.cn",
-            "1176195532.3322.org",
-            "1303030.3322.org",
             "1kedipipimi7.duckdns.org",
             "222813337.ddns.net",
             "27c73bq66y4xqoh7.dorfact.at",
@@ -207,6 +204,7 @@
             "4kqd3hmqgptupi3p.yoursdoor.lol",
             "4kqd3hmqgptupi3p.z8ijgn.bid",
             "4kqd3hmqgptupi3p.z97f9v.bid",
+            "4rebaopfgrewe.top",
             "4w5wihkwyhsav2ha.fastdances.at",
             "4w5wihkwyhsav2ha.grandhaus.at",
             "4w5wihkwyhsav2ha.payfactor.at",
@@ -377,7 +375,23 @@
             "52uo5k3t73ypjije.i6gn9s.bid",
             "52uo5k3t73ypjije.i8zh1k.bid",
             "52uo5k3t73ypjije.iait3w.bid",
-            "52uo5k3t73ypjije.ibngww.top",
+            "52uo5k3t73ypjije.ibngww.top"
+        ],
+        "to_test": [
+            "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
+            "dqtfhkgskushlum.org",
+            "dqy.qyuyu.com",
+            "dragokin.hopto.org",
+            "dst520.cn",
+            "dswvks.com",
+            "immaculate.tk",
+            "imvitx.com",
+            "p27dokhpz2n7nvgr.1dyzdh.top",
+            "p27dokhpz2n7nvgr.1dz7gk.top",
+            "p27dokhpz2n7nvgr.1ebvqb.top",
+            "p27dokhpz2n7nvgr.1eeb86.to",
+            "twmaplestory2017.online",
+            "wseruy.com",
             "52uo5k3t73ypjije.ie7t8k.top",
             "52uo5k3t73ypjije.ih9te2.bid",
             "52uo5k3t73ypjije.ij0cia.bid",
@@ -2455,23 +2469,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at",
-            "dqtfhkgskushlum.org",
-            "dqy.qyuyu.com",
-            "dragokin.hopto.org",
-            "dst520.cn",
-            "dswvks.com",
-            "immaculate.tk",
-            "imvitx.com",
-            "p27dokhpz2n7nvgr.1dyzdh.top",
-            "p27dokhpz2n7nvgr.1dz7gk.top",
-            "p27dokhpz2n7nvgr.1ebvqb.top",
-            "p27dokhpz2n7nvgr.1eeb86.to",
-            "twmaplestory2017.online",
-            "wseruy.com",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
