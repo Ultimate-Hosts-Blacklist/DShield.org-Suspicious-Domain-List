@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1529323398": [
+        "1529582137": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -42,6 +42,7 @@
             "2ymh2gnnbg6pgq2r.gremsot.pl",
             "2ymh2gnnbg6pgq2r.winregion.tw",
             "360.homeunix.com",
+            "360.oooo.eu.org",
             "37kddsserrt.xyz",
             "3qbyaoohkcqkzrz6.bestxprice.ch",
             "3qbyaoohkcqkzrz6.livecamshow.ch",
@@ -58,7 +59,6 @@
             "3qbyaoohkcqkzrz6.torprovider.li",
             "3qbyaoohkcqkzrz6.torreactor.li",
             "3qbyaoohkcqkzrz6.torstation.li",
-            "445.8ce.cn",
             "4kqd3hmqgptupi3p.0vgu64.top",
             "4kqd3hmqgptupi3p.143h2a.top",
             "4kqd3hmqgptupi3p.1tvjk1.top",
@@ -205,7 +205,6 @@
             "4kqd3hmqgptupi3p.yoursdoor.lol",
             "4kqd3hmqgptupi3p.z8ijgn.bid",
             "4kqd3hmqgptupi3p.z97f9v.bid",
-            "4rebaopfgrewe.top",
             "4w5wihkwyhsav2ha.fastdances.at",
             "4w5wihkwyhsav2ha.grandhaus.at",
             "4w5wihkwyhsav2ha.payfactor.at",
@@ -349,6 +348,7 @@
             "52uo5k3t73ypjije.f242v5.bid",
             "52uo5k3t73ypjije.f3z72p.bid",
             "52uo5k3t73ypjije.fe98iy.top",
+            "52uo5k3t73ypjije.fi50le.bid",
             "52uo5k3t73ypjije.fkgrie.top",
             "52uo5k3t73ypjije.g0ots2.top",
             "52uo5k3t73ypjije.g0spln.bid",
@@ -671,9 +671,9 @@
             "awper2.ddns.net",
             "axnemuevqnstqyflb.work",
             "axpoium.echange.su",
-            "ayoubthex.myftp.biz",
             "b.1s2.in.ua",
             "backkek228.ddns.net",
+            "badlywantyou.top",
             "baliwag.xyz",
             "banana.dp.ua",
             "baoshlda.com",
@@ -707,7 +707,21 @@
             "bmymbj.com",
             "bnjhx.eu",
             "bocaautocenters.com",
-            "bolerakopsoa.pw",
+            "bolerakopsoa.pw"
+        ],
+        "to_test": [
+            "etuury.com",
+            "etylem.com",
+            "hjhqmbxyinislkkt.12m58x.top",
+            "hjhqmbxyinislkkt.12zucf.top",
+            "hjhqmbxyinislkkt.13bcem.top",
+            "p27dokhpz2n7nvgr.15l2ub.top",
+            "stgg5jv6mqiibmax.toradmin.li",
+            "stgg5jv6mqiibmax.toranimals.li",
+            "vyohacxzoue32vvk.mpduf5.bid",
+            "vyohacxzoue32vvk.ncw0rp.top",
+            "vyohacxzoue32vvk.nta934.top",
+            "xiaokun.site",
             "bots.configbinbots.info",
             "bqbbsfdw.be",
             "bqtest2.ru",
@@ -2450,23 +2464,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "52uo5k3t73ypjije.fi50le.bid",
-            "badlywantyou.top",
-            "etuury.com",
-            "etylem.com",
-            "hjhqmbxyinislkkt.12m58x.top",
-            "hjhqmbxyinislkkt.12zucf.top",
-            "hjhqmbxyinislkkt.13bcem.top",
-            "p27dokhpz2n7nvgr.15l2ub.top",
-            "stgg5jv6mqiibmax.toradmin.li",
-            "stgg5jv6mqiibmax.toranimals.li",
-            "vyohacxzoue32vvk.mpduf5.bid",
-            "vyohacxzoue32vvk.ncw0rp.top",
-            "vyohacxzoue32vvk.nta934.top",
-            "xiaokun.site",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
