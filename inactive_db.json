@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1529582137": [
+        "1529842343": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -708,6 +708,8 @@
             "bnjhx.eu",
             "bocaautocenters.com",
             "bolerakopsoa.pw",
+            "bots.configbinbots.info",
+            "bqbbsfdw.be",
             "bqtest2.ru",
             "bqukfjfv.org",
             "branchtist.com",
@@ -720,7 +722,22 @@
             "bwpegsfa.info",
             "bxlrywuuobje.pw",
             "bytes.darktech.org",
-            "bzzsoy.com",
+            "bzzsoy.com"
+        ],
+        "to_test": [
+            "fqfgsz.com",
+            "fqtdrnqmeofknd.biz",
+            "frank1.ddf.al",
+            "franka.in.net",
+            "frapsik.ddns.net",
+            "l84sq3yzw5.nnnn.eu.org",
+            "lamarpluz.ddns.net",
+            "lang12397007.2288.org",
+            "lauhkx.com",
+            "unocl45trpuoefft.ll3zot.bid",
+            "unocl45trpuoefft.lzskva.bid",
+            "unocl45trpuoefft.m03t72.bid",
+            "xianatwork.hopto.org",
             "cakessolovely.ca",
             "campler2.ddns.net",
             "canadianonlineagreementservices.kz",
@@ -2450,24 +2467,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "bots.configbinbots.info",
-            "bqbbsfdw.be",
-            "fqfgsz.com",
-            "fqtdrnqmeofknd.biz",
-            "frank1.ddf.al",
-            "franka.in.net",
-            "frapsik.ddns.net",
-            "l84sq3yzw5.nnnn.eu.org",
-            "lamarpluz.ddns.net",
-            "lang12397007.2288.org",
-            "lauhkx.com",
-            "unocl45trpuoefft.ll3zot.bid",
-            "unocl45trpuoefft.lzskva.bid",
-            "unocl45trpuoefft.m03t72.bid",
-            "xianatwork.hopto.org",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
