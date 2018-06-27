@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1529842343": [
+        "1530100748": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -205,6 +205,7 @@
             "4kqd3hmqgptupi3p.yoursdoor.lol",
             "4kqd3hmqgptupi3p.z8ijgn.bid",
             "4kqd3hmqgptupi3p.z97f9v.bid",
+            "4rebaopfgrewe.top",
             "4w5wihkwyhsav2ha.fastdances.at",
             "4w5wihkwyhsav2ha.grandhaus.at",
             "4w5wihkwyhsav2ha.payfactor.at",
@@ -393,7 +394,21 @@
             "52uo5k3t73ypjije.k7oud1.top",
             "52uo5k3t73ypjije.k8ytej.bid",
             "52uo5k3t73ypjije.k9z7pm.top",
-            "52uo5k3t73ypjije.ka0te8.top",
+            "52uo5k3t73ypjije.ka0te8.top"
+        ],
+        "to_test": [
+            "cakessolovely.ca",
+            "campler2.ddns.net",
+            "canadianonlineagreementservices.kz",
+            "caonimabi.win",
+            "google.poultrymiddleeast.com",
+            "googlepetkavanis4.pw",
+            "govementruystd.top",
+            "metromall.good-media.co.il",
+            "mfiipt.com",
+            "wseruy.com",
+            "wt.l1l1.cc",
+            "wugwel.com",
             "52uo5k3t73ypjije.kas17.com",
             "52uo5k3t73ypjije.kcufx4.top",
             "52uo5k3t73ypjije.kml2o2.top",
@@ -2454,21 +2469,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "cakessolovely.ca",
-            "campler2.ddns.net",
-            "canadianonlineagreementservices.kz",
-            "caonimabi.win",
-            "google.poultrymiddleeast.com",
-            "googlepetkavanis4.pw",
-            "govementruystd.top",
-            "metromall.good-media.co.il",
-            "mfiipt.com",
-            "wseruy.com",
-            "wt.l1l1.cc",
-            "wugwel.com",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
