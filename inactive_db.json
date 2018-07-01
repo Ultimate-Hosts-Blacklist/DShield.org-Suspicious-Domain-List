@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1530100748": [
+        "1530446626": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -395,6 +395,7 @@
             "52uo5k3t73ypjije.k8ytej.bid",
             "52uo5k3t73ypjije.k9z7pm.top",
             "52uo5k3t73ypjije.ka0te8.top",
+            "52uo5k3t73ypjije.kas17.com",
             "52uo5k3t73ypjije.kcufx4.top",
             "52uo5k3t73ypjije.kml2o2.top",
             "52uo5k3t73ypjije.kswcuk.top",
@@ -406,7 +407,22 @@
             "52uo5k3t73ypjije.kzo8mc.top",
             "52uo5k3t73ypjije.kzwor6.top",
             "52uo5k3t73ypjije.l6ry3h.bid",
-            "52uo5k3t73ypjije.laugk2.top",
+            "52uo5k3t73ypjije.laugk2.top"
+        ],
+        "to_test": [
+            "burgerspendingbusiness.kz",
+            "burn.settingsdata.store",
+            "ffoqr3ug7m726zou.bdlvdy.top",
+            "ffoqr3ug7m726zou.bpuhab.top",
+            "ffoqr3ug7m726zou.bwei9h.top",
+            "ffoqr3ug7m726zou.ca15sj.top",
+            "hjhqmbxyinislkkt.1aamtz.top",
+            "hjhqmbxyinislkkt.1accfa.top",
+            "hjhqmbxyinislkkt.1acfka.top",
+            "luenhinpearl.com",
+            "lumia.ddns.net",
+            "luvenxj.uk",
+            "ukouex.com",
             "52uo5k3t73ypjije.lba61x.top",
             "52uo5k3t73ypjije.ldsl8m.bid",
             "52uo5k3t73ypjije.lethints.date",
@@ -2479,23 +2495,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "52uo5k3t73ypjije.kas17.com",
-            "burgerspendingbusiness.kz",
-            "burn.settingsdata.store",
-            "ffoqr3ug7m726zou.bdlvdy.top",
-            "ffoqr3ug7m726zou.bpuhab.top",
-            "ffoqr3ug7m726zou.bwei9h.top",
-            "ffoqr3ug7m726zou.ca15sj.top",
-            "hjhqmbxyinislkkt.1aamtz.top",
-            "hjhqmbxyinislkkt.1accfa.top",
-            "hjhqmbxyinislkkt.1acfka.top",
-            "luenhinpearl.com",
-            "lumia.ddns.net",
-            "luvenxj.uk",
-            "ukouex.com",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
