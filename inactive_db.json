@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1530446626": [
+        "1530792254": [
             "03a6b7a.netsolhost.com",
             "03a6f57.netsolhost.com",
             "03bbec4.netsolhost.com",
@@ -408,6 +408,7 @@
             "52uo5k3t73ypjije.kzwor6.top",
             "52uo5k3t73ypjije.l6ry3h.bid",
             "52uo5k3t73ypjije.laugk2.top",
+            "52uo5k3t73ypjije.lba61x.top",
             "52uo5k3t73ypjije.ldsl8m.bid",
             "52uo5k3t73ypjije.lethints.date",
             "52uo5k3t73ypjije.lh9ax3.bid",
@@ -416,7 +417,25 @@
             "52uo5k3t73ypjije.lio2wr.bid",
             "52uo5k3t73ypjije.loanshown.info",
             "52uo5k3t73ypjije.lrraca.bid",
-            "52uo5k3t73ypjije.lwbi59.top",
+            "52uo5k3t73ypjije.lwbi59.top"
+        ],
+        "to_test": [
+            "cc.drshipin.com",
+            "ccccc.8jbt.com",
+            "ccosattack.top",
+            "ccpmacake.faith",
+            "ffoqr3ug7m726zou.ndnmuk.top",
+            "ffoqr3ug7m726zou.ptnbfm.top",
+            "ffoqr3ug7m726zou.rssh3l.bid",
+            "ffoqr3ug7m726zou.rxmbsm.top",
+            "hjhqmbxyinislkkt.1fygsg.top",
+            "hjhqmbxyinislkkt.1fzjn3.top",
+            "hjhqmbxyinislkkt.1fzz7a.top",
+            "mtyl.wabyf.com",
+            "uxvvm.us",
+            "v8.ter.tf",
+            "valdmir.noriysha.ru",
+            "www.qianfanml.cn",
             "52uo5k3t73ypjije.m33d4b.bid",
             "52uo5k3t73ypjije.m5fgoi.top",
             "52uo5k3t73ypjije.m6j75a.bid",
@@ -2481,26 +2500,7 @@
             "ztuw5bvuuapzdfya.klimbim.pl",
             "zudeop.com",
             "zumeeg.com",
-            "zxyinternational.net"
-        ],
-        "to_test": [
-            "52uo5k3t73ypjije.lba61x.top",
-            "cc.drshipin.com",
-            "ccccc.8jbt.com",
-            "ccosattack.top",
-            "ccpmacake.faith",
-            "ffoqr3ug7m726zou.ndnmuk.top",
-            "ffoqr3ug7m726zou.ptnbfm.top",
-            "ffoqr3ug7m726zou.rssh3l.bid",
-            "ffoqr3ug7m726zou.rxmbsm.top",
-            "hjhqmbxyinislkkt.1fygsg.top",
-            "hjhqmbxyinislkkt.1fzjn3.top",
-            "hjhqmbxyinislkkt.1fzz7a.top",
-            "mtyl.wabyf.com",
-            "uxvvm.us",
-            "v8.ter.tf",
-            "valdmir.noriysha.ru",
-            "www.qianfanml.cn",
+            "zxyinternational.net",
             "039b1ee.netsolhost.com"
         ]
     }
