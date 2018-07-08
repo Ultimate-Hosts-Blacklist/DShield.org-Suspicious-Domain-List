@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "down": 6337,
+        "down": 6597,
         "invalid": 6,
-        "tested": 14821,
-        "up": 8478
+        "tested": 15520,
+        "up": 8917
     }
 }
