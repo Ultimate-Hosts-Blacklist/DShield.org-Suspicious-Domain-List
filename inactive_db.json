@@ -8360,9 +8360,7 @@
             "renew-info-account.com",
             "renewalss.com",
             "renewaltourplus.club",
-            "rusmondf.com"
-        ],
-        "to_test": [
+            "rusmondf.com",
             "secure-accountinformation-support-2213.com",
             "secure-bankofamerica-checking-account.solutecno.cl",
             "secure-checkpoint.ga",
@@ -8371,7 +8369,9 @@
             "secure-googledoc.boulderentertainmentllc.com",
             "secure-info-chase.com",
             "secure-paypal.account.page.update.clasesdeguitarralima.com",
-            "secure-resolve-accountverificationid.com",
+            "secure-resolve-accountverificationid.com"
+        ],
+        "to_test": [
             "sofiashouse.web.id",
             "softextrain64.com",
             "software.software-now.net",
