@@ -8369,9 +8369,7 @@
             "secure-googledoc.boulderentertainmentllc.com",
             "secure-info-chase.com",
             "secure-paypal.account.page.update.clasesdeguitarralima.com",
-            "secure-resolve-accountverificationid.com"
-        ],
-        "to_test": [
+            "secure-resolve-accountverificationid.com",
             "sofiashouse.web.id",
             "softextrain64.com",
             "software.software-now.net",
@@ -8379,7 +8377,9 @@
             "soirsinfo.com",
             "sokarajatengah.or.id",
             "soliternewsstar.eu",
-            "solomikeartwork.com",
+            "solomikeartwork.com"
+        ],
+        "to_test": [
             "tamiracenter.co.id",
             "tandshijab.id",
             "tangerinemap.com",
