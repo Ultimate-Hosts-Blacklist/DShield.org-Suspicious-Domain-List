@@ -4544,7 +4544,6 @@
             "m.facebook.com---------step1---confirm.shawarplas.com",
             "m.facebook.com--------confirm.aznet1.net",
             "m.facebook.com------login---step1.akuevi.net",
-            "m.loldlxmy.com",
             "m.mimzw.com",
             "m.serulom.tk",
             "m.tamilmalls.com",
@@ -8627,15 +8626,15 @@
             "lrstnrule.net",
             "lrstnwhole.net",
             "ls3ocnra-site.1tempurl.com",
-            "lsd1232123.ddns.net"
-        ],
-        "to_test": [
+            "lsd1232123.ddns.net",
             "meumimo.net.br",
             "meunovoacesso.pe.hu",
             "mezzasphere.com",
             "mfacebooc.club",
             "mfiipt.com",
-            "mglaun.com",
+            "mglaun.com"
+        ],
+        "to_test": [
             "nawec.gm",
             "nazanmami.com",
             "nb.cztlyy.com",
