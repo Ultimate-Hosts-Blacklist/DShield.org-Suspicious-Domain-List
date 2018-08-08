@@ -8601,13 +8601,15 @@
             "facebook-securitycheck.com",
             "facebook-support-customers.com",
             "facebook-user-signin.com",
-            "facebook.activation.inactive-scure.com"
-        ],
-        "to_test": [
+            "facebook.activation.inactive-scure.com",
+            "floorconstruction.co.za",
+            "flukebiomedicai.com",
             "freeservmobidata.com",
             "freightmatellc.com",
             "fremd7.ir",
-            "french-wine-direct.com",
+            "french-wine-direct.com"
+        ],
+        "to_test": [
             "gov.uk.claim-tax-refund.authc.pw",
             "gov.uk.claim-tax-refund.updater09.su",
             "govementruystd.top",
