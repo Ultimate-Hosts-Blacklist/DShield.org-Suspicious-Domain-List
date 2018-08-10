@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List/domains.list": {
-        "1533644533": [
+        "1533913022": [
             "029b3e8.netsolhost.com",
             "039b1ee.netsolhost.com",
             "03a6b7a.netsolhost.com",
@@ -35,6 +35,7 @@
             "1admalrop4da2ft.babicovydobroty-recepty.info",
             "1kedipipimi7.duckdns.org",
             "1limited-account.cf",
+            "1pu1.com",
             "1royalbank-clientsupport.com",
             "1securitybmo.com",
             "2012ui.com",
@@ -86,6 +87,7 @@
             "33lzmm.com",
             "360.homeunix.com",
             "360.oooo.eu.org",
+            "365onlinecheck.com",
             "367032-deu-storno-angabe-benutzer.sicherheitshilfe-schutz.ml",
             "37kddsserrt.xyz",
             "385223-deutschland-gast-mitteilung-account.service-paypal-info.ml",
@@ -115,6 +117,7 @@
             "44ccvv.com",
             "48wwuved42.ru",
             "4energy.es",
+            "4gwebsite.co.uk",
             "4kqd3hmqgptupi3p.0vgu64.top",
             "4kqd3hmqgptupi3p.143h2a.top",
             "4kqd3hmqgptupi3p.1tvjk1.top",
@@ -276,6 +279,7 @@
             "51jczxw.com",
             "51mogui.com",
             "521073--verbraucher-mitteilung-account.sicher-vorbeugung.tk",
+            "52cfw.com",
             "52uo5k3t73ypjije.01fake.bid",
             "52uo5k3t73ypjije.086ux2.top",
             "52uo5k3t73ypjije.0n5joc.top",
@@ -386,7 +390,9 @@
             "52uo5k3t73ypjije.cpvwgx.bid",
             "52uo5k3t73ypjije.csdbnk.bid",
             "52uo5k3t73ypjije.csj0k5.top",
-            "52uo5k3t73ypjije.csv7o6.bid",
+            "52uo5k3t73ypjije.csv7o6.bid"
+        ],
+        "to_test": [
             "52uo5k3t73ypjije.cto5ee.bid",
             "52uo5k3t73ypjije.czzg7f.bid",
             "52uo5k3t73ypjije.daigy0.top",
@@ -8539,8 +8545,6 @@
             "zuribysheth.com",
             "zuzim.xyz",
             "zwgoca.com",
-            "0000mps.webpreview.dsl.net",
-            "4analytics.ws",
             "aaaxqabiqgxxwczrx.com",
             "agri-show.co.za",
             "amelifab.beget.tech",
@@ -8718,8 +8722,8 @@
             "zxyinternational.net",
             "zyngatables.com",
             "zz166039.myjino.ru",
-            "zztxdown.com"
-        ],
-        "to_test": []
+            "zztxdown.com",
+            "0000mps.webpreview.dsl.net"
+        ]
     }
 }
