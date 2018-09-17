@@ -1,31 +1,35 @@
 env:
   global:
-    - secure: b0ifXFSVel6tkkQe1i52WxL4GWB8KZEhDRtlYiJSdFAHKzZJT+lBt06TstbM8gxRQbuZ3M9VLYygU46mWIkgqLcVYZDzY8dD2xthfsmDdolqCgm5NNdg3F1amWfI0ELPG8ZqaGE1JY8FKUWpmOYz/7HLds1iLayMauAQuKqze36URpQG708iiE5q56lAbooL4fMmyPdXe9fE1GnZWuTYShDjljy1wWNGpyrSqXajaqj2PaRcEhpDzlLKzguN42A8Cx9lABIm4ghJhK6thZg1RhQbAS5L/gJOEyxxf0qmfU/9HNEK0fPBd5isEcpp9lnGHbkypnK4yH/pFYc4U4vMV85xRd7lzx1E5tuUrcF85kToH2MgT8pJdOllfDRi2MTNEBi4TScygucbntK+a6GsDaReOjwYrG9JMhilGi6gMnUOzav703irD3zH6HiqEKujo1xjBxZj6avYp5rx+m9lyyTXYm9WXxDLieRTPH9cziDctn6WDm6Sk9i16lqOuy08NgMF76j0GtZZ/Ie/y237EZf9+x13aA56lk9i3WzdXACJwk4bhOrpz3ZIn94NBIlZABjiI63Ja6miup86EEE0PlbRCraOxmG8P19ZSDBS34ubI7HuFpHlzOIAFdnIH1xxBqJvUX0yKZ2Jum8uWV+GzJw4m0D8bnXMkZEqBOJxAB0=
+    - secure: DQdvNLDgtey54H40ydtVtIuE+rks0m8BBMiVMCTb4tcYxD1qGTYlo3psL2xrqoPHlutHDTyL0J9PGX0hPkccq0TqbNnTVklJxVILsn8+MGFsiNRN9GtKtvMj2cl+3k/4zTu06ckSWhz0GCFCL4hpJ4iXD8VjVR9bBC1JbI/TqI0ILrHFZuKmMKK5C3q0clKGvAxKGdTLSVri6Wbk5TMHaTlOcBXiNTEsmx1YGQ1Ic++RXDekm22ATgCGAgqkQhndAJYqcP44+UZEdj+oU+oUR1AnevfK5mMkKfjvPZA5shdnl+RjKnc8Wr888VZ9DpAzPZMxVh08cveoBO2x5oIU8FlIJgwcbRA5Y56Fny30v0WR7KnXXA5w2tEAxzX5yTJLTpPAEe0/MrlnkDDrkfMLgFc9aBXRvrXjpvsnMM2Kdqy0edRAy19T5owwaaeY8p+X1Hia1w7LJZEoVO+1IeAhC2olHzzuEpkHWfoN0VAIZXGCnlvJGN8qreixCwaEXoNqnV4B63PF1MRYyxWwn0kLK/jQ2XwqDd8Mm/E3ZUzvtelS8iygLFnAs47Lzj4kRjgCdiP+8fBs2p3g1RkdGMvhfEghh/FKHJ91/5cvMQbPGEd+Ior1qo/R8x/ZWJhgDKJujLMyRgK9TQZXuhYST5G8MnMl4PVTx0PO3yQzsFsEpLU=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/DShield.org-Suspicious-Domain-List
     - GIT_BRANCH: master
 
+dist: xenial
+sudo: required
 language: python
 
 python:
-  - "3.6"
+  - "3.7"
 
 matrix:
   fast_finish: true
 
 cache:
-  - apt
   - pip
 
-sudo: required
+addons:
+  apt:
+    packages:
+      - dos2unix
 
-before_install:
-  - pip3 install colorama
-  - sudo apt-get -y install dos2unix
+install:
+  - pip3 install --upgrade pip
+  - pip3 install requests
 
 script:
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble && python3 ./update.py
+  - python3 ./update.py
 
 notifications:
   on_success:   change
