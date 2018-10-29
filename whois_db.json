@@ -20470,6 +20470,126 @@
             "expiration_date": "19-sep-2018",
             "state": "past"
         },
+        "unlimitedcard.bid": {
+            "epoch": "1542672000",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "unlimitedcode.review": {
+            "epoch": "1542672000",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "unlimitedgift.trade": {
+            "epoch": "1542672000",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "unlimitedvoucher.bid": {
+            "epoch": "1542672000",
+            "expiration_date": "20-nov-2018",
+            "state": "future"
+        },
+        "unlockingphone.net": {
+            "epoch": "1535068800",
+            "expiration_date": "24-aug-2018",
+            "state": "past"
+        },
+        "untangletheworld.org": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "future"
+        },
+        "unusedcards.download": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "unusual-latransaction.com": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "upchase.ru": {
+            "epoch": "1556668800",
+            "expiration_date": "01-may-2019",
+            "state": "future"
+        },
+        "update-disables-appleid-apple-accounts.com": {
+            "epoch": "1550966400",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "updatessonline.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "upepoeiw.co": {
+            "epoch": "1545609600",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "upepoeiw.pro": {
+            "epoch": "1545609600",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "upgradestep.org": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "upoznavanje-druzenje.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "upperdarby26.com": {
+            "epoch": "1549065600",
+            "expiration_date": "02-feb-2019",
+            "state": "future"
+        },
+        "urbanenergyci.com": {
+            "epoch": "1541721600",
+            "expiration_date": "09-nov-2018",
+            "state": "future"
+        },
+        "urbanizacionmonteprincipe.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "urbanoservice.com": {
+            "epoch": "1565308800",
+            "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "urbanparkhomes.net": {
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
+            "state": "future"
+        },
+        "urbanpeoplesinternazional.com": {
+            "epoch": "1549670400",
+            "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "uroc.info": {
+            "epoch": "1590969600",
+            "expiration_date": "01-jun-2020",
+            "state": "future"
+        },
+        "urpindia.in": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "urtechfriend.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
         "usa-jiaji.com": {
             "epoch": "1571011200",
             "expiration_date": "14-oct-2019",
@@ -20608,6 +20728,11 @@
         "v11lndpin.com": {
             "epoch": "1552262400",
             "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "v2engineering.it": {
+            "epoch": "1556841600",
+            "expiration_date": "03-may-2019",
             "state": "future"
         },
         "va41522.com": {
