@@ -14341,9 +14341,9 @@
             "state": "future"
         },
         "lfgkyy.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "lfjcytrfuvg.com": {
             "epoch": "1552521600",
@@ -14550,6 +14550,11 @@
             "expiration_date": "12-feb-2019",
             "state": "future"
         },
+        "lisik.pl": {
+            "epoch": "1552608000",
+            "expiration_date": "15-mar-2019",
+            "state": "future"
+        },
         "lisinoprilpto.com": {
             "epoch": "1537056000",
             "expiration_date": "16-sep-2018",
@@ -14578,6 +14583,11 @@
         "littlelories.com": {
             "epoch": "1570924800",
             "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "livefootball.ro": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "livekombucha.ca": {
@@ -14644,6 +14654,486 @@
             "epoch": "1538697600",
             "expiration_date": "05-oct-2018",
             "state": "past"
+        },
+        "lmportant-notlce-k21.gdn": {
+            "epoch": "1538438400",
+            "expiration_date": "02-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-m21.gdn": {
+            "epoch": "1538438400",
+            "expiration_date": "02-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-o31.gdn": {
+            "epoch": "1538784000",
+            "expiration_date": "06-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-o41.gdn": {
+            "epoch": "1539129600",
+            "expiration_date": "10-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-p31.gdn": {
+            "epoch": "1538784000",
+            "expiration_date": "06-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-q21.gdn": {
+            "epoch": "1538438400",
+            "expiration_date": "02-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-q31.gdn": {
+            "epoch": "1538784000",
+            "expiration_date": "06-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-r21.gdn": {
+            "epoch": "1538524800",
+            "expiration_date": "03-oct-2018",
+            "state": "past"
+        },
+        "lmportant-notlce-w31.gdn": {
+            "epoch": "1538870400",
+            "expiration_date": "07-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-121.gdn": {
+            "epoch": "1538784000",
+            "expiration_date": "06-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-211.gdn": {
+            "epoch": "1538352000",
+            "expiration_date": "01-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-511.gdn": {
+            "epoch": "1538438400",
+            "expiration_date": "02-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-a21.gdn": {
+            "epoch": "1538870400",
+            "expiration_date": "07-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-b11.gdn": {
+            "epoch": "1538438400",
+            "expiration_date": "02-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-e01.gdn": {
+            "epoch": "1538092800",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-f21.gdn": {
+            "epoch": "1538870400",
+            "expiration_date": "07-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-g01.gdn": {
+            "epoch": "1538092800",
+            "expiration_date": "28-sep-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-g21.gdn": {
+            "epoch": "1538870400",
+            "expiration_date": "07-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-j21.gdn": {
+            "epoch": "1538956800",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-m21.gdn": {
+            "epoch": "1538956800",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-n11.gdn": {
+            "epoch": "1538611200",
+            "expiration_date": "04-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-n21.gdn": {
+            "epoch": "1538956800",
+            "expiration_date": "08-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-p11.gdn": {
+            "epoch": "1538611200",
+            "expiration_date": "04-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-r21.gdn": {
+            "epoch": "1539043200",
+            "expiration_date": "09-oct-2018",
+            "state": "past"
+        },
+        "lmportant-warnlng-w01.gdn": {
+            "epoch": "1538265600",
+            "expiration_date": "30-sep-2018",
+            "state": "past"
+        },
+        "lmrports.com": {
+            "epoch": "1548720000",
+            "expiration_date": "29-jan-2019",
+            "state": "future"
+        },
+        "lngverificatie.ru": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "lnmaityayurveda.com": {
+            "epoch": "1557360000",
+            "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "loannaka.com": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
+            "state": "future"
+        },
+        "loansicn.com": {
+            "epoch": "1571529600",
+            "expiration_date": "20-oct-2019",
+            "state": "future"
+        },
+        "localmediaadvantage.com": {
+            "epoch": "1542844800",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
+        "localupline.fr": {
+            "epoch": "1546473600",
+            "expiration_date": "03-jan-2019",
+            "state": "future"
+        },
+        "locked-account-activity.com": {
+            "epoch": "1560988800",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "lockedservice-app1e.com": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "lodiasaroid.com": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "loghouserestoration.ca": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "logica-info.com": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "logicalastrology.com": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "login-manage.com": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
+        "login-review-information.com": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "logistrading.com": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "lojafnac.com": {
+            "epoch": "1564704000",
+            "expiration_date": "02-aug-2019",
+            "state": "future"
+        },
+        "lolacoffeebar.com": {
+            "epoch": "1566604800",
+            "expiration_date": "24-aug-2019",
+            "state": "future"
+        },
+        "lolblog.cn": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "lonasmonterrey.net": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
+        "loncar-ticic.com": {
+            "epoch": "1560643200",
+            "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "longeasy.net": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
+        "longlifefighter.com": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
+        "longtermbusinesssolutions.com": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "longtermcareinsure.com": {
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
+        },
+        "lord16.com": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "lormiservice.it": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "losmercantes.com": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "losnahuales.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "louisvilleorthopedics.com": {
+            "epoch": "1570406400",
+            "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "lowercasenyc.com": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "lplrangafrotas.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "lpmxp2017.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "lqrjkrsnhpjvss.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "lrbcontracting.ca": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "lrdavjagraon.com": {
+            "epoch": "1608508800",
+            "expiration_date": "21-dec-2020",
+            "state": "future"
+        },
+        "lrstnname.net": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "lscpafirm.com": {
+            "epoch": "1553040000",
+            "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "lt3456.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "ltaubankline30horas.com": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
+        "ltausonlinescls.top": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "lteinc.net": {
+            "epoch": "1540944000",
+            "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "ltfsolutions.net": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "ltunespurchasecancellation.com": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "ltvsnwjovnmbys.us": {
+            "epoch": "1553212800",
+            "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "luarumah.info": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "lubipumpss.com": {
+            "epoch": "1553126400",
+            "expiration_date": "21-mar-2019",
+            "state": "future"
+        },
+        "lucanminorhockey.com": {
+            "epoch": "1543881600",
+            "expiration_date": "04-dec-2018",
+            "state": "future"
+        },
+        "luchielle.com": {
+            "epoch": "1558742400",
+            "expiration_date": "25-may-2019",
+            "state": "future"
+        },
+        "luckycharmdesigns.com": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "luckys-fashion.com": {
+            "epoch": "1620518400",
+            "expiration_date": "09-may-2021",
+            "state": "future"
+        },
+        "ludvoxybkooeiyfmcb.com": {
+            "epoch": "1551225600",
+            "expiration_date": "27-feb-2019",
+            "state": "future"
+        },
+        "luguanmm.com": {
+            "epoch": "1553731200",
+            "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "luifergarcia.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "luishuergo.com": {
+            "epoch": "1566518400",
+            "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "lukaszchruszcz.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "luminahomecare.com": {
+            "epoch": "1544745600",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "luminousarabia.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "lumohukka.fi": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "future"
+        },
+        "lutes.org": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "luxeblisshair.com": {
+            "epoch": "1544054400",
+            "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "luxuryupgradepro.com": {
+            "epoch": "1550361600",
+            "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "lwyzzx.cn": {
+            "epoch": "1581724800",
+            "expiration_date": "15-feb-2020",
+            "state": "future"
+        },
+        "lxsg.net": {
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
+            "state": "future"
+        },
+        "lyndabarry.net": {
+            "epoch": "1556496000",
+            "expiration_date": "29-apr-2019",
+            "state": "future"
+        },
+        "lyonsmechanical.com": {
+            "epoch": "1629072000",
+            "expiration_date": "16-aug-2021",
+            "state": "future"
+        },
+        "lyricadcr.com": {
+            "epoch": "1534204800",
+            "expiration_date": "14-aug-2018",
+            "state": "past"
+        },
+        "lyricalks.com": {
+            "epoch": "1567555200",
+            "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "lyricalsk.com": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "lyricapow.com": {
+            "epoch": "1565913600",
+            "expiration_date": "16-aug-2019",
+            "state": "future"
+        },
+        "lysyp.com": {
+            "epoch": "1565740800",
+            "expiration_date": "14-aug-2019",
+            "state": "future"
         },
         "lztz.net": {
             "epoch": "1549411200",
@@ -15011,9 +15501,9 @@
             "state": "future"
         },
         "mariannelim.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "marillierproperties.com": {
             "epoch": "1572739200",
