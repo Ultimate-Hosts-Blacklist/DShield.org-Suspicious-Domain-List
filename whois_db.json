@@ -24890,6 +24890,11 @@
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "topikenrical.id": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
         "topmailersblog.com": {
             "epoch": "1553040000",
             "expiration_date": "20-mar-2019",
@@ -25200,6 +25205,11 @@
             "expiration_date": "04-apr-2019",
             "state": "future"
         },
+        "trtsport.cz": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
         "truehandles.com": {
             "epoch": "1552521600",
             "expiration_date": "14-mar-2019",
@@ -25505,6 +25515,11 @@
             "expiration_date": "10-jun-2019",
             "state": "future"
         },
+        "umf-schutzer-center.gdn": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
         "umiortechnical.com": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
@@ -25668,6 +25683,11 @@
         "update-disables-appleid-apple-accounts.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "update-ldentify.gdn": {
+            "epoch": "1544313600",
+            "expiration_date": "09-dec-2018",
             "state": "future"
         },
         "updatessonline.com": {
