@@ -22518,7 +22518,7 @@
         "slingshotvisualmedia.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "slkh7uu.com": {
             "epoch": "1551312000",
@@ -22741,9 +22741,9 @@
             "state": "future"
         },
         "solelyfun.com": {
-            "epoch": "1533772800",
-            "expiration_date": "09-aug-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "solomotos.net": {
             "epoch": "1576368000",
@@ -22788,6 +22788,11 @@
         "somanidiagnostic.com": {
             "epoch": "1681689600",
             "expiration_date": "17-apr-2023",
+            "state": "future"
+        },
+        "sommer.cx": {
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "sonaliaansh.net": {
@@ -22919,6 +22924,11 @@
             "epoch": "1534809600",
             "expiration_date": "21-aug-2018",
             "state": "past"
+        },
+        "spa-qualite.pl": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
         },
         "spacenmcxsw.com": {
             "epoch": "1549843200",
@@ -23926,9 +23936,9 @@
             "state": "future"
         },
         "tableauxargentes.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "tablelegs.ca": {
             "epoch": "1542931200",
