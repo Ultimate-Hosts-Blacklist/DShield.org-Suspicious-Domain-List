@@ -8295,6 +8295,11 @@
             "expiration_date": "15-mar-2019",
             "state": "future"
         },
+        "fishingchartersvancouver.ca": {
+            "epoch": "1547337600",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
         "fisolaystmns.com": {
             "epoch": "1554940800",
             "expiration_date": "11-apr-2019",
@@ -8560,6 +8565,11 @@
             "expiration_date": "05-nov-2018",
             "state": "future"
         },
+        "foxlimited.top": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
         "fqsjzxyey.com": {
             "epoch": "1620691200",
             "expiration_date": "11-may-2021",
@@ -8685,6 +8695,16 @@
             "expiration_date": "17-mar-2019",
             "state": "future"
         },
+        "fretiolo.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "frevolore.com": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
         "frioaislantes.com": {
             "epoch": "1552176000",
             "expiration_date": "10-mar-2019",
@@ -8698,6 +8718,11 @@
         "frontlinesecurityservices.net": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "froshserv.com": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
             "state": "future"
         },
         "frs7.com": {
@@ -8916,9 +8941,9 @@
             "state": "future"
         },
         "gameasset.market": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "gamecodes.stream": {
             "epoch": "1543536000",
