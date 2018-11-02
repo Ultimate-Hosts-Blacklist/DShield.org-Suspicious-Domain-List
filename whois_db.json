@@ -12350,6 +12350,11 @@
             "expiration_date": "03-mar-2019",
             "state": "future"
         },
+        "issrapollinare.it": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
         "issube-vakifbank-onlineislemler.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
@@ -12414,6 +12419,11 @@
             "epoch": "1569369600",
             "expiration_date": "25-sep-2019",
             "state": "future"
+        },
+        "iuga.ro": {
+            "epoch": "1538006400",
+            "expiration_date": "27-sep-2018",
+            "state": "past"
         },
         "iulkijatrefeg.com": {
             "epoch": "1543968000",
@@ -12481,8 +12491,8 @@
             "state": "future"
         },
         "jagoanmarketplace.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "jahnscpa.com": {
@@ -12548,6 +12558,11 @@
         "janelcandy.su": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
+            "state": "future"
+        },
+        "jangasm.org": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
             "state": "future"
         },
         "janlschwartz.com": {
@@ -13168,6 +13183,11 @@
         "jspkgj.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "jstaikos.com": {
+            "epoch": "1604016000",
+            "expiration_date": "30-oct-2020",
             "state": "future"
         },
         "jstzpcty.com": {
