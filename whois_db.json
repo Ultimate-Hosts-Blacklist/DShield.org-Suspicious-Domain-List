@@ -24815,6 +24815,16 @@
             "expiration_date": "24-feb-2019",
             "state": "future"
         },
+        "tekadrian.pro": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "telefonfiyatlari.org": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
         "telephonie-voip.info": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
@@ -24831,9 +24841,9 @@
             "state": "future"
         },
         "tellus-resources.com": {
-            "epoch": "1534118400",
-            "expiration_date": "13-aug-2018",
-            "state": "past"
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "teloblar.com": {
             "epoch": "1550620800",
@@ -24966,8 +24976,8 @@
             "state": "future"
         },
         "thaisilpa.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "thanhchungcu.com": {
@@ -25295,6 +25305,11 @@
             "expiration_date": "20-oct-2019",
             "state": "future"
         },
+        "tiantmall.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
         "ticketdoctor.net": {
             "epoch": "1609200000",
             "expiration_date": "29-dec-2020",
@@ -25316,8 +25331,8 @@
             "state": "future"
         },
         "tiendadeproductosyservicios.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "tiendamaspet.cl": {
@@ -26288,6 +26303,11 @@
         "update-ldentify.gdn": {
             "epoch": "1544313600",
             "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
+        "updateacces.org": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
             "state": "future"
         },
         "updatessonline.com": {
