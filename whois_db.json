@@ -4566,8 +4566,8 @@
             "state": "future"
         },
         "coopetrasam.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "copaemprendedores.com": {
@@ -4876,8 +4876,8 @@
             "state": "future"
         },
         "cscbarja.org": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "cscprivatelabel.com": {
@@ -5029,6 +5029,11 @@
             "epoch": "1550275200",
             "expiration_date": "16-feb-2019",
             "state": "future"
+        },
+        "cy-m0ld.com": {
+            "epoch": "1534464000",
+            "expiration_date": "17-aug-2018",
+            "state": "past"
         },
         "cybermarine.in": {
             "epoch": "1552521600",
@@ -5306,9 +5311,9 @@
             "state": "future"
         },
         "datingsales.com": {
-            "epoch": "1533945600",
-            "expiration_date": "11-aug-2018",
-            "state": "past"
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
         },
         "datongbs.net": {
             "epoch": "1618012800",
@@ -5378,7 +5383,7 @@
         "dd-seo.cn": {
             "epoch": "1541116800",
             "expiration_date": "02-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "ddcmczmw4qynrqak6.gdn": {
             "epoch": "1546992000",
@@ -5618,6 +5623,11 @@
         "depozituldegeneratoare.ro": {
             "epoch": "1697414400",
             "expiration_date": "16-oct-2023",
+            "state": "future"
+        },
+        "deradprash.com": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
             "state": "future"
         },
         "dereckandrade.com": {
