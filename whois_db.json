@@ -22595,6 +22595,11 @@
             "expiration_date": "10-apr-2019",
             "state": "future"
         },
+        "sh-sunq.com": {
+            "epoch": "1565049600",
+            "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
         "shahjalalbank.com": {
             "epoch": "1556409600",
             "expiration_date": "28-apr-2019",
@@ -22825,6 +22830,31 @@
             "expiration_date": "28-sep-2024",
             "state": "future"
         },
+        "shreesattargamjainsamaj.org": {
+            "epoch": "1556064000",
+            "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "shuangyanpijiage.com": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "shzrsy.net": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "siamwininganddining.com": {
+            "epoch": "1558051200",
+            "expiration_date": "17-may-2019",
+            "state": "future"
+        },
+        "sicma-media.com": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
         "siddhiclasses.in": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
@@ -22955,6 +22985,11 @@
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "singdoc.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
         "singhaniawires.com": {
             "epoch": "1598745600",
             "expiration_date": "30-aug-2020",
@@ -23076,9 +23111,9 @@
             "state": "future"
         },
         "slingshotvisualmedia.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "slkh7uu.com": {
             "epoch": "1551312000",
@@ -23111,8 +23146,8 @@
             "state": "future"
         },
         "smarticullties.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "smartmaxims.com": {
@@ -23844,6 +23879,11 @@
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
             "state": "future"
+        },
+        "storroliko.club": {
+            "epoch": "1537228800",
+            "expiration_date": "18-sep-2018",
+            "state": "past"
         },
         "storustovu.dk": {
             "epoch": "1553990400",
