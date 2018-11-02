@@ -16756,9 +16756,9 @@
             "state": "future"
         },
         "mmsbeauty.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "mnbcgroup.com": {
             "epoch": "1546214400",
@@ -17159,6 +17159,11 @@
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
             "state": "future"
+        },
+        "mtnet.ro": {
+            "epoch": "1539043200",
+            "expiration_date": "09-oct-2018",
+            "state": "past"
         },
         "mtr2000.net": {
             "epoch": "1566345600",
@@ -17653,6 +17658,11 @@
         "naturalpilldeal.ru": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "naveenmechanical.com": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "ncchfoundation.org": {
