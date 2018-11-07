@@ -1666,9 +1666,9 @@
             "state": "future"
         },
         "asiffidatanoli.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
-            "state": "past"
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
         },
         "asinglewomanmovie.com": {
             "epoch": "1565395200",
@@ -1701,8 +1701,8 @@
             "state": "future"
         },
         "aspamuhendislik.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "assexyas.com": {
@@ -2306,8 +2306,8 @@
             "state": "future"
         },
         "bartoncustomdesign.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "base5.cn": {
@@ -2516,8 +2516,8 @@
             "state": "future"
         },
         "beequalityindonesia.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "behemos.com": {
@@ -2773,6 +2773,11 @@
         "bikerouteshop.com": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
+            "state": "future"
+        },
+        "bikeshophaidli.com": {
+            "epoch": "1569888000",
+            "expiration_date": "01-oct-2019",
             "state": "future"
         },
         "bilgisayarmodifiyesi.com": {
