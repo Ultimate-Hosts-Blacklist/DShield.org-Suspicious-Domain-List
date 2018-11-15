@@ -6611,9 +6611,9 @@
             "state": "future"
         },
         "docsignverification.com": {
-            "epoch": "1534723200",
-            "expiration_date": "20-aug-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "docsolids.com": {
             "epoch": "1547251200",
@@ -6748,11 +6748,11 @@
         "downloadadvisory.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "downloadally.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "downloadcypher.com": {
@@ -6811,8 +6811,8 @@
             "state": "future"
         },
         "dreamdesignworkshop.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "dreddy.com": {
@@ -6891,8 +6891,8 @@
             "state": "future"
         },
         "dropfileviewer.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "droplbox.com": {
@@ -7146,8 +7146,8 @@
             "state": "future"
         },
         "eagleofislands.com": {
-            "epoch": "1541289600",
-            "expiration_date": "04-nov-2018",
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
             "state": "future"
         },
         "earlserver.info": {
@@ -7163,7 +7163,7 @@
         "earncodes.win": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "earngiftcards.download": {
             "epoch": "1547164800",
@@ -7346,9 +7346,9 @@
             "state": "future"
         },
         "edrugsstore.com": {
-            "epoch": "1537142400",
-            "expiration_date": "17-sep-2018",
-            "state": "past"
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "edscomp.ru": {
             "epoch": "1576886400",
