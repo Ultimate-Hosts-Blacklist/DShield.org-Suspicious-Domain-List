@@ -3388,7 +3388,7 @@
         "c-blog.ro": {
             "epoch": "1542153600",
             "expiration_date": "14-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "c242k.com": {
             "epoch": "1572739200",
@@ -3773,7 +3773,7 @@
         "cashcard.stream": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "cashdealergamer.com": {
             "epoch": "1568764800",
@@ -4241,8 +4241,8 @@
             "state": "future"
         },
         "chhmc.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "chikaxilvanatmae.com": {
@@ -4351,9 +4351,9 @@
             "state": "future"
         },
         "chotanito.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
-            "state": "past"
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
         },
         "christinepantazis.com": {
             "epoch": "1549670400",
@@ -4426,8 +4426,8 @@
             "state": "future"
         },
         "cintsglobal.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "cipremetal.com": {
@@ -4693,7 +4693,7 @@
         "codes4you.download": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "codesforyou.download": {
             "epoch": "1544486400",
@@ -4750,9 +4750,214 @@
             "expiration_date": "25-may-2019",
             "state": "future"
         },
+        "com-accsidpypal73.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "com-cancellation-order-form.info": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "com-help-contact-1000458702173775679.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "com-help-support-page.com": {
+            "epoch": "1553385600",
+            "expiration_date": "24-mar-2019",
+            "state": "future"
+        },
+        "com-issueinfo.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "com-macbook-mend.systems": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "future"
+        },
+        "com-signin-help.com": {
+            "epoch": "1553558400",
+            "expiration_date": "26-mar-2019",
+            "state": "future"
+        },
+        "com-support-information-account.info": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "combee84.com": {
+            "epoch": "1537142400",
+            "expiration_date": "17-sep-2018",
+            "state": "past"
+        },
+        "comcomsystems.com": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
+            "state": "future"
+        },
+        "comercialherby.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "comfortqatar.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "comiculture.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "comlerosn.com": {
+            "epoch": "1536624000",
+            "expiration_date": "11-sep-2018",
+            "state": "past"
+        },
+        "commercialroofingphoenixaz.com": {
+            "epoch": "1543449600",
+            "expiration_date": "29-nov-2018",
+            "state": "future"
+        },
+        "commissioncrusher.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "commonnamefilms.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
+        "commonnsystems.ca": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "commonwealthcpr.com": {
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "compdata.ca": {
+            "epoch": "1592092800",
+            "expiration_date": "14-jun-2020",
+            "state": "future"
+        },
+        "complete-o-acesso.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "completehvacr.com": {
+            "epoch": "1609459200",
+            "expiration_date": "01-jan-2021",
+            "state": "future"
+        },
+        "compowood.ru": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "comprascoletivas.net": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "comptable-montreal.ca": {
+            "epoch": "1566432000",
+            "expiration_date": "22-aug-2019",
+            "state": "future"
+        },
+        "compteverif.com": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "computeraidonline.com": {
+            "epoch": "1548288000",
+            "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "computercopierfl.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "comradefoundation.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
+        "concern-block.ru": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "conditioniq.com": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "condosguru.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "conectapsicologia.cl": {
+            "epoch": "1592179200",
+            "expiration_date": "15-jun-2020",
+            "state": "future"
+        },
+        "conexjuridica.com": {
+            "epoch": "1547424000",
+            "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "configurationfile.net": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "configurattions.com": {
+            "epoch": "1536105600",
+            "expiration_date": "05-sep-2018",
+            "state": "past"
+        },
+        "confirm-accessinfo.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "confirm-info-signin.com": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "future"
+        },
+        "confirmaccountnow.com": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "confirmation-login.com": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "confirmationusually.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
         "confirupdatound.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "confrimationmyaccounts-webappid.com": {
