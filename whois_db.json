@@ -15291,14 +15291,14 @@
             "state": "past"
         },
         "levitravuc.com": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "levitrayc.com": {
-            "epoch": "1534723200",
-            "expiration_date": "20-aug-2018",
-            "state": "past"
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
+            "state": "future"
         },
         "levityisland.com": {
             "epoch": "1544659200",
@@ -15896,9 +15896,9 @@
             "state": "future"
         },
         "losnahuales.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
-            "state": "past"
+            "epoch": "1604707200",
+            "expiration_date": "07-nov-2020",
+            "state": "future"
         },
         "louisvilleorthopedics.com": {
             "epoch": "1570406400",
@@ -16268,7 +16268,7 @@
         "makebitcoin.science": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "makeitaccess.com": {
             "epoch": "1550188800",
@@ -16316,8 +16316,8 @@
             "state": "future"
         },
         "malibushare.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "malikshabas.com": {
@@ -16338,7 +16338,7 @@
         "mamicode.bid": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "man1234.com": {
             "epoch": "1572048000",
