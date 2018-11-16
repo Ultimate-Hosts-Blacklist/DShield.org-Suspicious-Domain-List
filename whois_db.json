@@ -20768,7 +20768,7 @@
         "productivityboss.bid": {
             "epoch": "1541980800",
             "expiration_date": "12-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "proedgeinc.com": {
             "epoch": "1641340800",
@@ -20793,6 +20793,11 @@
         "proftopsale.su": {
             "epoch": "1549324800",
             "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
+        "progresivne.cz": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "projectangra.com": {
