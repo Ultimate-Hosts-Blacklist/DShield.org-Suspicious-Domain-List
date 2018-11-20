@@ -9938,12 +9938,12 @@
         "gift4you.men": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "giftcodes.trade": {
             "epoch": "1541808000",
             "expiration_date": "10-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "giftsandchallengesbook.org": {
             "epoch": "1546905600",
@@ -9953,7 +9953,7 @@
         "giftvoucher.download": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "gigaia.com": {
             "epoch": "1557273600",
@@ -10226,8 +10226,8 @@
             "state": "future"
         },
         "goldirainvesting.info": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "goldmanplastics.com": {
@@ -10261,8 +10261,8 @@
             "state": "future"
         },
         "goodhopeservices.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "goodlifehoor.se": {
@@ -10401,8 +10401,8 @@
             "state": "future"
         },
         "graveleautp.fr": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "grazdanin.info": {
@@ -10418,7 +10418,7 @@
         "greatdealsuk.co": {
             "epoch": "1542412800",
             "expiration_date": "17-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "greaterlibertybaptist.org": {
             "epoch": "1813449600",
@@ -10456,8 +10456,8 @@
             "state": "future"
         },
         "greenrocketservices.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "greenworldholding.com": {
@@ -10496,8 +10496,8 @@
             "state": "future"
         },
         "grlarquitectura.com": {
-            "epoch": "1541808000",
-            "expiration_date": "10-nov-2018",
+            "epoch": "1573344000",
+            "expiration_date": "10-nov-2019",
             "state": "future"
         },
         "grond-meester.com": {
@@ -10581,9 +10581,9 @@
             "state": "future"
         },
         "guangdelvyou.com": {
-            "epoch": "1535846400",
-            "expiration_date": "02-sep-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "guargumsupplier.com": {
             "epoch": "1562198400",
@@ -11461,8 +11461,8 @@
             "state": "future"
         },
         "historyofnaiknimbalkar.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "hitbtc.biz": {
