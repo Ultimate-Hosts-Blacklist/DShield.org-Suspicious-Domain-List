@@ -5876,8 +5876,8 @@
             "state": "future"
         },
         "dbsa-dream.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1636934400",
+            "expiration_date": "15-nov-2021",
             "state": "future"
         },
         "dccsolution.com": {
@@ -6751,9 +6751,9 @@
             "state": "future"
         },
         "downloadadvisory.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
-            "state": "past"
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
         },
         "downloadally.com": {
             "epoch": "1573776000",
