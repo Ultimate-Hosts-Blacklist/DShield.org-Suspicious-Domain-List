@@ -20953,7 +20953,7 @@
         "psychoterapia-arcus.pl": {
             "epoch": "1542672000",
             "expiration_date": "20-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "psychotherapiehaarlem.com": {
             "epoch": "1563753600",
@@ -21271,13 +21271,13 @@
             "state": "future"
         },
         "radicalprices.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "radicalzhr.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
             "state": "future"
         },
         "radioeonline.com": {
@@ -21381,8 +21381,8 @@
             "state": "future"
         },
         "randifertahses.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
             "state": "future"
         },
         "randolphcountyalabamapottery.com": {
@@ -21406,8 +21406,8 @@
             "state": "future"
         },
         "rasoeemasale.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "rathorekriti.com": {
@@ -21456,8 +21456,8 @@
             "state": "future"
         },
         "rbcholdings.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "rbsm-ameli-moncompte.com": {
@@ -21468,6 +21468,71 @@
         "rbupdate.com": {
             "epoch": "1563926400",
             "expiration_date": "24-jul-2019",
+            "state": "future"
+        },
+        "rcarle.com": {
+            "epoch": "1686268800",
+            "expiration_date": "09-jun-2023",
+            "state": "future"
+        },
+        "rce-jo.com": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
+        "rcenea-solaire.com": {
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
+        },
+        "rdggfh.co": {
+            "epoch": "1536624000",
+            "expiration_date": "11-sep-2018",
+            "state": "past"
+        },
+        "rdgtech.com": {
+            "epoch": "1549238400",
+            "expiration_date": "04-feb-2019",
+            "state": "future"
+        },
+        "reallacharite.com": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
+            "state": "future"
+        },
+        "realtopplus.ru": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
+        "realtreerustics.com": {
+            "epoch": "1560988800",
+            "expiration_date": "20-jun-2019",
+            "state": "future"
+        },
+        "realtypropertyfile.us": {
+            "epoch": "1562112000",
+            "expiration_date": "03-jul-2019",
+            "state": "future"
+        },
+        "rebootmywealth.com": {
+            "epoch": "1569369600",
+            "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "rebrand.ly": {
+            "epoch": "1757721600",
+            "expiration_date": "13-sep-2025",
+            "state": "future"
+        },
+        "reconnectworkshops.com": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "recordbreakersnetwork.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
             "state": "future"
         },
         "recovery-account.info": {
@@ -21531,8 +21596,8 @@
             "state": "future"
         },
         "redebuscas.org": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "redhotdirectory.com": {
@@ -21631,8 +21696,8 @@
             "state": "future"
         },
         "reincontrols.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
             "state": "future"
         },
         "reinforcingthechurch.com": {
@@ -21679,6 +21744,11 @@
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
             "state": "future"
+        },
+        "remorcicomerciale.ro": {
+            "epoch": "1535760000",
+            "expiration_date": "01-sep-2018",
+            "state": "past"
         },
         "renamsocreton.expert": {
             "epoch": "1546300800",
@@ -22286,8 +22356,8 @@
             "state": "future"
         },
         "rusmondf.com": {
-            "epoch": "1542412800",
-            "expiration_date": "17-nov-2018",
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
             "state": "future"
         },
         "russianfossils.com": {
@@ -22316,8 +22386,8 @@
             "state": "future"
         },
         "s2rteam.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "s4rver.com": {
