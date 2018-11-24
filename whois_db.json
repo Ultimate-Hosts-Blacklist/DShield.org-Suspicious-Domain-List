@@ -551,8 +551,8 @@
             "state": "future"
         },
         "51youhua.org": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "51ysxs.com": {
@@ -578,7 +578,7 @@
         "52djcy.com": {
             "epoch": "1543017600",
             "expiration_date": "24-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "52flz.com": {
             "epoch": "1558051200",
@@ -1256,13 +1256,123 @@
             "state": "future"
         },
         "aecrent.sg": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
+        },
+        "af-cn.com": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
             "state": "future"
         },
         "afabumtunpo.com": {
             "epoch": "1547942400",
             "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "affiliatesign.com": {
+            "epoch": "1536796800",
+            "expiration_date": "13-sep-2018",
+            "state": "past"
+        },
+        "affipr.com": {
+            "epoch": "1543968000",
+            "expiration_date": "05-dec-2018",
+            "state": "future"
+        },
+        "afive.net": {
+            "epoch": "1547769600",
+            "expiration_date": "18-jan-2019",
+            "state": "future"
+        },
+        "afrimove.com": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "afterforum.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "afugowe.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "againstgay.com": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "agamministries.org": {
+            "epoch": "1569283200",
+            "expiration_date": "24-sep-2019",
+            "state": "future"
+        },
+        "agenciacimark.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "agenpkr99.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "agentcruisereview.com": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "agentsforum.net": {
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "agenziagranzotto.it": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "aghisolutech.com": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "agilean.in": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "agilerichmond.com": {
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
+        },
+        "agiosgeorgioscorfu.com": {
+            "epoch": "1597708800",
+            "expiration_date": "18-aug-2020",
+            "state": "future"
+        },
+        "agleawe.com": {
+            "epoch": "1559347200",
+            "expiration_date": "01-jun-2019",
+            "state": "future"
+        },
+        "agricolamarsole.com": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
+            "state": "future"
+        },
+        "agroturismomontepatria.cl": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "agsteier.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
             "state": "future"
         },
         "apple-iforget.info": {
