@@ -1876,8 +1876,8 @@
             "state": "future"
         },
         "aterramientos.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "atexchemico.com": {
@@ -2856,8 +2856,8 @@
             "state": "past"
         },
         "bigdaddyjapan.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "biggeorge.com": {
@@ -2961,8 +2961,8 @@
             "state": "future"
         },
         "bioanalisisibague.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "bioarchinterior.com": {
@@ -3168,6 +3168,211 @@
         "blacktail-enterprises.com": {
             "epoch": "1590969600",
             "expiration_date": "01-jun-2020",
+            "state": "future"
+        },
+        "blacktipstudios.com": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
+        "blazfurjan.net": {
+            "epoch": "1555027200",
+            "expiration_date": "12-apr-2019",
+            "state": "future"
+        },
+        "blazingskins.com": {
+            "epoch": "1549929600",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "blde.ru": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "bleachkon.net": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "blessed2014.com": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "blhhwxdkfvdwqgui.click": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "bliman.com": {
+            "epoch": "1567382400",
+            "expiration_date": "02-sep-2019",
+            "state": "future"
+        },
+        "blissiq.com": {
+            "epoch": "1550966400",
+            "expiration_date": "24-feb-2019",
+            "state": "future"
+        },
+        "blockchaini.net": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "future"
+        },
+        "blockcheain.info": {
+            "epoch": "1550188800",
+            "expiration_date": "15-feb-2019",
+            "state": "future"
+        },
+        "blockchein.bid": {
+            "epoch": "1552521600",
+            "expiration_date": "14-mar-2019",
+            "state": "future"
+        },
+        "blockshaxn.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "blog-e-pedia.com": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "bloggingfornetworking.com": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
+        },
+        "blsmasale.com": {
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
+            "state": "future"
+        },
+        "bludomain7.net": {
+            "epoch": "1567209600",
+            "expiration_date": "31-aug-2019",
+            "state": "future"
+        },
+        "bluenetvist.info": {
+            "epoch": "1547078400",
+            "expiration_date": "10-jan-2019",
+            "state": "future"
+        },
+        "bluerockbulliescol.com": {
+            "epoch": "1545436800",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "blushsalon.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "bmyowsfuun.com": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
+            "state": "future"
+        },
+        "bnaimitzvahswag.com": {
+            "epoch": "1569196800",
+            "expiration_date": "23-sep-2019",
+            "state": "future"
+        },
+        "boa-secauth.com": {
+            "epoch": "1557446400",
+            "expiration_date": "10-may-2019",
+            "state": "future"
+        },
+        "boandamerica.com": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "boanewban.com": {
+            "epoch": "1545868800",
+            "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "boardwalk-mobility.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "bobbyandcracka.com": {
+            "epoch": "1554508800",
+            "expiration_date": "06-apr-2019",
+            "state": "future"
+        },
+        "boconceptla.com": {
+            "epoch": "1562025600",
+            "expiration_date": "02-jul-2019",
+            "state": "future"
+        },
+        "bodegassantarufina.pl": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
+            "state": "future"
+        },
+        "bodyandzon.se": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "bodyawaregrieving.com": {
+            "epoch": "1562457600",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "bofa-reviewsec.com": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "future"
+        },
+        "bogeyandbirdie.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "bogocn.com": {
+            "epoch": "1547596800",
+            "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "bohlapartments.com": {
+            "epoch": "1567036800",
+            "expiration_date": "29-aug-2019",
+            "state": "future"
+        },
+        "bohoth.com": {
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
+        "boiywers.men": {
+            "epoch": "1537747200",
+            "expiration_date": "24-sep-2018",
+            "state": "past"
+        },
+        "boldfield.com": {
+            "epoch": "1561939200",
+            "expiration_date": "01-jul-2019",
+            "state": "future"
+        },
+        "bollinger-design.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "bomar-spa.com": {
+            "epoch": "1559779200",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
+        "bombaybairag.com": {
+            "epoch": "1560556800",
+            "expiration_date": "15-jun-2019",
             "state": "future"
         },
         "boyerfamily.net": {
