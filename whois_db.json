@@ -18611,9 +18611,9 @@
             "state": "future"
         },
         "naturahipica.com": {
-            "epoch": "1536278400",
-            "expiration_date": "07-sep-2018",
-            "state": "past"
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
         },
         "naturalaspossiblemom.com": {
             "epoch": "1685750400",
@@ -18781,8 +18781,8 @@
             "state": "future"
         },
         "newlaunches.review": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "newlifebelieving.com": {
@@ -19240,6 +19240,11 @@
             "expiration_date": "24-feb-2019",
             "state": "future"
         },
+        "oanabulai.ro": {
+            "epoch": "1687910400",
+            "expiration_date": "28-jun-2023",
+            "state": "future"
+        },
         "oasislawchambers.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
@@ -19491,8 +19496,8 @@
             "state": "future"
         },
         "online-accountsupports.com": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "online-alerts.com": {
