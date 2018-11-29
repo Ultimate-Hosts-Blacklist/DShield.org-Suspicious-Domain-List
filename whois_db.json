@@ -1921,8 +1921,8 @@
             "state": "future"
         },
         "athoi-inc.com": {
-            "epoch": "1543104000",
-            "expiration_date": "25-nov-2018",
+            "epoch": "1574640000",
+            "expiration_date": "25-nov-2019",
             "state": "future"
         },
         "athomewithiz.com": {
@@ -2311,8 +2311,8 @@
             "state": "future"
         },
         "bananakomputer.com": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "bananaovercake.id": {
@@ -3264,6 +3264,11 @@
             "epoch": "1545523200",
             "expiration_date": "23-dec-2018",
             "state": "future"
+        },
+        "blog247.ro": {
+            "epoch": "1542240000",
+            "expiration_date": "15-nov-2018",
+            "state": "past"
         },
         "bloggingfornetworking.com": {
             "epoch": "1575331200",
