@@ -13988,7 +13988,7 @@
         "jojobet45.bid": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "jonasmarkel.com": {
             "epoch": "1551571200",
@@ -14116,13 +14116,13 @@
             "state": "future"
         },
         "jshpzd.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "jspkgj.com": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
             "state": "future"
         },
         "jstaikos.com": {
@@ -14131,8 +14131,8 @@
             "state": "future"
         },
         "jstzpcty.com": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
             "state": "future"
         },
         "jsxqhr.com": {
@@ -14663,7 +14663,7 @@
         "khanshop.com": {
             "epoch": "1543449600",
             "expiration_date": "29-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "khatibul-umamwiranu.com": {
             "epoch": "1569974400",
