@@ -23881,8 +23881,8 @@
             "state": "future"
         },
         "shchaoneng.cn": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "shcpa2011.com": {
@@ -23971,8 +23971,8 @@
             "state": "future"
         },
         "shopiastore.com": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "shoppfordeals.com": {
@@ -23983,12 +23983,12 @@
         "shoppingcardscode.win": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "shoppinggiftcard.trade": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "shoppuppets.com": {
             "epoch": "1561593600",
