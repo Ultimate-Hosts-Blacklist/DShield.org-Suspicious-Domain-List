@@ -18593,7 +18593,7 @@
         "n85853.cn": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "nab-activation-login.com": {
             "epoch": "1562889600",
@@ -18868,12 +18868,12 @@
         "neverusedcards.bid": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "neverusedcodes.download": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "newcards.download": {
             "epoch": "1549324800",
