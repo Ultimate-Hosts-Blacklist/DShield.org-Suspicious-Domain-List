@@ -25318,7 +25318,7 @@
         "sunriseengqatar.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sunshinecleaningservice.com": {
             "epoch": "1556755200",
@@ -25546,8 +25546,8 @@
             "state": "future"
         },
         "suzannemahler.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "svalleybd.com": {
@@ -25783,7 +25783,7 @@
         "talismjinder.com": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "tally-education.com": {
             "epoch": "1563926400",
@@ -26093,7 +26093,7 @@
         "termascurarrehue.cl": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "termodan.ro": {
             "epoch": "1602720000",
