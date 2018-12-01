@@ -11731,9 +11731,9 @@
             "state": "past"
         },
         "heiyingkkk.com": {
-            "epoch": "1536451200",
-            "expiration_date": "09-sep-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "hekoindia.com": {
             "epoch": "1593043200",
@@ -12218,12 +12218,12 @@
         "howtoget.review": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "howtogetcards.science": {
             "epoch": "1543536000",
             "expiration_date": "30-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "howtogetgiftcard.review": {
             "epoch": "1541808000",
@@ -12586,8 +12586,8 @@
             "state": "future"
         },
         "idemonterrey.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "idemperidem.com": {
