@@ -22603,7 +22603,7 @@
         "robertoalvarado.com": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "robertwebsterministries.org": {
             "epoch": "1571011200",
@@ -22903,6 +22903,11 @@
         "s8s8s8.com": {
             "epoch": "1560470400",
             "expiration_date": "14-jun-2019",
+            "state": "future"
+        },
+        "sa-vision.com": {
+            "epoch": "1606780800",
+            "expiration_date": "01-dec-2020",
             "state": "future"
         },
         "saawa.com": {
