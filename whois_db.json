@@ -22606,9 +22606,9 @@
             "state": "future"
         },
         "robertoalvarado.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
-            "state": "past"
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
         },
         "robertwebsterministries.org": {
             "epoch": "1571011200",
@@ -22686,8 +22686,8 @@
             "state": "future"
         },
         "rolzem.com": {
-            "epoch": "1544054400",
-            "expiration_date": "06-dec-2018",
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
             "state": "future"
         },
         "ronautoservice.com": {
@@ -22701,9 +22701,9 @@
             "state": "future"
         },
         "roomescapeclub.com": {
-            "epoch": "1536710400",
-            "expiration_date": "12-sep-2018",
-            "state": "past"
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
+            "state": "future"
         },
         "rosariaproducciones.com": {
             "epoch": "1551139200",
@@ -23101,8 +23101,8 @@
             "state": "future"
         },
         "sanjaytechnical.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1607040000",
+            "expiration_date": "04-dec-2020",
             "state": "future"
         },
         "sanskarjewels.com": {
@@ -23668,6 +23668,11 @@
         "service-appleld.com": {
             "epoch": "1573344000",
             "expiration_date": "10-nov-2019",
+            "state": "future"
+        },
+        "service-impots.org": {
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "service-mobile-free-fr.info": {
