@@ -8366,8 +8366,8 @@
             "state": "future"
         },
         "enzcal.com": {
-            "epoch": "1544227200",
-            "expiration_date": "08-dec-2018",
+            "epoch": "1575763200",
+            "expiration_date": "08-dec-2019",
             "state": "future"
         },
         "epay-clientesv3-0range.com": {
@@ -8408,7 +8408,7 @@
         "equityplanning.co": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "eraambiente.it": {
             "epoch": "1561075200",
