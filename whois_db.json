@@ -3906,8 +3906,8 @@
             "state": "future"
         },
         "cafe-being.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "cafebarge.fr": {
@@ -3936,13 +3936,13 @@
             "state": "future"
         },
         "calabriasportfishing.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "calcitynews.com": {
-            "epoch": "1543449600",
-            "expiration_date": "29-nov-2018",
+            "epoch": "1574985600",
+            "expiration_date": "29-nov-2019",
             "state": "future"
         },
         "calcomsec.com": {
@@ -4118,7 +4118,7 @@
         "card4you.men": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "cardgenerator.win": {
             "epoch": "1536969600",
