@@ -22971,8 +22971,8 @@
             "state": "future"
         },
         "sagebiotech.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "sagemark.ca": {
@@ -23448,6 +23448,11 @@
         "secure2account-myaccountwebappid.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
+            "state": "future"
+        },
+        "secureaccount.ru": {
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "securenetworkforyou.com": {
@@ -23926,8 +23931,8 @@
             "state": "future"
         },
         "shedsforliving.com": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "sheekstudio.co": {
