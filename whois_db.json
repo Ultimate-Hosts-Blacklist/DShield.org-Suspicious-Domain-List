@@ -27221,8 +27221,8 @@
             "state": "future"
         },
         "tuvanmuanhagiare.com": {
-            "epoch": "1543881600",
-            "expiration_date": "04-dec-2018",
+            "epoch": "1575417600",
+            "expiration_date": "04-dec-2019",
             "state": "future"
         },
         "tvandsportstreams.com": {
@@ -27508,7 +27508,7 @@
         "unusedcards.download": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "unusual-latransaction.com": {
             "epoch": "1551139200",
@@ -27528,7 +27528,7 @@
         "update-ldentify.gdn": {
             "epoch": "1544313600",
             "expiration_date": "09-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "updateacces.org": {
             "epoch": "1543536000",
@@ -28186,8 +28186,8 @@
             "state": "future"
         },
         "vikingrepairhouston.com": {
-            "epoch": "1544659200",
-            "expiration_date": "13-dec-2018",
+            "epoch": "1576195200",
+            "expiration_date": "13-dec-2019",
             "state": "future"
         },
         "vilafils.com": {
