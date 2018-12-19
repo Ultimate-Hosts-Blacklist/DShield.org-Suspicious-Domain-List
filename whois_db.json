@@ -1591,8 +1591,8 @@
             "state": "future"
         },
         "archtopmakers.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "archwiadomosci.com": {
@@ -1646,19 +1646,19 @@
             "state": "future"
         },
         "arianfosterprobowljersey.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
             "state": "future"
         },
         "aripipentruingeri.ro": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1699401600",
+            "expiration_date": "08-nov-2023",
             "state": "future"
         },
         "arisetechindia.com": {
-            "epoch": "1535760000",
-            "expiration_date": "01-sep-2018",
-            "state": "past"
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "aristauniversal.com": {
             "epoch": "1550620800",
@@ -1820,6 +1820,11 @@
             "expiration_date": "01-jul-2023",
             "state": "future"
         },
+        "asiahp.net": {
+            "epoch": "1702512000",
+            "expiration_date": "14-dec-2023",
+            "state": "future"
+        },
         "asialifemagazine.com": {
             "epoch": "1571875200",
             "expiration_date": "24-oct-2019",
@@ -1856,8 +1861,8 @@
             "state": "future"
         },
         "askjacky.com": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
             "state": "future"
         },
         "asl-logisticsworldwide.com": {
@@ -1991,8 +1996,8 @@
             "state": "future"
         },
         "atozcrytomining.com": {
-            "epoch": "1544745600",
-            "expiration_date": "14-dec-2018",
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
             "state": "future"
         },
         "atreslogisticandco.com": {
@@ -2238,7 +2243,7 @@
         "azekazekjos.com": {
             "epoch": "1545177600",
             "expiration_date": "19-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "azlawassociates.com": {
             "epoch": "1572480000",
