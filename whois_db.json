@@ -25173,7 +25173,7 @@
         "stro70.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "stroyeq.ru": {
             "epoch": "1551312000",
