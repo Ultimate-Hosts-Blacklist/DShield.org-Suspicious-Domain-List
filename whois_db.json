@@ -23661,8 +23661,8 @@
             "state": "future"
         },
         "seozwolle.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "seqsixxx.com": {
@@ -23803,7 +23803,7 @@
         "sexmotors.bid": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "sexueyun.com": {
             "epoch": "1558656000",
