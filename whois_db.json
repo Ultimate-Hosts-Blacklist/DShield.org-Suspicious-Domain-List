@@ -1891,8 +1891,8 @@
             "state": "future"
         },
         "assurances-aac.fr": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "assure-ameli-mon-compte.com": {
@@ -2246,9 +2246,9 @@
             "state": "future"
         },
         "azekazekjos.com": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "azlawassociates.com": {
             "epoch": "1572480000",
@@ -2883,7 +2883,7 @@
         "beunhaas.biz": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "bga100.cn": {
             "epoch": "1547510400",
@@ -3151,8 +3151,13 @@
             "state": "future"
         },
         "biznessmebeli.ru": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
+            "state": "future"
+        },
+        "biznettvigator.com": {
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
             "state": "future"
         },
         "bjdenon.com": {
