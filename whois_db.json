@@ -14631,14 +14631,14 @@
             "state": "future"
         },
         "kavyanepal.com": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "kawalisse.men": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "kazaltd.com": {
             "epoch": "1569369600",
@@ -14651,8 +14651,8 @@
             "state": "future"
         },
         "kbnbusinesssolutions.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
             "state": "future"
         },
         "kc316.com": {
@@ -14925,6 +14925,11 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "kiransurgicals.com": {
+            "epoch": "1576281600",
+            "expiration_date": "14-dec-2019",
+            "state": "future"
+        },
         "kirkuc.com": {
             "epoch": "1573257600",
             "expiration_date": "09-nov-2019",
@@ -15081,8 +15086,8 @@
             "state": "future"
         },
         "kogantihomes.org": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
             "state": "future"
         },
         "kohnrath.com": {
@@ -15556,9 +15561,9 @@
             "state": "future"
         },
         "laurakaufman.net": {
-            "epoch": "1536796800",
-            "expiration_date": "13-sep-2018",
-            "state": "past"
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
         },
         "laurenebrady.com": {
             "epoch": "1569715200",
