@@ -9641,8 +9641,8 @@
             "state": "future"
         },
         "foxlimited.top": {
-            "epoch": "1544140800",
-            "expiration_date": "07-dec-2018",
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
             "state": "future"
         },
         "fqsjzxyey.com": {
@@ -9918,7 +9918,7 @@
         "fxpcw.com": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "fxztjnsb.com": {
             "epoch": "1574640000",
