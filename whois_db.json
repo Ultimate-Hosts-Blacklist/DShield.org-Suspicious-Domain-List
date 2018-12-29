@@ -5496,8 +5496,8 @@
             "state": "future"
         },
         "construtorasetta.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1607472000",
+            "expiration_date": "09-dec-2020",
             "state": "future"
         },
         "consultdesk.com": {
@@ -5513,6 +5513,11 @@
         "consultwinstra.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "contact-instagram.com": {
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
             "state": "future"
         },
         "contraclick.com": {
@@ -5651,8 +5656,8 @@
             "state": "future"
         },
         "counterpartstudies.com": {
-            "epoch": "1544832000",
-            "expiration_date": "15-dec-2018",
+            "epoch": "1576368000",
+            "expiration_date": "15-dec-2019",
             "state": "future"
         },
         "couponingiscool.com": {
@@ -6158,7 +6163,7 @@
         "dailysports.us": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dajiashige.com": {
             "epoch": "1563667200",
@@ -6196,8 +6201,8 @@
             "state": "future"
         },
         "danalterman.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "dancing-irish.com": {
