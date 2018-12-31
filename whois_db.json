@@ -25211,9 +25211,9 @@
             "state": "future"
         },
         "stro70.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
-            "state": "past"
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
         },
         "stroyeq.ru": {
             "epoch": "1551312000",
@@ -25271,8 +25271,8 @@
             "state": "future"
         },
         "stylefreecrewmusic.com": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "sube-enparamobilsube.com": {
@@ -25296,8 +25296,8 @@
             "state": "future"
         },
         "subeihm.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "subesi-akbank.com": {
@@ -25316,8 +25316,8 @@
             "state": "future"
         },
         "substanceunderground.com": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
             "state": "future"
         },
         "successfuleating.com": {
@@ -25331,8 +25331,8 @@
             "state": "future"
         },
         "sudanikuwaity.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
             "state": "future"
         },
         "suesschool.com": {
@@ -25848,7 +25848,7 @@
         "tainguyensaefood.com": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "takerest.net": {
             "epoch": "1562371200",
