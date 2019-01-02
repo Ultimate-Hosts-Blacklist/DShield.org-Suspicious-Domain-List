@@ -27870,6 +27870,11 @@
             "expiration_date": "13-nov-2019",
             "state": "future"
         },
+        "valley-store.com": {
+            "epoch": "1609459200",
+            "expiration_date": "01-jan-2021",
+            "state": "future"
+        },
         "valleyfootcare.ca": {
             "epoch": "1565395200",
             "expiration_date": "10-aug-2019",
@@ -28396,9 +28401,9 @@
             "state": "future"
         },
         "vitesdady.net": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
-            "state": "past"
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
         },
         "vkazakov.com": {
             "epoch": "1548374400",
@@ -28771,8 +28776,8 @@
             "state": "future"
         },
         "wealth-doctor.com": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
             "state": "future"
         },
         "wealthbuildingtipsfromeric.com": {
@@ -28926,8 +28931,8 @@
             "state": "future"
         },
         "westdy.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "westernarts.net": {
