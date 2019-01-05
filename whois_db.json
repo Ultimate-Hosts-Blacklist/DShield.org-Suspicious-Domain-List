@@ -4336,9 +4336,9 @@
             "state": "future"
         },
         "caveaudelteatro.it": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
-            "state": "past"
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
         },
         "caveki.com": {
             "epoch": "1574121600",
@@ -4811,9 +4811,9 @@
             "state": "future"
         },
         "chinavigator.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
-            "state": "past"
+            "epoch": "1608854400",
+            "expiration_date": "25-dec-2020",
+            "state": "future"
         },
         "chipawo.org": {
             "epoch": "1548633600",
@@ -5116,9 +5116,9 @@
             "state": "future"
         },
         "cn-lushan.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
-            "state": "past"
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
+            "state": "future"
         },
         "cn-server.com": {
             "epoch": "1551052800",
