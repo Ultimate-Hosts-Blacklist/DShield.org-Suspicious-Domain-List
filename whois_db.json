@@ -10266,8 +10266,8 @@
             "state": "future"
         },
         "geogeniusindia.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "geogospeltroupe.com": {
@@ -10323,7 +10323,7 @@
         "getairj.men": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getamobilesite.com": {
             "epoch": "1548115200",
@@ -10373,7 +10373,7 @@
         "getcryptocurrency.trade": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getget.rs": {
             "epoch": "1551916800",
@@ -10393,12 +10393,12 @@
         "getgiftcards.review": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getiphonex.trade": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getrealestatehelp.com": {
             "epoch": "1567728000",
@@ -10511,13 +10511,13 @@
             "state": "future"
         },
         "girlhistory.ru": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "girlsneedhelp.info": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
             "state": "future"
         },
         "giromamas.mk": {
@@ -11186,8 +11186,8 @@
             "state": "future"
         },
         "guyjin.me": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "gwbrq.com": {
@@ -11591,8 +11591,8 @@
             "state": "future"
         },
         "harajsayarattabuk.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "hariharaestates.com": {
