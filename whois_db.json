@@ -21645,9 +21645,14 @@
             "expiration_date": "01-mar-2019",
             "state": "future"
         },
+        "q96healthybrain.com": {
+            "epoch": "1609632000",
+            "expiration_date": "03-jan-2021",
+            "state": "future"
+        },
         "qasimtablamaker.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "qcexample.com": {
@@ -21723,7 +21728,7 @@
         "qrcodesantander.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "qrmrussia.ru": {
             "epoch": "1550880000",
@@ -21761,8 +21766,8 @@
             "state": "future"
         },
         "quatangohha.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "qudppqwpkvlsfkn.com": {
@@ -21798,6 +21803,11 @@
         "qujnukg.info": {
             "epoch": "1553040000",
             "expiration_date": "20-mar-2019",
+            "state": "future"
+        },
+        "qwepa.com": {
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "qwplvisnjturjnwoab.com": {
@@ -22006,8 +22016,8 @@
             "state": "future"
         },
         "rawanahmedr.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "rawfoodthailand.com": {
@@ -22193,11 +22203,11 @@
         "redlinks.cl": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "redroselandscape.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "redstartechnology.com": {
@@ -22268,7 +22278,7 @@
         "regupdate-ldentupgrade.gdn": {
             "epoch": "1544313600",
             "expiration_date": "09-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "rehab.ru": {
             "epoch": "1548720000",
@@ -22296,8 +22306,8 @@
             "state": "future"
         },
         "reklamsekeri.com": {
-            "epoch": "1543968000",
-            "expiration_date": "05-dec-2018",
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
             "state": "future"
         },
         "relativityincorporated.com": {
@@ -22336,8 +22346,8 @@
             "state": "past"
         },
         "renamsocreton.expert": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "renatarabelo.com": {
@@ -22463,7 +22473,7 @@
         "responsegenie.com": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "restaurantneelam.com": {
             "epoch": "1549497600",
