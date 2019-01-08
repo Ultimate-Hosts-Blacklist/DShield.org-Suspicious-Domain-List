@@ -2126,9 +2126,9 @@
             "state": "future"
         },
         "autsedpurgaammer.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
-            "state": "past"
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "av356.com": {
             "epoch": "1558051200",
@@ -2146,8 +2146,8 @@
             "state": "future"
         },
         "avaniinfra.in": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "avantgardesss.com": {
@@ -2298,7 +2298,7 @@
         "bagtut.ru": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "bahria123.com": {
             "epoch": "1574121600",
@@ -2433,7 +2433,7 @@
         "banoteraswaer.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "banquetroyalenigeria.com": {
             "epoch": "1553904000",
@@ -2878,7 +2878,7 @@
         "bethesdamarketing.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "betterlifefriends.com": {
             "epoch": "1569283200",
