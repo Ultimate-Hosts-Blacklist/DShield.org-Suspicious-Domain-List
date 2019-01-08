@@ -27211,8 +27211,8 @@
             "state": "future"
         },
         "tsopouridis.com": {
-            "epoch": "1546819200",
-            "expiration_date": "07-jan-2019",
+            "epoch": "1578355200",
+            "expiration_date": "07-jan-2020",
             "state": "future"
         },
         "tsu-68.com": {
@@ -27306,9 +27306,9 @@
             "state": "future"
         },
         "tushiwang.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
-            "state": "past"
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "tuu-mitsu.com": {
             "epoch": "1547164800",
@@ -27708,7 +27708,7 @@
         "usaensoldes.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "usafunzone.com": {
             "epoch": "1566950400",
@@ -27761,8 +27761,8 @@
             "state": "future"
         },
         "usmartialartsassociation.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1610064000",
+            "expiration_date": "08-jan-2021",
             "state": "future"
         },
         "usmobilestore.com": {
@@ -27951,8 +27951,8 @@
             "state": "future"
         },
         "vanhookproperties.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "vanillagroup.in": {
