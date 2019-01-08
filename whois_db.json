@@ -3930,6 +3930,11 @@
             "expiration_date": "15-sep-2020",
             "state": "future"
         },
+        "cadxiedan.com": {
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
         "caernoeslasentenciafinal.com": {
             "epoch": "1552521600",
             "expiration_date": "14-mar-2019",
@@ -4108,7 +4113,7 @@
         "canvasconvos.com": {
             "epoch": "1546905600",
             "expiration_date": "08-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cape4down.com": {
             "epoch": "1564790400",
