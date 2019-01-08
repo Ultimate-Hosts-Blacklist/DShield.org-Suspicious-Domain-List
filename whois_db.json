@@ -29426,8 +29426,8 @@
             "state": "future"
         },
         "xingyunjiaren.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "xinhuacybz.com": {
@@ -29836,9 +29836,9 @@
             "state": "past"
         },
         "yorlanproperty.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
-            "state": "past"
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "yosle.net": {
             "epoch": "1575936000",
