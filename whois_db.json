@@ -25011,8 +25011,8 @@
             "state": "future"
         },
         "stacywilwertphotography.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "staffingsouls.com": {
@@ -25028,7 +25028,7 @@
         "staraskola.mk": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "starbuyproperty.net": {
             "epoch": "1574812800",
@@ -25288,7 +25288,7 @@
         "studioopussektile.mk": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sturdeephotography.com": {
             "epoch": "1572048000",
