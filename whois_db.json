@@ -23761,9 +23761,9 @@
             "state": "future"
         },
         "service-apple-ld.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "service-appleld.com": {
             "epoch": "1573344000",
@@ -24038,7 +24038,7 @@
         "shepherdhousedppc.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "sherbatovo-hram.ru": {
             "epoch": "1573516800",
