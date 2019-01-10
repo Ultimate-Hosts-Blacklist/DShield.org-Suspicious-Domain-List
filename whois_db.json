@@ -27706,9 +27706,9 @@
             "state": "future"
         },
         "usaensoldes.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "usafunzone.com": {
             "epoch": "1566950400",
@@ -28318,7 +28318,7 @@
         "vimoszlakin.com": {
             "epoch": "1547078400",
             "expiration_date": "10-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "vinebunker.com": {
             "epoch": "1564617600",
