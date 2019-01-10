@@ -20851,8 +20851,8 @@
             "state": "future"
         },
         "pitchforkny.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "pittsburghcollegelawyer.com": {
@@ -20973,7 +20973,7 @@
         "pnh9fq9bvlbfpnych.gdn": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "pnhdqltkumbyhqyrtqi.com": {
             "epoch": "1551657600",
@@ -21736,9 +21736,9 @@
             "state": "future"
         },
         "qrcodesantander.com": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
-            "state": "past"
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "qrmrussia.ru": {
             "epoch": "1550880000",
