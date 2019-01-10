@@ -29983,7 +29983,7 @@
         "z5k25qb8xwhbjfhsj.gdn": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "zahlungsdaten-validierung-aktuell-de.gdn": {
             "epoch": "1551225600",
