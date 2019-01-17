@@ -19606,8 +19606,8 @@
             "state": "future"
         },
         "nsambyahillsideschools.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "nskhkfvcsipcuuehvpq.com": {
@@ -19923,7 +19923,7 @@
         "oneness4all.org": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "oneontamartialarts.com": {
             "epoch": "1555545600",
@@ -20166,8 +20166,8 @@
             "state": "future"
         },
         "orsispharma.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "ortaokultestleri.net": {
@@ -20186,8 +20186,8 @@
             "state": "future"
         },
         "osdyapi.com": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "oshoforge.com": {
@@ -20256,9 +20256,9 @@
             "state": "future"
         },
         "owona.net": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
-            "state": "past"
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
+            "state": "future"
         },
         "oxfordsolarpark.com": {
             "epoch": "1558051200",
