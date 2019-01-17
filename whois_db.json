@@ -10573,7 +10573,7 @@
         "getamzcodes.men": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getbridge.stream": {
             "epoch": "1548979200",
@@ -10711,9 +10711,9 @@
             "state": "past"
         },
         "giftsandchallengesbook.org": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "giftvoucher.download": {
             "epoch": "1542672000",
@@ -10788,7 +10788,7 @@
         "givinggiftcards.stream": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "gizmocaster.com": {
             "epoch": "1558310400",
@@ -10986,8 +10986,8 @@
             "state": "future"
         },
         "goldendeerinteriors.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "goldenstatebuilding.info": {
@@ -11111,9 +11111,9 @@
             "state": "future"
         },
         "govelogistics.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "gpstctx.com": {
             "epoch": "1566950400",
@@ -11131,8 +11131,8 @@
             "state": "future"
         },
         "graceimmigration.ca": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "graficasseryal.com": {
@@ -11206,8 +11206,8 @@
             "state": "future"
         },
         "greenbudsservices.in": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "greendatainfo.com": {
@@ -11876,8 +11876,8 @@
             "state": "future"
         },
         "hashzyadahon.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "hatzopoulos.com": {
@@ -12006,8 +12006,8 @@
             "state": "future"
         },
         "hedinhall.com": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "heicha800.com": {
