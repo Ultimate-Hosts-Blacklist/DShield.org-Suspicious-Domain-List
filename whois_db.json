@@ -3791,8 +3791,8 @@
             "state": "future"
         },
         "bqbbw.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "br-miappidsintlappcuentavrf.com": {
@@ -3981,8 +3981,8 @@
             "state": "future"
         },
         "buddylourdes.com": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "budmar-nasielsk.pl": {
@@ -4336,9 +4336,9 @@
             "state": "future"
         },
         "canvasconvos.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "cape4down.com": {
             "epoch": "1564790400",
@@ -4363,7 +4363,7 @@
         "caprofatcatering.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "capstoneresidencesug.com": {
             "epoch": "1572480000",
@@ -4636,8 +4636,8 @@
             "state": "future"
         },
         "celebrapack.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "cellopaw.com": {
@@ -5031,8 +5031,8 @@
             "state": "past"
         },
         "chinalve.com": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "chinaplanning.org": {
@@ -5091,8 +5091,8 @@
             "state": "future"
         },
         "chronopost-service-enligne.net": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "chuckdaarsonist.net": {
@@ -5188,6 +5188,11 @@
         "cityyogasc.com": {
             "epoch": "1571356800",
             "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "cji1.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
             "state": "future"
         },
         "ckt4.cn": {
