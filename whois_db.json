@@ -6158,7 +6158,7 @@
         "cu4yxrg8rgkqkdkr2.gdn": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cualitel.com": {
             "epoch": "1574899200",
@@ -6218,7 +6218,7 @@
         "customcedarfencesofmichigan.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "customchopperstuff.com": {
             "epoch": "1564444800",
@@ -6461,9 +6461,9 @@
             "state": "future"
         },
         "dantkadard.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "daratherapy.com": {
             "epoch": "1547769600",
@@ -6496,9 +6496,9 @@
             "state": "future"
         },
         "darknesta.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
-            "state": "past"
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
+            "state": "future"
         },
         "darkstratus.com": {
             "epoch": "1575763200",
@@ -6626,8 +6626,8 @@
             "state": "future"
         },
         "dccsolution.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "dd-seo.cn": {
@@ -6638,7 +6638,7 @@
         "ddcmczmw4qynrqak6.gdn": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ddkoo.com": {
             "epoch": "1555718400",
@@ -6716,8 +6716,8 @@
             "state": "future"
         },
         "defenseattorneyvamd.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "defensewives.com": {
@@ -7266,8 +7266,8 @@
             "state": "future"
         },
         "distribuidoraserrana.com": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "distributor-herbal.com": {
@@ -7371,8 +7371,8 @@
             "state": "future"
         },
         "docsolids.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "doctorch.com": {
@@ -7471,8 +7471,8 @@
             "state": "future"
         },
         "doregeneracji.pl": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "dorianusa.com": {
