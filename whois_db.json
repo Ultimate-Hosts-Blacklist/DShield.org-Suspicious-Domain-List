@@ -23705,6 +23705,11 @@
             "expiration_date": "13-may-2019",
             "state": "future"
         },
+        "secbird.com": {
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
         "secur-app-webapps.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
@@ -24236,8 +24241,8 @@
             "state": "future"
         },
         "shcpa2011.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "sheabutterworld.com": {
@@ -24271,9 +24276,9 @@
             "state": "future"
         },
         "shepherdhousedppc.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
-            "state": "past"
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
+            "state": "future"
         },
         "sherbatovo-hram.ru": {
             "epoch": "1573516800",
@@ -24313,7 +24318,7 @@
         "shokugekinosoma.bid": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "shopcarolinas.com": {
             "epoch": "1574294400",
@@ -24383,6 +24388,11 @@
         "shuangyanpijiage.com": {
             "epoch": "1563840000",
             "expiration_date": "23-jul-2019",
+            "state": "future"
+        },
+        "shubhbhawna.com": {
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "shzrsy.net": {
