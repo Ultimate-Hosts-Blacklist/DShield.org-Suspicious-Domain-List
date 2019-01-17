@@ -21421,8 +21421,8 @@
             "state": "future"
         },
         "prashagensets.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "prateekentertainments.net": {
@@ -21678,7 +21678,7 @@
         "proofgenerator.bid": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "propertologie.com": {
             "epoch": "1573430400",
