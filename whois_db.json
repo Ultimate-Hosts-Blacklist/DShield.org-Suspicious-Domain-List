@@ -19773,7 +19773,7 @@
         "ofcounselnigeria.com": {
             "epoch": "1548028800",
             "expiration_date": "21-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ofertasmagalu2018.com": {
             "epoch": "1553644800",
@@ -19921,9 +19921,9 @@
             "state": "future"
         },
         "oneness4all.org": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
-            "state": "past"
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
+            "state": "future"
         },
         "oneontamartialarts.com": {
             "epoch": "1555545600",
@@ -20456,8 +20456,8 @@
             "state": "future"
         },
         "para-sante-moins-cher.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "paradise111.com": {
