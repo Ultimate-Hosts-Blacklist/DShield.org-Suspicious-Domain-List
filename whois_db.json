@@ -16306,8 +16306,8 @@
             "state": "future"
         },
         "lionfencing.com": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "lionlino.com": {
@@ -16598,7 +16598,7 @@
         "localupline.fr": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "locked-account-activity.com": {
             "epoch": "1560988800",
@@ -16841,8 +16841,8 @@
             "state": "future"
         },
         "lukaszchruszcz.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "luminahomecare.com": {
