@@ -12291,8 +12291,8 @@
             "state": "future"
         },
         "hmdocuments.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "hnacpc.com": {
@@ -12396,8 +12396,8 @@
             "state": "future"
         },
         "hongkongfashionsbd.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "honlpvc.com": {
@@ -13178,7 +13178,7 @@
         "indiatouragency.com": {
             "epoch": "1547942400",
             "expiration_date": "20-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "indinet.info": {
             "epoch": "1564790400",
