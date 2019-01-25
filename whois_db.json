@@ -9010,6 +9010,11 @@
             "expiration_date": "23-mar-2019",
             "state": "future"
         },
+        "exchu.com": {
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
+            "state": "future"
+        },
         "exclusive-collections.com": {
             "epoch": "1623715200",
             "expiration_date": "15-jun-2021",
@@ -9686,8 +9691,8 @@
             "state": "future"
         },
         "flintbg.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "flipflopsarenotshoes.com": {
