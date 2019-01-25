@@ -10608,12 +10608,12 @@
         "getcodes.science": {
             "epoch": "1548201600",
             "expiration_date": "23-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getcrypto.download": {
             "epoch": "1548201600",
             "expiration_date": "23-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "getcryptocurrency.trade": {
             "epoch": "1546300800",
@@ -11231,8 +11231,8 @@
             "state": "future"
         },
         "greenonbluewebsite.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "greenrocketservices.com": {
@@ -12131,8 +12131,8 @@
             "state": "future"
         },
         "hesaponay.com": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "heshimed.com": {
@@ -12193,7 +12193,7 @@
         "high-light-tw.com": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "higherstudyinchina.com": {
             "epoch": "1619136000",
@@ -12206,8 +12206,8 @@
             "state": "future"
         },
         "hightimberalpacaranch.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "hihimn.com": {
@@ -12251,8 +12251,8 @@
             "state": "future"
         },
         "hitchcockhay.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "hitdesignworks.com": {
