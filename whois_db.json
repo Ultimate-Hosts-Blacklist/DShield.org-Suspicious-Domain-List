@@ -19781,9 +19781,9 @@
             "state": "future"
         },
         "ofcounselnigeria.com": {
-            "epoch": "1548028800",
-            "expiration_date": "21-jan-2019",
-            "state": "past"
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
+            "state": "future"
         },
         "ofertasmagalu2018.com": {
             "epoch": "1553644800",
@@ -19911,8 +19911,8 @@
             "state": "future"
         },
         "oncapecodwaters.com": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "onceambientstore.com": {
@@ -20191,8 +20191,8 @@
             "state": "future"
         },
         "oscartoddphotography.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "osdyapi.com": {
@@ -20206,8 +20206,8 @@
             "state": "future"
         },
         "osmeeuewe.org": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "oss-india.com": {
@@ -20473,6 +20473,11 @@
         "paradise111.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "paraf-card.com": {
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "paraf-halk-islem.com": {
@@ -20741,9 +20746,9 @@
             "state": "future"
         },
         "pc-broe.dk": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
-            "state": "past"
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
         },
         "pc-pointers.com": {
             "epoch": "1548460800",
