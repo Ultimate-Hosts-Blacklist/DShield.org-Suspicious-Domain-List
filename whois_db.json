@@ -28113,7 +28113,7 @@
         "vacanzelba.it": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "vacation-guide-blog.com": {
             "epoch": "1576800000",
@@ -28656,8 +28656,8 @@
             "state": "future"
         },
         "vishalchem.com": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "visioniconsulting.com": {
@@ -28701,9 +28701,9 @@
             "state": "future"
         },
         "vkazakov.com": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
-            "state": "past"
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
+            "state": "future"
         },
         "vkset.pro": {
             "epoch": "1553472000",
@@ -29333,7 +29333,7 @@
         "winaliteecuador.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "windenergycapitaloftexascookoff.com": {
             "epoch": "1601337600",
