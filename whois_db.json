@@ -4233,7 +4233,7 @@
         "calpenda.club": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "calvarychapelmacomb.com": {
             "epoch": "1573948800",
@@ -5046,8 +5046,8 @@
             "state": "future"
         },
         "chipawo.org": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "chiropractic-wellness.com": {
@@ -5206,8 +5206,8 @@
             "state": "future"
         },
         "claim-serv.me": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
             "state": "future"
         },
         "claimfreebitcoin.bid": {
@@ -5388,7 +5388,7 @@
         "coachadvisor.it": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "coachoutletonlinestoresusa.com": {
             "epoch": "1575331200",
@@ -5531,8 +5531,8 @@
             "state": "future"
         },
         "comercialherby.com": {
-            "epoch": "1548201600",
-            "expiration_date": "23-jan-2019",
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
             "state": "future"
         },
         "comfortqatar.com": {
@@ -5611,8 +5611,8 @@
             "state": "future"
         },
         "computeraidonline.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "computercopierfl.com": {
