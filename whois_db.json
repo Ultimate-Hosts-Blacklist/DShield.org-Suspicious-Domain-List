@@ -1963,7 +1963,7 @@
         "artebinaria.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "artextildelcaribe.com": {
             "epoch": "1550707200",
@@ -2156,8 +2156,8 @@
             "state": "future"
         },
         "atencionalusuario.com": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "atendimentoonline.top": {
@@ -2991,8 +2991,8 @@
             "state": "future"
         },
         "berkahmalamminggu.com": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "bernardsboe.trade": {
