@@ -25516,8 +25516,8 @@
             "state": "future"
         },
         "student-pickup.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "studiesmadesimple.com": {
@@ -26403,7 +26403,7 @@
         "telephonie-voip.info": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "telesaldo.com": {
             "epoch": "1571529600",
