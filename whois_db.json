@@ -1435,6 +1435,21 @@
             "expiration_date": "02-dec-2018",
             "state": "future"
         },
+        "all-texproducts.com": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
+        "ampjsppmftmfdblpt.info": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "ankarasogukhavadepo.com": {
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
+            "state": "future"
+        },
         "anthonystrategiesgroup.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
@@ -1658,6 +1673,11 @@
         "apple-support-ios.club": {
             "epoch": "1552262400",
             "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "apple-verfiy.com": {
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "apple-verify-id.info": {
