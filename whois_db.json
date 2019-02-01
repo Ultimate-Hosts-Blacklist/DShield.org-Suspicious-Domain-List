@@ -12610,6 +12610,11 @@
             "expiration_date": "24-oct-2019",
             "state": "future"
         },
+        "hsbcexchange.com": {
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
         "hsbcholdingplcuk.com": {
             "epoch": "1553212800",
             "expiration_date": "22-mar-2019",
