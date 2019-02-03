@@ -1440,6 +1440,11 @@
             "expiration_date": "02-dec-2019",
             "state": "future"
         },
+        "allvisas.ro": {
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
+            "state": "future"
+        },
         "ampjsppmftmfdblpt.info": {
             "epoch": "1568246400",
             "expiration_date": "12-sep-2019",
