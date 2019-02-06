@@ -23680,6 +23680,11 @@
             "expiration_date": "16-jul-2019",
             "state": "future"
         },
+        "screamsoferida.com": {
+            "epoch": "1580774400",
+            "expiration_date": "04-feb-2020",
+            "state": "future"
+        },
         "scrouples.dk": {
             "epoch": "1553990400",
             "expiration_date": "31-mar-2019",
@@ -24159,6 +24164,11 @@
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
             "state": "past"
+        },
+        "sextasis.cl": {
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "sexueyun.com": {
             "epoch": "1558656000",
