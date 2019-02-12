@@ -3020,6 +3020,11 @@
             "expiration_date": "26-jan-2020",
             "state": "future"
         },
+        "berkshirecraftanddesign.com": {
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
         "bernardsboe.trade": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
@@ -4363,6 +4368,11 @@
         "canvasconvos.com": {
             "epoch": "1578441600",
             "expiration_date": "08-jan-2020",
+            "state": "future"
+        },
+        "capacitatec.net": {
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "cape4down.com": {
