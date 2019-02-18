@@ -29775,6 +29775,11 @@
             "expiration_date": "24-oct-2019",
             "state": "future"
         },
+        "xinyitaoci.com": {
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
         "xioooo.com": {
             "epoch": "1561075200",
             "expiration_date": "21-jun-2019",
