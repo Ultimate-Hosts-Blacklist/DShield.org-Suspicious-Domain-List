@@ -29685,6 +29685,11 @@
             "expiration_date": "30-sep-2018",
             "state": "past"
         },
+        "xctzwsy.com": {
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
         "xczys.com": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
