@@ -1680,6 +1680,11 @@
             "expiration_date": "11-mar-2019",
             "state": "future"
         },
+        "apple-trusted.com": {
+            "epoch": "1582416000",
+            "expiration_date": "23-feb-2020",
+            "state": "future"
+        },
         "apple-verfiy.com": {
             "epoch": "1580428800",
             "expiration_date": "31-jan-2020",
@@ -2738,7 +2743,7 @@
         "base5.cn": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "basrabrothers.com": {
             "epoch": "1561593600",
