@@ -7995,6 +7995,11 @@
             "expiration_date": "05-oct-2019",
             "state": "future"
         },
+        "e2i.com.br": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "past"
+        },
         "e2parts.com": {
             "epoch": "1549238400",
             "expiration_date": "04-feb-2019",
@@ -8149,6 +8154,11 @@
             "epoch": "1572566400",
             "expiration_date": "01-nov-2019",
             "state": "future"
+        },
+        "economik.com.ve": {
+            "epoch": "1525132800",
+            "expiration_date": "01-may-2018",
+            "state": "past"
         },
         "ecoswiftcleaners.com": {
             "epoch": "1559260800",
@@ -8420,6 +8430,11 @@
             "expiration_date": "16-jan-2020",
             "state": "future"
         },
+        "elements8.com.sg": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
         "elena-99.ru": {
             "epoch": "1570233600",
             "expiration_date": "05-oct-2019",
@@ -8543,6 +8558,11 @@
         "embedor.com": {
             "epoch": "1577923200",
             "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "embuscadeprazer.com.br": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
             "state": "future"
         },
         "emergenciascomfye.com": {
@@ -8840,6 +8860,11 @@
             "expiration_date": "21-feb-2019",
             "state": "future"
         },
+        "erotichypnosis.co.uk": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
+        },
         "errordoctor.com": {
             "epoch": "1557878400",
             "expiration_date": "15-may-2019",
@@ -8898,6 +8923,11 @@
         "espaciocer.org": {
             "epoch": "1569110400",
             "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "espinozza.com.br": {
+            "epoch": "1553731200",
+            "expiration_date": "28-mar-2019",
             "state": "future"
         },
         "espiralpublicidad.cl": {
@@ -9118,6 +9148,11 @@
         "ewsmhbmjsmnvbom.us": {
             "epoch": "1553299200",
             "expiration_date": "23-mar-2019",
+            "state": "future"
+        },
+        "exata-contabil.com.br": {
+            "epoch": "1636761600",
+            "expiration_date": "13-nov-2021",
             "state": "future"
         },
         "exchu.com": {
@@ -9800,6 +9835,11 @@
             "expiration_date": "07-mar-2019",
             "state": "future"
         },
+        "flexilope.co.uk": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
         "flintbg.com": {
             "epoch": "1579824000",
             "expiration_date": "24-jan-2020",
@@ -9830,9 +9870,19 @@
             "expiration_date": "02-jan-2020",
             "state": "future"
         },
+        "floravaleverde.com.br": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "past"
+        },
         "florencegusmini.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "florenciaeventos.com.ar": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
             "state": "future"
         },
         "florentdweb.com": {
@@ -9968,6 +10018,11 @@
         "formulariohome.com": {
             "epoch": "1565654400",
             "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "forrentargentina.com.ar": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
             "state": "future"
         },
         "fortyna-plus.ru": {
@@ -10255,6 +10310,16 @@
             "expiration_date": "08-jan-2020",
             "state": "future"
         },
+        "funerarianovamutum.com.br": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "funerariasinop.com.br": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
         "funonlinehd.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
@@ -10538,6 +10603,11 @@
         "gddgjc.com": {
             "epoch": "1623628800",
             "expiration_date": "14-jun-2021",
+            "state": "future"
+        },
+        "gddingtian.com.cn": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
             "state": "future"
         },
         "gdeea.cc": {
@@ -10850,6 +10920,11 @@
             "expiration_date": "24-sep-2019",
             "state": "future"
         },
+        "gim.com.ua": {
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
+        },
         "gimnasiofitness.co": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
@@ -10963,6 +11038,11 @@
         "glenoglelodge.com": {
             "epoch": "1683417600",
             "expiration_date": "07-may-2023",
+            "state": "future"
+        },
+        "glitzglitter.co.uk": {
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
             "state": "future"
         },
         "global-entropy.com": {
