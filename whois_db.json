@@ -23425,6 +23425,11 @@
             "expiration_date": "12-jul-2019",
             "state": "future"
         },
+        "rodrigofontoura.com.br": {
+            "epoch": "1555718400",
+            "expiration_date": "20-apr-2019",
+            "state": "future"
+        },
         "rogerhsherman.com": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
@@ -23950,6 +23955,11 @@
             "expiration_date": "13-oct-2019",
             "state": "future"
         },
+        "sashenka.org.ua": {
+            "epoch": "1548028800",
+            "expiration_date": "21-jan-2019",
+            "state": "past"
+        },
         "sashipa.com": {
             "epoch": "1573084800",
             "expiration_date": "07-nov-2019",
@@ -24113,6 +24123,11 @@
         "scvpssdegreecollege.org": {
             "epoch": "1558137600",
             "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "sdnegeri1srandakan.sch.id": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
             "state": "future"
         },
         "sdnxmy.com": {
@@ -24459,6 +24474,11 @@
             "epoch": "1551225600",
             "expiration_date": "27-feb-2019",
             "state": "future"
+        },
+        "sertepro.com.ve": {
+            "epoch": "1521158400",
+            "expiration_date": "16-mar-2018",
+            "state": "past"
         },
         "service-apple-ld.com": {
             "epoch": "1578441600",
