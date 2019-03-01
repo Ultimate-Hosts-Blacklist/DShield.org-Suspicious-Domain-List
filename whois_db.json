@@ -21420,6 +21420,11 @@
             "expiration_date": "14-may-2019",
             "state": "future"
         },
+        "phastproperties.com.gh": {
+            "epoch": "1557705600",
+            "expiration_date": "13-may-2019",
+            "state": "future"
+        },
         "phatc.com": {
             "epoch": "1564358400",
             "expiration_date": "29-jul-2019",
@@ -21669,6 +21674,11 @@
             "epoch": "1579651200",
             "expiration_date": "22-jan-2020",
             "state": "future"
+        },
+        "pojoss.edu.gh": {
+            "epoch": "1530230400",
+            "expiration_date": "29-jun-2018",
+            "state": "past"
         },
         "pokdeng.com": {
             "epoch": "1573084800",
@@ -22206,9 +22216,9 @@
             "state": "future"
         },
         "psychoterapia-arcus.pl": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
-            "state": "past"
+            "epoch": "1554249600",
+            "expiration_date": "03-apr-2019",
+            "state": "future"
         },
         "psychotherapiehaarlem.com": {
             "epoch": "1563753600",
@@ -22408,6 +22418,11 @@
         "quakershilltyres.win": {
             "epoch": "1538697600",
             "expiration_date": "05-oct-2018",
+            "state": "past"
+        },
+        "quanticausinagem.com.br": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
             "state": "past"
         },
         "quantumbinaries.com": {
@@ -22963,6 +22978,11 @@
         "rehberim54.com": {
             "epoch": "1561248000",
             "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "reimbergit.com.br": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "reincontrols.com": {
