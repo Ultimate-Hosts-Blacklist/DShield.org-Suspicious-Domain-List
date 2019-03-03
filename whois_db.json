@@ -1935,6 +1935,11 @@
             "expiration_date": "19-dec-2019",
             "state": "future"
         },
+        "arik-karani.com": {
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
+            "state": "future"
+        },
         "aripipentruingeri.ro": {
             "epoch": "1699401600",
             "expiration_date": "08-nov-2023",
