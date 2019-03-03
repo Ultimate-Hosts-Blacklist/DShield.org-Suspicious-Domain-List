@@ -9035,6 +9035,11 @@
             "expiration_date": "21-aug-2019",
             "state": "future"
         },
+        "estampablessvzla.com.ve": {
+            "epoch": "1537228800",
+            "expiration_date": "18-sep-2018",
+            "state": "past"
+        },
         "estateparalegals.net": {
             "epoch": "1564358400",
             "expiration_date": "29-jul-2019",
