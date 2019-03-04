@@ -5605,6 +5605,11 @@
             "expiration_date": "20-may-2019",
             "state": "future"
         },
+        "coilprofil.ro": {
+            "epoch": "1685836800",
+            "expiration_date": "04-jun-2023",
+            "state": "future"
+        },
         "coinbase-ca.com": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
@@ -5878,6 +5883,11 @@
         "connecthospital.com": {
             "epoch": "1567555200",
             "expiration_date": "04-sep-2019",
+            "state": "future"
+        },
+        "connet.net.mx": {
+            "epoch": "1562976000",
+            "expiration_date": "13-jul-2019",
             "state": "future"
         },
         "connor-associates.com": {
@@ -8408,6 +8418,11 @@
         "egrthbfcgbnygbvc.com": {
             "epoch": "1551916800",
             "expiration_date": "07-mar-2019",
+            "state": "future"
+        },
+        "egypt-dream.net": {
+            "epoch": "1568592000",
+            "expiration_date": "16-sep-2019",
             "state": "future"
         },
         "ehkonsultointi.com": {
