@@ -24510,6 +24510,11 @@
             "expiration_date": "18-mar-2019",
             "state": "future"
         },
+        "seo520.win": {
+            "epoch": "1562457600",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
         "seoexpertmarketing.in": {
             "epoch": "1564704000",
             "expiration_date": "02-aug-2019",
@@ -25494,6 +25499,11 @@
             "epoch": "1642464000",
             "expiration_date": "18-jan-2022",
             "state": "future"
+        },
+        "solumedca.com.ve": {
+            "epoch": "1535760000",
+            "expiration_date": "01-sep-2018",
+            "state": "past"
         },
         "solutioner.com": {
             "epoch": "1579824000",
@@ -26798,6 +26808,11 @@
         "taozhlp.info": {
             "epoch": "1577923200",
             "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "tatirivoire.com.br": {
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "taurusproducciones.com": {
@@ -29843,6 +29858,11 @@
         "wefilestrans.rocks": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "weingut-maurer.com": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "weiye-0fc.com": {
