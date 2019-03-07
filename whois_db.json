@@ -6200,6 +6200,11 @@
             "expiration_date": "01-oct-2019",
             "state": "future"
         },
+        "crestrone.com": {
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
         "crickkhabar.com": {
             "epoch": "1566345600",
             "expiration_date": "21-aug-2019",
@@ -17913,6 +17918,11 @@
         "mauricedimino.com": {
             "epoch": "1553731200",
             "expiration_date": "28-mar-2019",
+            "state": "future"
+        },
+        "mauritaniecoeur.org": {
+            "epoch": "1559692800",
+            "expiration_date": "05-jun-2019",
             "state": "future"
         },
         "maviapartments.com": {
