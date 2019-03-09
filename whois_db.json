@@ -17450,6 +17450,11 @@
             "expiration_date": "03-may-2019",
             "state": "future"
         },
+        "madeireiragetuba.com.br": {
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
+        },
         "madnesssales.com": {
             "epoch": "1555372800",
             "expiration_date": "16-apr-2019",
@@ -20763,6 +20768,11 @@
         "ovomexido.com": {
             "epoch": "1561593600",
             "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "owiink.com": {
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "owincoin.com": {
