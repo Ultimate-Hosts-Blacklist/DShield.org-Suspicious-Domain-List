@@ -9467,9 +9467,7 @@
             "system-issue-no40005-system.info",
             "system-issue-no40016-system.info",
             "system32ii.ddns.net",
-            "systemalertwin9.xyz"
-        ],
-        "to_test": [
+            "systemalertwin9.xyz",
             "systemfbblockpages.co.nf",
             "systemhelpr.com",
             "systemlockedaccount.cf",
@@ -10110,6 +10108,7 @@
             "zyngatables.com",
             "zz166039.myjino.ru",
             "zztxdown.com"
-        ]
+        ],
+        "to_test": []
     }
 }
