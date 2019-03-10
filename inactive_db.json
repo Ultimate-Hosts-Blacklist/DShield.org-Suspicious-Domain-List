@@ -8247,9 +8247,7 @@
             "www.tesab.org.uk",
             "www.thatverymessedup.bounceme.net",
             "www.thomchotte.com",
-            "www.thoosje.com"
-        ],
-        "to_test": [
+            "www.thoosje.com",
             "lista.liveondns.com.br",
             "listgamesonline.com",
             "lithiumcheats.xyz",
@@ -8898,7 +8896,6 @@
             "secure.mbank.przelewy24-7.pl",
             "secure.myboa.cn-iba.com",
             "secure.resolve.limited.securityupdatepayment.com",
-            "secure.webapps-home.limited-account.sx-app.com",
             "secure.xls.login.airbornefnq.com.au",
             "secure01b.chase.com-auth-reverify.daumaf.com",
             "secure03b.chase.com-auth-reverify.huemackly.com",
@@ -9470,7 +9467,9 @@
             "system-issue-no40005-system.info",
             "system-issue-no40016-system.info",
             "system32ii.ddns.net",
-            "systemalertwin9.xyz",
+            "systemalertwin9.xyz"
+        ],
+        "to_test": [
             "systemfbblockpages.co.nf",
             "systemhelpr.com",
             "systemlockedaccount.cf",
