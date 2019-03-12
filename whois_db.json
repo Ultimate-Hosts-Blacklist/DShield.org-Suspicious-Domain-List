@@ -23330,6 +23330,11 @@
             "expiration_date": "12-jan-2020",
             "state": "future"
         },
+        "retdecor.com.br": {
+            "epoch": "1552348800",
+            "expiration_date": "12-mar-2019",
+            "state": "past"
+        },
         "returgahefesds.com": {
             "epoch": "1573171200",
             "expiration_date": "08-nov-2019",
