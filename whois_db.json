@@ -11010,6 +11010,11 @@
             "expiration_date": "21-oct-2022",
             "state": "future"
         },
+        "ggaibb.com": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
         "gggardening.com": {
             "epoch": "1555286400",
             "expiration_date": "15-apr-2019",
@@ -13238,6 +13243,11 @@
         "iclouds-security.com": {
             "epoch": "1571961600",
             "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "icloudsegurity.com": {
+            "epoch": "1583971200",
+            "expiration_date": "12-mar-2020",
             "state": "future"
         },
         "iconnigeria.com": {
