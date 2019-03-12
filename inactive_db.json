@@ -9548,9 +9548,7 @@
             "stroy-asfalt.com.ua",
             "stroyinbel.ru",
             "stsolutions.pk",
-            "studio19bh.com.br"
-        ],
-        "to_test": [
+            "studio19bh.com.br",
             "stutterdate.com",
             "stvv5g.online",
             "stylearts.in",
@@ -9840,6 +9838,8 @@
             "thepinkdiamond.com.tr",
             "thepixelate.co",
             "theporkauthority.com",
+            "www.impm.upel.edu.ve",
+            "www.ipm.upel.edu.ve",
             "xiangni169.com",
             "xiaokun.site",
             "xiaommn.com",
@@ -10098,6 +10098,7 @@
             "zyngatables.com",
             "zz166039.myjino.ru",
             "zztxdown.com"
-        ]
+        ],
+        "to_test": []
     }
 }
