@@ -11445,6 +11445,11 @@
             "expiration_date": "16-mar-2019",
             "state": "future"
         },
+        "gosofto.com": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
         "gotovimdetyam.ru": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
@@ -13203,6 +13208,11 @@
         "icloouds-iconfirmatioons.com": {
             "epoch": "1550880000",
             "expiration_date": "23-feb-2019",
+            "state": "future"
+        },
+        "icloud-app-apple.com": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
             "state": "future"
         },
         "icloud-ifane.com": {
