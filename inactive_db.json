@@ -9075,9 +9075,7 @@
             "spartanr.5gbfree.com",
             "spas.zen-concept.lu",
             "speerperformance.com",
-            "speroni.pw"
-        ],
-        "to_test": [
+            "speroni.pw",
             "spidol.webcam",
             "spkkursu.gen.tr",
             "spm.efa-light.com",
@@ -10085,6 +10083,7 @@
             "zyngatables.com",
             "zz166039.myjino.ru",
             "zztxdown.com"
-        ]
+        ],
+        "to_test": []
     }
 }
