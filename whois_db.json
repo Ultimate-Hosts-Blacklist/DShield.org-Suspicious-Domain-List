@@ -30160,6 +30160,11 @@
             "expiration_date": "29-may-2019",
             "state": "future"
         },
+        "wirekinq.com": {
+            "epoch": "1581465600",
+            "expiration_date": "12-feb-2020",
+            "state": "future"
+        },
         "wisepharma.biz": {
             "epoch": "1567555200",
             "expiration_date": "04-sep-2019",
