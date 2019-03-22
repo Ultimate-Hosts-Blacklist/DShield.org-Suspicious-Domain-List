@@ -9656,9 +9656,7 @@
             "system-issue-no40016-system.info",
             "system32ii.ddns.net",
             "systemalertwin9.xyz",
-            "systemfbblockpages.co.nf"
-        ],
-        "to_test": [
+            "systemfbblockpages.co.nf",
             "systemhelpr.com",
             "systemlockedaccount.cf",
             "systemname.xyz",
@@ -10081,6 +10079,7 @@
             "zyngatables.com",
             "zz166039.myjino.ru",
             "zztxdown.com"
-        ]
+        ],
+        "to_test": []
     }
 }
