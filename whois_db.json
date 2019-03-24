@@ -29960,6 +29960,11 @@
             "expiration_date": "06-jun-2022",
             "state": "future"
         },
+        "weemanmilitia.com": {
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
         "wefilestrans.rocks": {
             "epoch": "1551139200",
             "expiration_date": "26-feb-2019",
