@@ -9664,9 +9664,7 @@
             "takefind.net",
             "takethrow.net",
             "tal48ter.info",
-            "talented102-writer.xyz"
-        ],
-        "to_test": [
+            "talented102-writer.xyz",
             "talented105-writer.xyz",
             "talented110-writer.xyz",
             "talented112-writer.xyz",
@@ -10079,6 +10077,7 @@
             "zyngatables.com",
             "zz166039.myjino.ru",
             "zztxdown.com"
-        ]
+        ],
+        "to_test": []
     }
 }
