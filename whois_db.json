@@ -7648,7 +7648,7 @@
         "dolfexalto.com": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "domaincounseling.com": {
             "epoch": "1550880000",

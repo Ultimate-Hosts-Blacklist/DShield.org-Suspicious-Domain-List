@@ -3059,9 +3059,7 @@
             "online-32.xyz",
             "online-33.xyz",
             "online-34.xyz",
-            "online-36.xyz"
-        ],
-        "to_test": [
+            "online-36.xyz",
             "0000mps.webpreview.dsl.net",
             "029b3e8.netsolhost.com",
             "02level.tk",
@@ -4934,7 +4932,9 @@
             "googlefestas.agropecuariacaxambu.com.br",
             "googlefoad.top",
             "googleleadservices.cn",
-            "googlepetkavanis4.pw",
+            "googlepetkavanis4.pw"
+        ],
+        "to_test": [
             "googlewebmatesrcentral.com",
             "gool.frieghtiger.com",
             "gopcaca.hopto.org",
