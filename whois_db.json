@@ -7646,9 +7646,9 @@
             "state": "future"
         },
         "dolfexalto.com": {
-            "epoch": "1553817600",
-            "expiration_date": "29-mar-2019",
-            "state": "past"
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
+            "state": "future"
         },
         "domaincounseling.com": {
             "epoch": "1550880000",
@@ -9563,6 +9563,11 @@
         "fakir-archi.net": {
             "epoch": "1571875200",
             "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
+        "falaseriodiabetes.com": {
+            "epoch": "1585440000",
+            "expiration_date": "29-mar-2020",
             "state": "future"
         },
         "fallingwallsvpn.com": {
