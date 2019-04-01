@@ -31045,6 +31045,11 @@
             "expiration_date": "05-may-2019",
             "state": "future"
         },
+        "xepkgjkelw.pw": {
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
         "xfacebook.vip": {
             "epoch": "1553472000",
             "expiration_date": "25-mar-2019",
@@ -31964,6 +31969,11 @@
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
             "state": "future"
+        },
+        "ziraatmobil.online": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "past"
         },
         "ziraatmobile.com": {
             "epoch": "1550534400",
