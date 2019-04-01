@@ -6220,6 +6220,11 @@
             "expiration_date": "09-jan-2020",
             "state": "future"
         },
+        "counniounboundse.online": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
         "counterpartstudies.com": {
             "epoch": "1576368000",
             "expiration_date": "15-dec-2019",
@@ -6840,6 +6845,11 @@
             "expiration_date": "25-nov-2019",
             "state": "future"
         },
+        "darinre.xyz": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "past"
+        },
         "darknesta.com": {
             "epoch": "1578441600",
             "expiration_date": "08-jan-2020",
@@ -6953,6 +6963,11 @@
         "dayseeingscenery.com": {
             "epoch": "1571356800",
             "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "dazzlingwallpapers.press": {
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "db.creditcard": {
@@ -7095,6 +7110,11 @@
             "expiration_date": "31-dec-2019",
             "state": "future"
         },
+        "delaponitan.pw": {
+            "epoch": "1490745600",
+            "expiration_date": "29-mar-2017",
+            "state": "past"
+        },
         "delhaizegruop.com": {
             "epoch": "1560211200",
             "expiration_date": "11-jun-2019",
@@ -7214,6 +7234,11 @@
             "epoch": "1563494400",
             "expiration_date": "19-jul-2019",
             "state": "future"
+        },
+        "depolakoeasre.pw": {
+            "epoch": "1464739200",
+            "expiration_date": "01-jun-2016",
+            "state": "past"
         },
         "depozituldegeneratoare.ro": {
             "epoch": "1697414400",
@@ -7830,6 +7855,11 @@
             "expiration_date": "19-jun-2020",
             "state": "future"
         },
+        "doratopelase.pw": {
+            "epoch": "1460851200",
+            "expiration_date": "17-apr-2016",
+            "state": "past"
+        },
         "doregeneracji.pl": {
             "epoch": "1578700800",
             "expiration_date": "11-jan-2020",
@@ -8205,6 +8235,11 @@
             "expiration_date": "12-oct-2020",
             "state": "future"
         },
+        "dyoravdkiavfkbkx.pw": {
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
         "dytt8.org": {
             "epoch": "1570924800",
             "expiration_date": "13-oct-2019",
@@ -8238,6 +8273,11 @@
         "e-garantibonusflash.com": {
             "epoch": "1551052800",
             "expiration_date": "25-feb-2019",
+            "state": "future"
+        },
+        "e-sube-promosyon.online": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "e-varnava.ru": {
@@ -9065,6 +9105,11 @@
             "expiration_date": "08-jan-2020",
             "state": "future"
         },
+        "eppilxqwyqdhmpdsn.pw": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
+        },
         "epsihologie.com": {
             "epoch": "1553904000",
             "expiration_date": "30-mar-2019",
@@ -9425,6 +9470,11 @@
             "expiration_date": "13-nov-2021",
             "state": "future"
         },
+        "exawn.xyz": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
         "exchu.com": {
             "epoch": "1579651200",
             "expiration_date": "22-jan-2020",
@@ -9444,6 +9494,11 @@
             "epoch": "1572998400",
             "expiration_date": "06-nov-2019",
             "state": "future"
+        },
+        "executivedocss.website": {
+            "epoch": "1550016000",
+            "expiration_date": "13-feb-2019",
+            "state": "past"
         },
         "executiveretreats.bid": {
             "epoch": "1551744000",
@@ -9605,10 +9660,25 @@
             "expiration_date": "25-mar-2019",
             "state": "future"
         },
+        "facebook-confirmation.online": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
+        "facebook-login-secured.online": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
         "facebook-marketplace-ca.top": {
             "epoch": "1550620800",
             "expiration_date": "20-feb-2019",
             "state": "future"
+        },
+        "facebook-marketplace-texas.xyz": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
+            "state": "past"
         },
         "facebook-review-security.com": {
             "epoch": "1550620800",
@@ -9788,6 +9858,21 @@
         "fazenda.biz": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "fb-login-path.website": {
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
+            "state": "future"
+        },
+        "fb-login-step1.xyz": {
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
+            "state": "future"
+        },
+        "fb-signin.space": {
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "fckedchicken.com": {
@@ -10339,6 +10424,11 @@
             "epoch": "1575676800",
             "expiration_date": "07-dec-2019",
             "state": "future"
+        },
+        "foxmanwer.pw": {
+            "epoch": "1487289600",
+            "expiration_date": "17-feb-2017",
+            "state": "past"
         },
         "fqsjzxyey.com": {
             "epoch": "1620691200",
@@ -11565,6 +11655,11 @@
             "expiration_date": "08-mar-2019",
             "state": "future"
         },
+        "googlepetkavanis4.pw": {
+            "epoch": "1500163200",
+            "expiration_date": "16-jul-2017",
+            "state": "past"
+        },
         "gopractors.com": {
             "epoch": "1566691200",
             "expiration_date": "25-aug-2019",
@@ -11573,6 +11668,11 @@
         "gorjesid.com": {
             "epoch": "1557878400",
             "expiration_date": "15-may-2019",
+            "state": "future"
+        },
+        "goroskopna.press": {
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
             "state": "future"
         },
         "goroteka.pl": {
@@ -11599,6 +11699,11 @@
             "epoch": "1571616000",
             "expiration_date": "21-oct-2019",
             "state": "future"
+        },
+        "gov-refund-tax.online": {
+            "epoch": "1552435200",
+            "expiration_date": "13-mar-2019",
+            "state": "past"
         },
         "govelogistics.com": {
             "epoch": "1578441600",
@@ -20635,6 +20740,11 @@
             "expiration_date": "20-mar-2019",
             "state": "future"
         },
+        "ohimmades.pw": {
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
+            "state": "future"
+        },
         "ohiodronelaw.com": {
             "epoch": "1577059200",
             "expiration_date": "23-dec-2019",
@@ -20755,6 +20865,11 @@
             "expiration_date": "10-nov-2019",
             "state": "future"
         },
+        "online-account-center.online": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
+            "state": "future"
+        },
         "online-accountsupports.com": {
             "epoch": "1574726400",
             "expiration_date": "26-nov-2019",
@@ -20803,6 +20918,11 @@
         "online-sorgu.com": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
+            "state": "future"
+        },
+        "online33.xyz": {
+            "epoch": "1557187200",
+            "expiration_date": "07-may-2019",
             "state": "future"
         },
         "onlinebitcoingenerator.com": {
