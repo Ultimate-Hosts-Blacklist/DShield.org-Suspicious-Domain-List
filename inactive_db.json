@@ -4151,9 +4151,7 @@
             "offer-paypel.ml",
             "office-facebook-security-team2.16mb.com",
             "office365.planetfur.net",
-            "officecityinc.joaorodrigo.com.br"
-        ],
-        "to_test": [
+            "officecityinc.joaorodrigo.com.br",
             "daizheha.com",
             "dakselbilisim.com",
             "damavader.com",
@@ -4353,7 +4351,6 @@
             "dieuveny.com",
             "digantshah.com",
             "digitalbankingfirst.net",
-            "digitalfruition.co.uk",
             "digitalmuladi.com",
             "digitauact.sslblindado.com",
             "diguing-store.net",
@@ -5747,7 +5744,9 @@
             "orangeavontuur.com",
             "orbitrative.com",
             "orcsnx.com",
-            "orderjwell.eu",
+            "orderjwell.eu"
+        ],
+        "to_test": [
             "oregoncraftsmanllc.com",
             "orientality.ro",
             "orig.aktuaris.or.id",

@@ -7475,6 +7475,11 @@
             "expiration_date": "10-jul-2019",
             "state": "future"
         },
+        "digitalfruition.co.uk": {
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
+            "state": "future"
+        },
         "digitallyours.com": {
             "epoch": "1567468800",
             "expiration_date": "03-sep-2019",
