@@ -261,9 +261,9 @@
             "state": "future"
         },
         "1stand2ndmortgage.com": {
-            "epoch": "1538438400",
-            "expiration_date": "02-oct-2018",
-            "state": "past"
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
+            "state": "future"
         },
         "1xboum.top": {
             "epoch": "1555632000",
@@ -3173,6 +3173,11 @@
         "beppe.com.br": {
             "epoch": "1565049600",
             "expiration_date": "06-aug-2019",
+            "state": "future"
+        },
+        "berkahjaya.id": {
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
             "state": "future"
         },
         "berkahmalamminggu.com": {
