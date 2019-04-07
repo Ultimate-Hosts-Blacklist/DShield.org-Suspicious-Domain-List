@@ -9515,9 +9515,7 @@
             "www.zudeop.com",
             "www.zumeeg.com",
             "www1.gxxmm.com",
-            "www1.xise.cn"
-        ],
-        "to_test": [
+            "www1.xise.cn",
             "www11.kkuumn.com",
             "www131.mvnvpic.com",
             "www14.rtyszz.com",
@@ -9901,6 +9899,7 @@
             "zyngatables.com",
             "zz166039.myjino.ru",
             "zztxdown.com"
-        ]
+        ],
+        "to_test": []
     }
 }
