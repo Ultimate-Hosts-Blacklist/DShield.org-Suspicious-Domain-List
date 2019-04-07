@@ -7825,6 +7825,16 @@
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "domifondery.com": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
+            "state": "future"
+        },
+        "domifondery3d.com": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
+            "state": "future"
+        },
         "domininocake.com": {
             "epoch": "1551830400",
             "expiration_date": "06-mar-2019",
@@ -7933,6 +7943,11 @@
         "downloadprivate.com": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "downloadscanning.com": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "downloadthesefile.com": {
@@ -12863,6 +12878,11 @@
         "hihimn.com": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
+            "state": "future"
+        },
+        "hillalala.com": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "hillpaplow.com": {
@@ -21868,6 +21888,11 @@
         "perfectionistenglish.net": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
+            "state": "future"
+        },
+        "perfectpcb.com": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "perfeito-acesso.com": {
