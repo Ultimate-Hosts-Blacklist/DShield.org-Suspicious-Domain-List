@@ -4035,6 +4035,11 @@
             "expiration_date": "11-aug-2019",
             "state": "future"
         },
+        "bradfrod.com": {
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
+        },
         "bradmccrady.com": {
             "epoch": "1569888000",
             "expiration_date": "01-oct-2019",
@@ -4048,6 +4053,11 @@
         "brahmamugurtham.com": {
             "epoch": "1562371200",
             "expiration_date": "06-jul-2019",
+            "state": "future"
+        },
+        "branchtist.com": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "brand4india.com": {
