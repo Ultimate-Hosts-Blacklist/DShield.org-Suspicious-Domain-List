@@ -26570,6 +26570,11 @@
             "expiration_date": "21-dec-2019",
             "state": "future"
         },
+        "staydryboatlauncher.com": {
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
+            "state": "future"
+        },
         "stayinschoolfoundationuganda.org": {
             "epoch": "1570838400",
             "expiration_date": "12-oct-2019",
