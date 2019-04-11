@@ -6675,6 +6675,11 @@
             "expiration_date": "13-jul-2019",
             "state": "future"
         },
+        "cypress-tvv.com": {
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
+            "state": "future"
+        },
         "cyprussed.net": {
             "epoch": "1576540800",
             "expiration_date": "17-dec-2019",
