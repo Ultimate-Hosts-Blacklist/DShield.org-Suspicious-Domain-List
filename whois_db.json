@@ -3175,6 +3175,11 @@
             "expiration_date": "06-aug-2019",
             "state": "future"
         },
+        "beqarcarton.com": {
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
         "berkahjaya.id": {
             "epoch": "1585958400",
             "expiration_date": "04-apr-2020",
