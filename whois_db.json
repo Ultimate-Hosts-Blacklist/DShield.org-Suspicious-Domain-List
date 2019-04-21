@@ -6090,6 +6090,11 @@
             "expiration_date": "28-jul-2019",
             "state": "future"
         },
+        "construtoraphiladelphia.com.br": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
+            "state": "past"
+        },
         "construtorasetta.com": {
             "epoch": "1607472000",
             "expiration_date": "09-dec-2020",
