@@ -9351,9 +9351,7 @@
             "www.tesab.org.uk",
             "www.thatverymessedup.bounceme.net",
             "www.thomchotte.com",
-            "www.thoosje.com"
-        ],
-        "to_test": [
+            "www.thoosje.com",
             "www.topclubpalmas.com.br",
             "www.topgearspoilytyrdc.top",
             "www.toriyo.tj",
@@ -9890,6 +9888,7 @@
             "zyngatables.com",
             "zz166039.myjino.ru",
             "zztxdown.com"
-        ]
+        ],
+        "to_test": []
     }
 }
