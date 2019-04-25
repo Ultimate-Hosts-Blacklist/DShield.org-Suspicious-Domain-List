@@ -3230,6 +3230,11 @@
             "expiration_date": "05-mar-2019",
             "state": "future"
         },
+        "bestboy.top": {
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
+            "state": "future"
+        },
         "bestcadblocks.com": {
             "epoch": "1550188800",
             "expiration_date": "15-feb-2019",
