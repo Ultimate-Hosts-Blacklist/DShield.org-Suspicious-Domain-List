@@ -10345,6 +10345,11 @@
             "expiration_date": "24-jun-2019",
             "state": "future"
         },
+        "floridasvanrentalspecialists.com": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
+            "state": "future"
+        },
         "floridayachtpartners.com": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
@@ -10793,6 +10798,11 @@
         "furnitura-shkaf.ru": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
+            "state": "future"
+        },
+        "futcamisas.com.br": {
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "futurefoundations.in": {
