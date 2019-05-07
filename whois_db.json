@@ -360,6 +360,11 @@
             "expiration_date": "18-oct-2019",
             "state": "future"
         },
+        "2012ui.com": {
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
+            "state": "future"
+        },
         "2020closings.com": {
             "epoch": "1554854400",
             "expiration_date": "10-apr-2019",
@@ -4903,6 +4908,11 @@
         "ccduniv.com": {
             "epoch": "1557014400",
             "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "ccknifegiveaway.com": {
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "cctjly.com": {
