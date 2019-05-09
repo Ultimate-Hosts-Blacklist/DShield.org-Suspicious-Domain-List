@@ -2646,8 +2646,8 @@
             "state": "future"
         },
         "az-armaturen.su": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "azadbdgroup.com": {
@@ -4161,8 +4161,8 @@
             "state": "future"
         },
         "brightqain.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
             "state": "future"
         },
         "broadwaygroup.in": {
@@ -5649,6 +5649,11 @@
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
             "state": "future"
+        },
+        "clinicaespacoterapeutico.com.br": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "past"
         },
         "clinicombiosolution.com": {
             "epoch": "1549584000",
