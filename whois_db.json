@@ -27854,6 +27854,11 @@
         "expiration_date": "19-sep-2016",
         "state": "past"
     },
+    "teksoft.pro": {
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "telefonfiyatlari.org": {
         "epoch": "1570147200",
         "expiration_date": "04-oct-2019",
@@ -34656,7 +34661,7 @@
     },
     "wilddonegal.com": {
         "epoch": "1657843200",
-        "expiration_date": "15-jul-2022",
+        "expiration_date": "24-apr-2019",
         "state": "future"
     },
     "win-recovery.com": {
