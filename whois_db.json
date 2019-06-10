@@ -2559,6 +2559,11 @@
         "expiration_date": "26-apr-2019",
         "state": "future"
     },
+    "avast-mail-security.download": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "avmanarts.com": {
         "epoch": "1552089600",
         "expiration_date": "09-mar-2019",
