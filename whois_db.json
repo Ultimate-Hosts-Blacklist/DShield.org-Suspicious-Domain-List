@@ -3930,7 +3930,7 @@
         "state": "future"
     },
     "bolerakopsoa.pw": {
-        "epoch": "1464739200",
+        "epoch": 1464739200,
         "expiration_date": "01-jun-2016",
         "state": "past"
     },
@@ -27800,7 +27800,7 @@
         "state": "future"
     },
     "techmag.space": {
-        "epoch": "1464307200",
+        "epoch": 1464307200,
         "expiration_date": "27-may-2016",
         "state": "past"
     },
