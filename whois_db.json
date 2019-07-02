@@ -24505,7 +24505,7 @@
         "state": "future"
     },
     "ryuitaqw.pw": {
-        "epoch": "1487289600",
+        "epoch": 1487289600,
         "expiration_date": "17-feb-2017",
         "state": "past"
     },
@@ -33495,7 +33495,7 @@
         "state": "future"
     },
     "vankapetkavanis4.pw": {
-        "epoch": "1500681600",
+        "epoch": 1500681600,
         "expiration_date": "22-jul-2017",
         "state": "past"
     },
