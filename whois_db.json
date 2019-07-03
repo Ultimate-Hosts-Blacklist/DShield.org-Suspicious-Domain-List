@@ -7330,7 +7330,7 @@
         "state": "future"
     },
     "depolakoeasre.pw": {
-        "epoch": "1464739200",
+        "epoch": 1464739200,
         "expiration_date": "01-jun-2016",
         "state": "past"
     },
@@ -10555,7 +10555,7 @@
         "state": "future"
     },
     "foxmanwer.pw": {
-        "epoch": "1487289600",
+        "epoch": 1487289600,
         "expiration_date": "17-feb-2017",
         "state": "past"
     },
@@ -26040,7 +26040,7 @@
         "state": "future"
     },
     "slivoratikam.pw": {
-        "epoch": "1492387200",
+        "epoch": 1492387200,
         "expiration_date": "17-apr-2017",
         "state": "past"
     },
