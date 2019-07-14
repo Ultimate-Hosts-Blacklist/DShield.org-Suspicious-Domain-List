@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 12,
+        "builds": 13,
         "counter": {
             "down": 2953,
             "invalid": 11,
-            "tested": 3361,
-            "up": 397
+            "tested": 3363,
+            "up": 399
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Fri Jul 12 16:06:15 2019",
     "end_epoch": 1562947575.033969,
-    "last_autosave_datetime": "Sun Jul 14 18:49:50 2019",
-    "last_autosave_epoch": 1563130190.917394,
+    "last_autosave_datetime": "Sun Jul 14 19:09:09 2019",
+    "last_autosave_epoch": 1563131349.466595,
     "name": "DShield.org-Suspicious-Domain-List",
     "previous_stats": {
         "builds": 4,
