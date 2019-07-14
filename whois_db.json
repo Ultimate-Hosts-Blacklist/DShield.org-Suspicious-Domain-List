@@ -6110,8 +6110,8 @@
         "state": "future"
     },
     "connet.net.mx": {
-        "epoch": "1562976000",
-        "expiration_date": "13-jul-2019",
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "connor-associates.com": {
@@ -25305,9 +25305,9 @@
         "state": "future"
     },
     "seo520.win": {
-        "epoch": "1562457600",
+        "epoch": 1562457600,
         "expiration_date": "07-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "seoexpertmarketing.in": {
         "epoch": "1564704000",
