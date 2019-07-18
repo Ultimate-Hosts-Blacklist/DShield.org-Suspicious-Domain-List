@@ -20500,8 +20500,8 @@
         "state": "past"
     },
     "nikey.cn": {
-        "epoch": "1563321600",
-        "expiration_date": "17-jul-2019",
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "nimp.org": {
