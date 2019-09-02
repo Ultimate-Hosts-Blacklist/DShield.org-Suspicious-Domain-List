@@ -10695,9 +10695,9 @@
         "state": "future"
     },
     "frevolore.com": {
-        "epoch": "1567382400",
+        "epoch": 1567382400,
         "expiration_date": "02-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "frioaislantes.com": {
         "epoch": "1552176000",
