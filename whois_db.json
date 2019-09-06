@@ -19844,6 +19844,11 @@
         "expiration_date": "12-feb-2019",
         "state": "future"
     },
+    "mycraft.com.br": {
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
     "myeasybitcoin.stream": {
         "epoch": "1541980800",
         "expiration_date": "12-nov-2018",
