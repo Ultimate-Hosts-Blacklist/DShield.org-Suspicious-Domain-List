@@ -10690,9 +10690,9 @@
         "state": "future"
     },
     "fretiolo.com": {
-        "epoch": "1568160000",
+        "epoch": 1568160000,
         "expiration_date": "11-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "frevolore.com": {
         "epoch": 1599004800,
