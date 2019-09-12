@@ -1015,9 +1015,9 @@
         "state": "future"
     },
     "accemfsqovkd.pw": {
-        "epoch": "1568246400",
+        "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "accentumbrella.com": {
         "epoch": "1771027200",
@@ -10690,9 +10690,9 @@
         "state": "future"
     },
     "fretiolo.com": {
-        "epoch": 1568160000,
-        "expiration_date": "11-sep-2019",
-        "state": "past"
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
     },
     "frevolore.com": {
         "epoch": 1599004800,
@@ -26660,8 +26660,8 @@
         "state": "future"
     },
     "ssvylrn.pw": {
-        "epoch": "1567209600",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "stablepweb.su": {
@@ -35650,9 +35650,9 @@
         "state": "future"
     },
     "ywjgjvpuyitnbiw.info": {
-        "epoch": "1568246400",
+        "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "yxshengda.com": {
         "epoch": "1569196800",
