@@ -1545,8 +1545,8 @@
         "state": "future"
     },
     "ampjsppmftmfdblpt.info": {
-        "epoch": "1568246400",
-        "expiration_date": "12-sep-2019",
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "ankarasogukhavadepo.com": {
@@ -27800,7 +27800,7 @@
         "state": "future"
     },
     "techakym.pw": {
-        "epoch": 1471478400,
+        "epoch": 147147840000,
         "expiration_date": "18-aug-2016",
         "state": "past"
     },
@@ -35650,9 +35650,9 @@
         "state": "future"
     },
     "ywjgjvpuyitnbiw.info": {
-        "epoch": 1568246400,
-        "expiration_date": "12-sep-2019",
-        "state": "past"
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
     },
     "yxshengda.com": {
         "epoch": "1569196800",
