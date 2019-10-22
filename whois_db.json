@@ -8514,6 +8514,11 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "eavgwy5suy.tk": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "eaxpifdtwsv.biz": {
         "epoch": "1537401600",
         "expiration_date": "20-sep-2018",
@@ -27905,8 +27910,8 @@
         "state": "future"
     },
     "telefonfiyatlari.org": {
-        "epoch": "1570147200",
-        "expiration_date": "04-oct-2019",
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "telephonie-voip.info": {
