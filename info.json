@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 9,
-        "counter": {
-            "down": 3052,
-            "invalid": 9,
-            "tested": 3314,
-            "up": 253
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Oct 22 13:54:43 2019",
-    "end_epoch": 1571752483.519345,
+    "end_datetime": "Sun Oct 27 20:21:49 2019",
+    "end_epoch": 1572207709.201389,
     "last_autosave_datetime": "Sun Oct 27 19:48:21 2019",
     "last_autosave_epoch": 1572205701.35853,
     "name": "DShield.org-Suspicious-Domain-List",
     "previous_stats": {
-        "builds": 3,
-        "clean.list": 270,
+        "builds": 10,
+        "clean.list": 253,
         "counter": {
-            "down": 2436,
-            "invalid": 7,
-            "tested": 2713,
-            "up": 270
+            "down": 3095,
+            "invalid": 9,
+            "tested": 3357,
+            "up": 253
         },
-        "domains.list": 2713,
-        "volatile.list": 270,
-        "whitelisted.list": 270
+        "domains.list": 3357,
+        "volatile.list": 253,
+        "whitelisted.list": 253
     },
     "raw_link": "https://www.dshield.org/feeds/suspiciousdomains_Low.txt",
     "start_datetime": "Wed Oct 23 16:37:43 2019",
