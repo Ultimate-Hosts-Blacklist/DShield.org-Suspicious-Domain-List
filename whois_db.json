@@ -27830,7 +27830,7 @@
         "state": "future"
     },
     "techmag.space": {
-        "epoch": 1464307200,
+        "epoch": 1464307200.0,
         "expiration_date": "27-may-2016",
         "state": "past"
     },
