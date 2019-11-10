@@ -3935,7 +3935,7 @@
         "state": "future"
     },
     "bolerakopsoa.pw": {
-        "epoch": 1464739200,
+        "epoch": 1464739200.0,
         "expiration_date": "01-jun-2016",
         "state": "past"
     },
