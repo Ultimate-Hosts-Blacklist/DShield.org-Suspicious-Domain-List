@@ -10565,7 +10565,7 @@
         "state": "future"
     },
     "foxmanwer.pw": {
-        "epoch": 1487289600,
+        "epoch": 1487289600.0,
         "expiration_date": "17-feb-2017",
         "state": "past"
     },
