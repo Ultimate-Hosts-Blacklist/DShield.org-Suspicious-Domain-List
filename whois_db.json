@@ -26055,7 +26055,7 @@
         "state": "future"
     },
     "slivoratikam.pw": {
-        "epoch": 1492387200,
+        "epoch": 1492387200.0,
         "expiration_date": "17-apr-2017",
         "state": "past"
     },
