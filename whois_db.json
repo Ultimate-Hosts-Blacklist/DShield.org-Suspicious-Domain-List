@@ -27900,7 +27900,7 @@
         "state": "future"
     },
     "tekjoe.space": {
-        "epoch": 1474243200,
+        "epoch": 1474243200.0,
         "expiration_date": "19-sep-2016",
         "state": "past"
     },
