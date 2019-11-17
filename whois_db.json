@@ -7205,7 +7205,7 @@
         "state": "future"
     },
     "delaponitan.pw": {
-        "epoch": 1490745600,
+        "epoch": 1490745600.0,
         "expiration_date": "29-mar-2017",
         "state": "past"
     },
