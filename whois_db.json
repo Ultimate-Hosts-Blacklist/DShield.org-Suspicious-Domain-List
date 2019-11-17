@@ -7970,7 +7970,7 @@
         "state": "future"
     },
     "doratopelase.pw": {
-        "epoch": 1460851200,
+        "epoch": 1460851200.0,
         "expiration_date": "17-apr-2016",
         "state": "past"
     },
