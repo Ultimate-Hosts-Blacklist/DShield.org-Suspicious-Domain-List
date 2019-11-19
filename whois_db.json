@@ -374,6 +374,11 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "rimmugygur.is": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "servmill.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
