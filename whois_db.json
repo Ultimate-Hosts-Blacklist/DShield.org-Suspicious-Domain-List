@@ -9,6 +9,16 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "ampjsppmftmfdblpt.info": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "avast-mail-security.download": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "biyoto.com": {
         "epoch": 1831507200.0,
         "expiration_date": "15-jan-2028",
@@ -29,6 +39,11 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "luenhinpearl.com": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "owiink.com": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
@@ -42,6 +57,16 @@
     "starsducks.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "wirekinq.com": {
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "ywjgjvpuyitnbiw.info": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     }
 }
