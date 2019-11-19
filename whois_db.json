@@ -4,9 +4,24 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "8880880.com": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "afobal.cl": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "ahsqbeospcdrngfv.info": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "alvoportas.com.br": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "ampjsppmftmfdblpt.info": {
@@ -19,9 +34,24 @@
         "expiration_date": "29-may-2020",
         "state": "future"
     },
+    "az-armaturen.su": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "base5.cn": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "beqarcarton.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "bestboy.top": {
+        "epoch": 1587686400.0,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "biyoto.com": {
@@ -79,6 +109,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "kesikelyaf.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "kudrnwosas.faith": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
@@ -124,6 +159,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "platinum-casino.ru": {
+        "epoch": 1576627200.0,
+        "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
     "prtscrinsertcn.net": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -149,14 +189,29 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "vegantravelshow.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "vinking.top": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
         "state": "future"
     },
+    "weingut-maurer.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "wirekinq.com": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "witkey.com": {
+        "epoch": 1658275200.0,
+        "expiration_date": "20-jul-2022",
         "state": "future"
     },
     "ywjgjvpuyitnbiw.info": {
