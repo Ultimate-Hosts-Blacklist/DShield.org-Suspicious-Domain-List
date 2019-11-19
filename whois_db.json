@@ -24,6 +24,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "kudrnwosas.faith": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "owiink.com": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
@@ -32,6 +37,11 @@
     "prtscrinsertcn.net": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "starsducks.com": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     }
 }
