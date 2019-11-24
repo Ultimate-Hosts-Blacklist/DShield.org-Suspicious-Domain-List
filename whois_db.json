@@ -209,6 +209,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "foxmanwer.pw": {
+        "epoch": 1487289600.0,
+        "expiration_date": "17-feb-2017",
+        "state": "past"
+    },
     "fretiolo.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
