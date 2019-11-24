@@ -159,6 +159,11 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "delaponitan.pw": {
+        "epoch": 1490745600.0,
+        "expiration_date": "29-mar-2017",
+        "state": "past"
+    },
     "domifondery.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -418,6 +423,11 @@
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
         "state": "future"
+    },
+    "techakym.pw": {
+        "epoch": 1471478400.0,
+        "expiration_date": "18-aug-2016",
+        "state": "past"
     },
     "tekjoe.space": {
         "epoch": 1474243200.0,
