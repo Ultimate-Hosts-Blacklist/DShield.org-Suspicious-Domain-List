@@ -419,6 +419,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "tekjoe.space": {
+        "epoch": 1474243200.0,
+        "expiration_date": "19-sep-2016",
+        "state": "past"
+    },
     "teksoft.pro": {
         "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
