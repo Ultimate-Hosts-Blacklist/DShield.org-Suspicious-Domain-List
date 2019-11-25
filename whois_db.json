@@ -454,6 +454,11 @@
         "expiration_date": "18-aug-2016",
         "state": "past"
     },
+    "techmaha.pw": {
+        "epoch": 1466812800.0,
+        "expiration_date": "25-jun-2016",
+        "state": "past"
+    },
     "tekjoe.space": {
         "epoch": 1474243200.0,
         "expiration_date": "19-sep-2016",
@@ -497,6 +502,11 @@
     "vinking.top": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "waserazer.pw": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "websitetrafficspy.com": {
