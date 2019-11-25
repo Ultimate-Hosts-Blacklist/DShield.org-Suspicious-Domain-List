@@ -484,6 +484,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "vassabgg.pw": {
+        "epoch": 1500163200.0,
+        "expiration_date": "16-jul-2017",
+        "state": "past"
+    },
     "vegantravelshow.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
