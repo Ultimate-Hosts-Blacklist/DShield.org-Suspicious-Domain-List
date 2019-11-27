@@ -429,6 +429,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "slivoratikam.pw": {
+        "epoch": 1492387200.0,
+        "expiration_date": "17-apr-2017",
+        "state": "past"
+    },
     "smai1.com": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
