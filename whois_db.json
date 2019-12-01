@@ -464,6 +464,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "tdhyjfxltpj.pw": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "techakym.pw": {
         "epoch": 1471478400.0,
         "expiration_date": "18-aug-2016",
