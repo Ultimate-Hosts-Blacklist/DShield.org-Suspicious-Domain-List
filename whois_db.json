@@ -354,6 +354,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "muuojcu.xyz": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "mycraft.com.br": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
