@@ -549,6 +549,11 @@
         "expiration_date": "20-jul-2022",
         "state": "future"
     },
+    "wpvvusso.xyz": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "xbsezlmaha.loan": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
