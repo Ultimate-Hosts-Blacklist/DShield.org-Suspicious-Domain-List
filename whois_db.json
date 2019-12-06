@@ -119,6 +119,11 @@
         "expiration_date": "15-jan-2028",
         "state": "future"
     },
+    "blogerjijer.pw": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "br1vo.com": {
         "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
