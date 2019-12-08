@@ -254,6 +254,11 @@
         "expiration_date": "06-dec-2020",
         "state": "future"
     },
+    "googlefoad.top": {
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
     "googlepetkavanis4.pw": {
         "epoch": 1500163200.0,
         "expiration_date": "16-jul-2017",
