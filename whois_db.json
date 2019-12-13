@@ -434,6 +434,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "ryuitaqw.pw": {
+        "epoch": 1487289600.0,
+        "expiration_date": "17-feb-2017",
+        "state": "past"
+    },
     "samoniklo.pw": {
         "epoch": 1494028800.0,
         "expiration_date": "06-may-2017",
