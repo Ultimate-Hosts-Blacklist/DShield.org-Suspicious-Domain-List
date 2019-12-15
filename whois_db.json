@@ -294,6 +294,11 @@
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
+    "ijoe.xyz": {
+        "epoch": 1570233600.0,
+        "expiration_date": "05-oct-2019",
+        "state": "past"
+    },
     "instinctentertainment.ca": {
         "epoch": 1706400000.0,
         "expiration_date": "28-jan-2024",
