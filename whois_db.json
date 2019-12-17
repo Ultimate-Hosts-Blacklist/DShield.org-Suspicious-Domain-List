@@ -499,6 +499,11 @@
         "expiration_date": "18-aug-2016",
         "state": "past"
     },
+    "techmag.space": {
+        "epoch": 1464307200.0,
+        "expiration_date": "27-may-2016",
+        "state": "past"
+    },
     "techmaha.pw": {
         "epoch": 1466812800.0,
         "expiration_date": "25-jun-2016",
