@@ -2,9 +2,7 @@ addons:
     apt:
         packages:
         - dos2unix
-cache:
-- pip
-dist: xenial
+dist: bionic
 env:
     global:
     -   secure: LM2LzwUx4alM+/I4zOoGCAzvvj5uTOm6e2cREB/enIMabs92exYPBSmAC0ZZirS+bPL611A0XC84O/HKZT6A6+0Uif8sQ3jjsKcjviNxhDqjE5QlKsnYj5j2a67aF9giXNrlHH8gN8RGvvaGAI9qOW4mHcisOaKjh6hB5HxMoyJO+WgrueJvgWbJDYmTO4tI0UbWae8H1/V9AUHlgbRkyHPKPHE3mRmD8IpH8tHf21HUMb17o3n/5G0InpyvrtsAQBqfL051rUdFMKiYjH4rmTJFFD4zjkK5uWv1mDfiSpVkGuK3mHBTZ6I9h417yFYfHJuk+ih/oyKu+qlswAsPSTl1TTd1JjkKeIgWlDQbF46oRCSU8+L9pXW75CiZfDMGRWbA8sJ1iCqF5La2phB4yfNs5OGHeIuUSb7c3OKvLpUW4xlXIxyHCY1Jgb3p4tZpKZXA+h6LEZ5JwwcB/aTCP6u5kPu3qqt1EkEVEb8rXfLCW6/4ugcEysA0kFFEUbtehUw+RXhWPYbfab7gQYPprOkxC7vh6CG7l88CSFB9+xeMLPgzln3VSwfs1/MBoM8KWFz7pd4Wg+srmj+3QMGQ+QAgvD2p7gAmz6tA8Ugz9IfF+Aiw4QBUmnyqbaVPXZe/G1Fi9zZQ58AZGyMhsL6qNfn7A0kzMhLaRRv6Kc3oV1Y=
@@ -15,9 +13,19 @@ env:
     -   UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
     -   ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
 install:
-- pip3 install --upgrade pip
-- pip3 install ultimate-hosts-blacklist-input-repo-updater
-language: python
+- export PATH="${HOME}/miniconda/bin:${PATH}"
+- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+- bash miniconda.sh -b -p ${HOME}/miniconda
+- hash -r
+- conda config --set always_yes yes --set changeps1 no
+- conda update -q conda
+- conda create -q -n test-environment python="${PYTHON_VERSION}"
+- source activate test-environment
+- python -VV
+- pip --version
+- pip install ultimate-hosts-blacklist-input-repo-updater
+- rm miniconda.sh
+language: generic
 matrix:
     fast_finish: true
 notifications:
@@ -27,9 +35,6 @@ notifications:
         recipients:
         - dead-hosts@funilrys.com
         - mitchellkrogza+ultimatehostsblacklist@gmail.com
-python:
-- '3.7'
 script:
 - ultimate-hosts-blacklist-input-repo-updater --version
 - ultimate-hosts-blacklist-input-repo-updater -m
-sudo: required
