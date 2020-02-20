@@ -3609,6 +3609,11 @@
         "expiration_date": "29-aug-2021",
         "state": "future"
     },
+    "artprototointeriordesign.com": {
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "state": "future"
+    },
     "artrevestdecor.com.br": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -4512,6 +4517,11 @@
     "babelegance.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
+        "state": "future"
+    },
+    "babulkaaba.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
         "state": "future"
     },
     "baburkuyumculuk.com": {
@@ -7442,6 +7452,11 @@
     "careerbrain.in": {
         "epoch": 1701216000.0,
         "expiration_date": "29-nov-2023",
+        "state": "future"
+    },
+    "careerchoice-eg.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "carehispania.com": {
@@ -17479,6 +17494,11 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "gzzzsm.com": {
+        "epoch": 1593993600.0,
+        "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
     "habeggercorp.net": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
@@ -18557,6 +18577,11 @@
     "hotel-karawan.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "hotel-mures.ro": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "hoteladityamysore.com": {
@@ -20342,6 +20367,11 @@
     "itsmedrew.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "itsonlyrockandroll.info": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "itsylhet.com": {
@@ -37042,6 +37072,11 @@
     "suntolight.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "suntreebearing.com": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "sunwayatacama.cl": {
