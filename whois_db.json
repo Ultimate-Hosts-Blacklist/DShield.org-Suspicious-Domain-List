@@ -29339,6 +29339,11 @@
         "expiration_date": "23-dec-2019",
         "state": "past"
     },
+    "experiencereport.net": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "experiencesuite.it": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -64009,6 +64014,11 @@
         "expiration_date": "08-dec-2023",
         "state": "future"
     },
+    "pizzotti.net": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "pkm-zeta.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -74634,6 +74644,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "skystarme.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "skytouchelevators.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
@@ -78927,6 +78942,11 @@
     "taneycounty.org": {
         "epoch": 1670716800.0,
         "expiration_date": "11-dec-2022",
+        "state": "future"
+    },
+    "tanggabisnis.com": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "tanglike.top": {
@@ -89527,6 +89547,11 @@
     "yes1899.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "yes4biz.net": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "yescenter.com.ua": {
