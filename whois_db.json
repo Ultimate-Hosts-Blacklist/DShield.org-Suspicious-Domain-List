@@ -28439,6 +28439,11 @@
         "expiration_date": "08-sep-2021",
         "state": "future"
     },
+    "ertyu.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "eryunhali.com.tr": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
@@ -73892,6 +73897,11 @@
     "sigin-apple.com": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
+        "state": "future"
+    },
+    "sigma-asia.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "sigma2020.com": {
