@@ -14469,6 +14469,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "busanopen.org": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "busanprint.net": {
         "epoch": 1674777600.0,
         "expiration_date": "27-jan-2023",
@@ -21557,6 +21562,11 @@
     "currentservices61.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
+    "cursao.com.br": {
+        "epoch": 1587859200.0,
+        "expiration_date": "26-apr-2020",
         "state": "future"
     },
     "cursodehebraico.com": {
@@ -60054,6 +60064,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "odeumpharma.se": {
+        "epoch": 1598400000.0,
+        "expiration_date": "26-aug-2020",
+        "state": "future"
+    },
     "odinhome.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
@@ -70902,6 +70917,11 @@
     "sajedscollections.com": {
         "epoch": 1608940800.0,
         "expiration_date": "26-dec-2020",
+        "state": "future"
+    },
+    "sajhakhabar.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "sajuname131.com": {
