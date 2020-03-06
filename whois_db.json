@@ -68390,9 +68390,9 @@
         "state": "past"
     },
     "registry-fix-softwares.com": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "regnumbooks.net": {
         "epoch": 1601510400.0,
