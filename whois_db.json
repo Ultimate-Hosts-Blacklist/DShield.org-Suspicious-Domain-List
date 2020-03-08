@@ -28655,9 +28655,9 @@
         "state": "future"
     },
     "essenciale.com.br": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "essentialinsanity.com": {
         "epoch": 1597968000.0,
@@ -56472,6 +56472,11 @@
     "mujicaabogados.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "mujicaabogados.com.ve": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "mujtabatrading.com": {
