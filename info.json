@@ -34,6 +34,9 @@
         "whitelisted.list": 86702
     },
     "raw_link": "https://www.dshield.org/feeds/suspiciousdomains_Low.txt",
+    "link": "https://www.dshield.org/",
+    "issue_link": "mailto://info@dshield.org",
+    "description": "DShield.org Suspicious Domain List",
     "start_datetime": "2020-03-03T16:10:18.899187",
     "start_epoch": 1582463888.555018
 }
