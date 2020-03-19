@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 437,
+        "builds": 438,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "DShield.org Suspicious Domain List",
     "end_datetime": "2020-03-03T16:10:18.894358",
     "end_epoch": 1582220794.149254,
+    "issue_link": "mailto://info@dshield.org",
     "last_autosave_datetime": "2020-03-03T16:10:18.894373",
     "last_autosave_epoch": 1583245248.07726,
+    "link": "https://www.dshield.org/",
     "name": "DShield.org-Suspicious-Domain-List",
     "previous_stats": {
         "builds": 544,
@@ -34,9 +37,6 @@
         "whitelisted.list": 86702
     },
     "raw_link": "https://www.dshield.org/feeds/suspiciousdomains_Low.txt",
-    "link": "https://www.dshield.org/",
-    "issue_link": "mailto://info@dshield.org",
-    "description": "DShield.org Suspicious Domain List",
     "start_datetime": "2020-03-03T16:10:18.899187",
     "start_epoch": 1582463888.555018
 }
