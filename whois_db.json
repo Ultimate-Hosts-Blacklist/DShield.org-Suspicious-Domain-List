@@ -78039,6 +78039,11 @@
         "expiration_date": "03-feb-2021",
         "state": "future"
     },
+    "superheroecriollo.com": {
+        "epoch": 1650067200.0,
+        "expiration_date": "16-apr-2022",
+        "state": "future"
+    },
     "superhousemedia.com": {
         "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
