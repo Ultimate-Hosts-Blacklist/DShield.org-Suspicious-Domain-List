@@ -6859,6 +6859,11 @@
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
+    "allbestarticles.com": {
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
+    },
     "allbiogreen.com": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
@@ -16019,6 +16024,11 @@
         "expiration_date": "29-mar-2021",
         "state": "future"
     },
+    "bds-1.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "bdsbd.org": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -16097,6 +16107,11 @@
     "beanexperience.com": {
         "epoch": 1652227200.0,
         "expiration_date": "11-may-2022",
+        "state": "future"
+    },
+    "beardtaichan.id": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "bearseguros.com.br": {
@@ -18129,6 +18144,11 @@
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
+    "billwinephotography.com": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "past"
+    },
     "billyflamberti.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
@@ -18517,6 +18537,11 @@
     "biswanet.com": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "biswashholdingsbd.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "bit-airdrop.com": {
@@ -26014,6 +26039,11 @@
         "expiration_date": "22-may-2020",
         "state": "future"
     },
+    "charlesblock.mobi": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
     "charlesmatheson.com": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
@@ -29860,8 +29890,8 @@
         "state": "future"
     },
     "compuaidusa.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "compuok.cl": {
@@ -37604,6 +37634,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "dominoesdesigns.com": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
     "domisothi.id": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -41465,8 +41500,8 @@
         "state": "future"
     },
     "elfatehals.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "elfratia.com": {
@@ -42177,6 +42212,11 @@
     "empoweraccounting.com": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "emprayil.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "emprendamosjuntos.com": {
@@ -45419,6 +45459,11 @@
         "expiration_date": "26-aug-2021",
         "state": "future"
     },
+    "familydirect.net": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
     "familyfarma.it": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
@@ -46742,6 +46787,11 @@
     "finefettle.in": {
         "epoch": 1642636800.0,
         "expiration_date": "20-jan-2022",
+        "state": "future"
+    },
+    "fineprinters.co.uk": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "finestportfolioideas.com": {
@@ -52959,6 +53009,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "golfgearforkids.co.uk": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "golfgubbio.it": {
         "epoch": 1613174400.0,
         "expiration_date": "13-feb-2021",
@@ -58475,8 +58530,8 @@
         "state": "future"
     },
     "hospiexperts.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "hospitalnest.com": {
@@ -62720,8 +62775,8 @@
         "state": "future"
     },
     "inspatio.com": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "state": "future"
     },
     "inspiracionfemenina.com": {
@@ -63452,6 +63507,11 @@
     "investstlucia.com": {
         "epoch": 1661817600.0,
         "expiration_date": "30-aug-2022",
+        "state": "future"
+    },
+    "invinciman.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "invintur.com": {
@@ -64387,6 +64447,11 @@
     "itiukai.org": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "itknowhowhosting.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "itoito.ru": {
@@ -70794,6 +70859,11 @@
         "expiration_date": "11-jul-2021",
         "state": "future"
     },
+    "kontierungs-abc.info": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "kontrol-sistem.com": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -71772,6 +71842,11 @@
     "kyoka.fr": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "kyoto.com.br": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "kyrre.cn": {
@@ -73937,6 +74012,11 @@
     "letsdobath.co.uk": {
         "epoch": 1594166400.0,
         "expiration_date": "08-jul-2020",
+        "state": "future"
+    },
+    "letslearn.org.uk": {
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
         "state": "future"
     },
     "letsplaybasketball.com": {
@@ -80009,6 +80089,11 @@
         "expiration_date": "05-apr-2021",
         "state": "future"
     },
+    "maxway.com": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "state": "future"
+    },
     "maxweld.ro": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
@@ -80837,6 +80922,11 @@
     "medifast.com.sg": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "medihometown-usa.com": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "medikalhavuz.com": {
@@ -84054,6 +84144,11 @@
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
+    "monasteries.net": {
+        "epoch": 1662422400.0,
+        "expiration_date": "06-sep-2022",
+        "state": "future"
+    },
     "monde-gourmandises.net": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
@@ -85349,6 +85444,11 @@
         "expiration_date": "09-jan-2021",
         "state": "future"
     },
+    "mtrk.ru": {
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
+    },
     "mtsoft.net": {
         "epoch": 1584403200.0,
         "expiration_date": "17-mar-2020",
@@ -85367,6 +85467,11 @@
     "mttwtrack.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "mtvc.com.ar": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "mtzwear.com": {
@@ -92604,6 +92709,11 @@
         "expiration_date": "28-jan-2021",
         "state": "future"
     },
+    "os-fortuna.pl": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
     "osaprovados.com.br": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
@@ -93447,6 +93557,11 @@
     "paidforall.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "paigemduke.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "paihotel.in": {
@@ -94625,8 +94740,8 @@
         "state": "future"
     },
     "patrickhans.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "patrickramirezangels.com": {
@@ -94882,6 +94997,11 @@
     "paypal-secure-limited.com": {
         "epoch": 1617926400.0,
         "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
+    "paypal-secure-verification.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "paypal-secured.com": {
@@ -97174,6 +97294,11 @@
         "expiration_date": "31-mar-2021",
         "state": "future"
     },
+    "placewellretail.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "pladeso.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
@@ -98332,6 +98457,11 @@
     "porto-med.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "portofinoplazahotel.com.ve": {
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
         "state": "future"
     },
     "portosalte.com": {
@@ -100837,6 +100967,11 @@
     "puromundo.com": {
         "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
+        "state": "future"
+    },
+    "purple-monkey.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "purpleoak.co.in": {
@@ -105442,6 +105577,11 @@
     "robertperryop.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "robertsdvd.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "robertsofdalkey.com": {
@@ -113700,8 +113840,8 @@
         "state": "future"
     },
     "smsivam.com": {
-        "epoch": 1585699200.0,
-        "expiration_date": "01-apr-2020",
+        "epoch": 1680307200.0,
+        "expiration_date": "01-apr-2023",
         "state": "future"
     },
     "smsjosh.net": {
@@ -116370,8 +116510,8 @@
         "state": "future"
     },
     "stephaniersaberan.com": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1646352000.0,
+        "expiration_date": "04-mar-2022",
         "state": "future"
     },
     "stephanieseliskar.com": {
@@ -120504,6 +120644,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "techihuahua.org.mx": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "techincpo.club": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
@@ -122842,6 +122987,11 @@
     "theriverstoneproject.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "thermaltechinsulators.com": {
+        "epoch": 1831507200.0,
+        "expiration_date": "15-jan-2028",
         "state": "future"
     },
     "thermalthermostat.com": {
