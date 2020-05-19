@@ -15774,6 +15774,11 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "avonindustries.in": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "avontide.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
@@ -17575,8 +17580,8 @@
         "state": "future"
     },
     "barsracing.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "barterstore.it": {
@@ -17627,6 +17632,11 @@
     "baseballsperfectswing.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "baseballtivy.com": {
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "basebusiness.com.br": {
@@ -35404,6 +35414,11 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "cowboysandcowgirls.net": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "coworkingidea.com": {
         "epoch": 1625356800.0,
         "expiration_date": "04-jul-2021",
@@ -47039,6 +47054,11 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "elitepoolco.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
     "elitesquad-movie.com": {
         "epoch": 1599004800.0,
         "expiration_date": "02-sep-2020",
@@ -54610,8 +54630,8 @@
         "state": "future"
     },
     "fortuneprixgroup.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "fortuneshoes.com": {
@@ -58204,6 +58224,11 @@
         "expiration_date": "19-may-2022",
         "state": "future"
     },
+    "gestionale-orbit.it": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "gestionalesweethome.it": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
@@ -59200,8 +59225,8 @@
         "state": "future"
     },
     "globalcareerengine.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "globalchristiantrust.com": {
@@ -60617,6 +60642,11 @@
     "gqwhyjh.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "grabitcase.com": {
+        "epoch": 1644537600.0,
+        "expiration_date": "11-feb-2022",
         "state": "future"
     },
     "grabski-gallery.pl": {
@@ -70932,6 +70962,11 @@
     "inno-leader.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "innobo.se": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "innofaso.com": {
@@ -83389,6 +83424,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "leeplastic.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "leesangku.com": {
         "epoch": 1676505600.0,
         "expiration_date": "16-feb-2023",
@@ -84922,6 +84962,11 @@
     "line.co.cr": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "linehb.cn": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "lineka.cn": {
@@ -90157,6 +90202,11 @@
     "marypoppinscarpi.it": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "mas-des-ayres.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "mas-dmcc.com": {
@@ -113530,9 +113580,9 @@
         "state": "future"
     },
     "prosenectuteverona.it": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
-        "state": "past"
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
     },
     "proshopdirect.ca": {
         "epoch": 1601683200.0,
@@ -119317,6 +119367,11 @@
     "rivera.co.id": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "riverbendestate.co.za": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
         "state": "future"
     },
     "rivercountryproducts.com": {
@@ -140109,6 +140164,11 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "thomastimber.pl": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
+    },
     "thomaswyoung.me": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
@@ -145129,6 +145189,11 @@
         "expiration_date": "18-may-2021",
         "state": "future"
     },
+    "uniqueairgroup.co.za": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
     "uniqueasian.com": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
@@ -147412,6 +147477,11 @@
     "vfmedia.tv": {
         "epoch": 1617235200.0,
         "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "vgas.co.in": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "vgrace.ru": {
@@ -150975,8 +151045,8 @@
         "state": "future"
     },
     "wesole-nutki.pl": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "westamptonfire.org": {
